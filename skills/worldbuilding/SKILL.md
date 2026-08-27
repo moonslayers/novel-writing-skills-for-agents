@@ -1,968 +1,753 @@
+[file name]: ---.txt
+[file content begin]
 ---
 name: worldbuilding
-description: 用于构建、整理、扩写和优化小说、游戏、剧本、TRPG、轻小说等作品的世界观设定。适用于世界规则、力量体系、历史背景、组织结构、种族文明、地理环境、社会制度、核心冲突和隐藏真相等内容的设计。
+description: Habilidad para construir, organizar, expandir y optimizar ajustes de mundo para novelas, juegos, guiones, TRPG, novelas ligeras y otras obras. Adecuada para el diseño de reglas del mundo, sistemas de poder, trasfondo histórico, estructuras organizativas, civilizaciones y razas, entornos geográficos, sistemas sociales, conflictos centrales y verdades ocultas.
 ---
 
-# Worldbuilding Skill
+# Habilidad de Construcción de Mundo
 
-## 目标
+## Objetivo
 
-帮助用户构建完整、统一、有叙事价值的世界观设定。
+Ayudar al usuario a construir un ajuste de mundo completo, coherente y con valor narrativo.
 
-重点不是堆砌名词，而是让世界观能够服务于故事、人物和冲突。
+El objetivo no es acumular nombres y términos, sino lograr que el mundo sirva a la historia, los personajes y el conflicto.
 
-优秀的世界观应当具备：
+Un buen mundo debe tener:
 
-- 清晰的核心概念
-- 稳定的运行规则
-- 与人物命运相关的矛盾
-- 能推动剧情的冲突来源
-- 有层次的历史背景
-- 有代价的力量体系
-- 有隐藏真相或深层问题
-- 能让读者产生探索欲
-
----
-
-## 适用场景
-
-当用户提出以下需求时，应启用本 skill：
-
-- 设计一个世界观
-- 整理已有设定
-- 扩写世界背景
-- 设计魔法体系、异能体系、科技体系
-- 设计国家、组织、种族、宗教、城市
-- 设计世界历史和重大事件
-- 设计主线冲突和隐藏真相
-- 检查世界观是否自洽
-- 将零散设定整理成设定表
-- 为小说、游戏、轻小说、剧本创建背景设定
+- Un concepto central claro.
+- Reglas de funcionamiento estables.
+- Conflictos relacionados con el destino de los personajes.
+- Fuentes de conflicto que impulsen la trama.
+- Un trasfondo histórico con capas.
+- Un sistema de poder con costo.
+- Verdades ocultas o problemas profundos.
+- Capacidad para despertar el deseo de exploración en el lector.
 
 ---
 
-## 基本原则
+## Cuándo usar esta habilidad
 
-### 1. 世界观要服务故事
+Esta habilidad debe activarse cuando el usuario solicite:
 
-不要为了复杂而复杂。
-
-每个设定都应回答至少一个问题：
-
-- 它会影响主角吗？
-- 它会制造冲突吗？
-- 它会推动剧情吗？
-- 它会改变人物选择吗？
-- 它会让世界更有真实感吗？
-
-无关紧要的设定可以简化。
+- Diseñar un mundo.
+- Organizar ajustes existentes.
+- Ampliar el trasfondo del mundo.
+- Diseñar sistemas mágicos, de habilidades o tecnológicos.
+- Diseñar naciones, organizaciones, razas, religiones o ciudades.
+- Diseñar la historia del mundo y eventos importantes.
+- Diseñar el conflicto principal y las verdades ocultas.
+- Verificar la coherencia del mundo.
+- Convertir ajustes dispersos en una tabla de referencia.
+- Crear un trasfondo para novelas, juegos, novelas ligeras o guiones.
 
 ---
 
-### 2. 先确定核心概念
+## Principios fundamentales
 
-构建世界观前，先明确这个世界最核心的独特之处。
+### 1. El mundo debe servir a la historia
 
-例如：
+No se debe ser complejo por complejidad.
+
+Cada ajuste debe responder al menos a una pregunta:
+
+- ¿Afecta al protagonista?
+- ¿Genera conflicto?
+- ¿Impulsa la trama?
+- ¿Cambia las decisiones del personaje?
+- ¿Hace el mundo más verosímil?
+
+Los ajustes irrelevantes pueden simplificarse.
+
+---
+
+### 2. Define primero el concepto central
+
+Antes de construir el mundo, define su rasgo más distintivo.
+
+Por ejemplo:
 
 ```text
-
-这个世界中，人的记忆可以作为货币交易。
-
+En este mundo, los recuerdos de las personas pueden usarse como moneda de cambio.
 ```
 
-或：
+O:
 
 ```text
-
-魔法并不是奇迹，而是从未来借来的灾难。
-
+La magia no es un milagro, sino un desastre tomado del futuro.
 ```
 
-或：
+O:
 
 ```text
-
-神明真实存在，但它们只回应即将死去的人。
-
+Los dioses existen realmente, pero solo responden a quienes están a punto de morir.
 ```
 
-核心概念应当足够清晰，能够支撑后续设定展开。
+El concepto central debe ser lo suficientemente claro como para sostener el desarrollo posterior del ajuste.
 
 ---
 
-### 3. 规则必须有代价
+### 3. Las reglas deben tener un costo
 
-力量、魔法、科技、契约、奇迹都不应是免费的。
+El poder, la magia, la tecnología, los contratos y los milagros no deben ser gratuitos.
 
-每种特殊能力都应包含：
+Toda habilidad especial debe incluir:
 
-- 使用条件
-- 使用限制
-- 使用代价
-- 失败后果
-- 滥用风险
+- Condiciones de uso.
+- Limitaciones de uso.
+- Coste de uso.
+- Consecuencias del fracaso.
+- Riesgos del abuso.
 
-例如：
+Por ejemplo:
 
 ```text
-
-魔法可以治愈伤口，但会转移痛苦。
-
-被治愈者忘记疼痛，施术者替他记住。
-
+La magia puede curar heridas, pero transfiere el dolor.
+El paciente olvida el dolor; el hechicero lo recuerda en su lugar.
 ```
 
-代价越具体，冲突越自然。
+Cuanto más concreto sea el coste, más natural será el conflicto.
 
 ---
 
-### 4. 世界要有矛盾
+### 4. El mundo debe tener contradicciones
 
-没有矛盾的世界很难产生故事。
+Un mundo sin contradicciones difícilmente genera historias.
 
-常见矛盾包括：
+Las contradicciones más comunes incluyen:
 
-- 资源稀缺
-- 阶级压迫
-- 信仰冲突
-- 科技失控
-- 魔法污染
-- 历史谎言
-- 种族隔阂
-- 组织腐败
-- 个人幸福与世界稳定冲突
-- 真相与秩序冲突
+- Escasez de recursos.
+- Opresión de clases.
+- Conflictos de fe.
+- Tecnología fuera de control.
+- Contaminación mágica.
+- Mentiras históricas.
+- División entre razas.
+- Corrupción organizativa.
+- Conflicto entre la felicidad individual y la estabilidad mundial.
+- Conflicto entre la verdad y el orden.
 
-世界观的核心矛盾应当与主角命运产生联系。
-
----
-
-### 5. 不要一次性解释全部
-
-如果世界观用于小说，应避免说明书式设定。
-
-设定可以通过以下方式逐步呈现：
-
-- 主角日常生活
-- 战斗或危机
-- 学校课程或训练
-- 组织任务
-- 民间传说
-- 禁忌档案
-- 历史遗迹
-- 敌人的话
-- 普通人的生活细节
-
-世界观应像冰山一样，正文只露出必要部分。
+La contradicción central del mundo debe estar vinculada al destino del protagonista.
 
 ---
 
-## 世界观生成流程
+### 5. No expliques todo de una vez
 
-### 第一步：确定世界类型
+Si el mundo se usa para una novela, evita la exposición tipo manual.
 
-先判断世界属于哪一类：
+Los ajustes pueden presentarse gradualmente a través de:
 
-- 现实基础上的都市奇幻
-- 架空大陆
-- 异世界
-- 赛博朋克
-- 后末日
-- 魔法少女世界
-- 科幻未来
-- 神话幻想
-- 校园异能
-- 黑暗奇幻
-- 蒸汽朋克
-- 近未来反乌托邦
+- La vida cotidiana del protagonista.
+- Combates o crisis.
+- Clases o entrenamientos.
+- Misiones de una organización.
+- Leyendas populares.
+- Archivos prohibidos.
+- Ruinas históricas.
+- Palabras del enemigo.
+- Detalles de la vida de la gente común.
 
-如果用户没有指定，应根据题材自动选择最合适的类型。
+El mundo debe ser como un iceberg: solo se muestra la parte necesaria en el texto.
 
 ---
 
-### 第二步：提炼核心设定
+## Proceso de generación del mundo
 
-用一句话概括世界的核心。
+### Paso 1: Determinar el tipo de mundo
 
-格式：
+Primero, identifica a qué categoría pertenece el mundo:
+
+- Fantasía urbana con base realista.
+- Continente ficticio.
+- Otro mundo.
+- Cyberpunk.
+- Postapocalíptico.
+- Mundo de chicas mágicas.
+- Futuro de ciencia ficción.
+- Fantasía mitológica.
+- Habilidades en la escuela.
+- Fantasía oscura.
+- Steampunk.
+- Distopía de futuro cercano.
+
+Si el usuario no lo especifica, elige automáticamente el tipo más adecuado según el género.
+
+---
+
+### Paso 2: Extraer el ajuste central
+
+Resume el núcleo del mundo en una frase.
+
+Formato:
 
 ```text
-
-这是一个【核心异常】改变了【社会 / 人类 / 世界运行方式】的世界。
-
+Este es un mundo donde [anomalía central] ha cambiado [la sociedad / la humanidad / el funcionamiento del mundo].
 ```
 
-示例：
+Ejemplo:
 
 ```text
-
-这是一个“梦境会泄漏到现实”的世界，因此城市中出现了专门清理梦灾的组织。
-
+Este es un mundo donde "los sueños se filtran a la realidad", por lo que han surgido organizaciones que limpian los desastres oníricos en las ciudades.
 ```
 
 ---
 
-### 第三步：建立基本规则
+### Paso 3: Establecer las reglas básicas
 
-至少回答：
+Responde al menos a:
 
-- 这个世界和现实有什么不同？
-- 特殊力量从哪里来？
-- 谁能使用这种力量？
-- 普通人知道真相吗？
-- 世界如何维持秩序？
-- 违反规则会怎样？
-- 这套规则有什么漏洞？
+- ¿En qué se diferencia este mundo de la realidad?
+- ¿De dónde provienen los poderes especiales?
+- ¿Quién puede usarlos?
+- ¿La gente común sabe la verdad?
+- ¿Cómo se mantiene el orden?
+- ¿Qué ocurre si se violan las reglas?
+- ¿Qué fallas tiene este sistema de reglas?
 
 ---
 
-### 第四步：设计历史背景
+### Paso 4: Diseñar el trasfondo histórico
 
-历史不需要太长，但要有关键事件。
+La historia no necesita ser larga, pero debe tener eventos clave.
 
-推荐结构：
+Estructura recomendada:
 
 ```text
-
-远因：世界异常的起源
+Causa remota: origen de la anomalía.
 
 ↓
 
-转折：某次灾难或战争改变秩序
+Giro: una catástrofe o guerra cambia el orden.
 
 ↓
 
-现状：新的制度形成
+Presente: se forma un nuevo sistema.
 
 ↓
 
-隐患：旧问题没有真正解决
+Amenaza latente: el viejo problema no se ha resuelto realmente.
 
 ↓
 
-主线：主角卷入隐患爆发
-
+Trama principal: el protagonista se ve envuelto en el estallido de la amenaza.
 ```
 
 ---
 
-### 第五步：设计势力结构
+### Paso 5: Diseñar la estructura de poder
 
-一个有故事性的世界通常需要多个势力。
+Un mundo con potencial narrativo suele necesitar múltiples facciones.
 
-每个势力应包含：
+Cada facción debe incluir:
 
-- 名称
-- 表面目标
-- 真正目的
-- 资源或权力来源
-- 与主角的关系
-- 内部矛盾
-- 代表人物
+- Nombre.
+- Objetivo declarado.
+- Verdadero propósito.
+- Fuente de recursos o poder.
+- Relación con el protagonista.
+- Conflictos internos.
+- Representantes destacados.
 
-势力之间最好不是简单正邪关系，而是价值观不同。
-
----
-
-### 第六步：设计社会影响
-
-特殊设定必须改变普通人的生活。
-
-例如，若世界存在魔法，应考虑：
-
-- 学校是否教授魔法？
-- 政府如何管理魔法？
-- 普通人是否害怕魔法师？
-- 魔法是否影响医疗、战争、交通、娱乐？
-- 是否有黑市？
-- 是否有歧视？
-- 是否有相关法律？
-
-世界观越能影响日常，越真实。
+Lo mejor es que las facciones no sean simplemente buenas o malas, sino que tengan valores diferentes.
 
 ---
 
-### 第七步：设计主线冲突
+### Paso 6: Diseñar el impacto social
 
-世界观最终要落到剧情。
+El ajuste especial debe cambiar la vida de la gente común.
 
-推荐格式：
+Por ejemplo, si existe magia, considera:
+
+- ¿Se enseña en las escuelas?
+- ¿Cómo la controla el gobierno?
+- ¿La gente común teme a los magos?
+- ¿Afecta la magia a la sanidad, la guerra, el transporte o el ocio?
+- ¿Hay mercado negro?
+- ¿Hay discriminación?
+- ¿Hay leyes al respecto?
+
+Cuanto más afecte el mundo a la vida cotidiana, más verosímil será.
+
+---
+
+### Paso 7: Diseñar el conflicto principal
+
+El mundo debe desembocar finalmente en la trama.
+
+Formato recomendado:
 
 ```text
+Conflicto superficial:
+El problema directo que el protagonista está enfrentando.
 
-表层冲突：
+Conflicto profundo:
+El problema causado por la estructura del mundo o su historia oculta.
 
-主角正在面对的直接问题。
-
-
-
-深层冲突：
-
-世界制度或历史真相导致的问题。
-
-
-
-终极冲突：
-
-主角必须在个人愿望与世界规则之间做出的选择。
-
+Conflicto definitivo:
+La elección que el protagonista debe hacer entre su deseo personal y las reglas del mundo.
 ```
 
 ---
 
-## 输出格式
+## Formato de salida
 
-如果用户要求完整世界观设定，默认使用：
+Si el usuario solicita un ajuste completo del mundo, por defecto se usa:
 
 ```markdown
+# Ajuste del mundo
 
-\# 世界观设定
+## 1. Concepto central
 
+## 2. Fundamentos del mundo
 
+## 3. Trasfondo histórico
 
-\## 一、核心概念
+## 4. Sistema de poder
 
+## 5. Estructura social
 
+## 6. Principales facciones
 
-\## 二、世界基础
+## 7. Geografía y lugares importantes
 
+## 8. Conflicto central
 
+## 9. Verdad oculta
 
-\## 三、历史背景
-
-
-
-\## 四、力量体系
-
-
-
-\## 五、社会结构
-
-
-
-\## 六、主要势力
-
-
-
-\## 七、地理与重要地点
-
-
-
-\## 八、核心冲突
-
-
-
-\## 九、隐藏真相
-
-
-
-\## 十、剧情可用方向
-
+## 10. Direcciones argumentales posibles
 ```
 
 ---
 
-## 世界观设定表模板
+## Plantilla de tabla de ajustes del mundo
 
 ```markdown
+# Tabla de ajustes del mundo
 
-\# 世界观设定表
+## 1. Resumen del mundo
 
+### 1.1. Tipo de mundo
+### 1.2. Época histórica
+### 1.3. Anomalía central
+### 1.4. Ambiente general
 
+## 2. Reglas fundamentales
 
-\## 一、世界概述
+### 2.1. Reglas básicas
+### 2.2. Fuente de poderes especiales
+### 2.3. Condiciones de uso
+### 2.4. Límites y costes
+### 2.5. Prohibiciones
 
+## 3. Trasfondo histórico
 
+### 3.1. Evento de origen
+### 3.2. Hitos históricos clave
+### 3.3. Grandes catástrofes o guerras
+### 3.4. Situación actual de la era
+### 3.5. Historia oculta o silenciada
 
-\### 1. 世界类型
+## 4. Estructura social
 
-\### 2. 时代背景
+### 4.1. Vida de la gente común
+### 4.2. Gobierno o administración
+### 4.3. Sistema educativo
+### 4.4. Leyes y prohibiciones
+### 4.5. Diferencias de clase o estatus
 
-\### 3. 核心异常
+## 5. Principales facciones
 
-\### 4. 整体氛围
+### 5.1. Nombre de la facción
+- Objetivo declarado:
+- Propósito real:
+- Fuente de recursos:
+- Representante:
+- Relación con el protagonista:
+- Conflictos internos:
 
+## 6. Geografía y escenarios
 
+### 6.1. Ciudades principales
+### 6.2. Zonas prohibidas
+### 6.3. Escuelas o bases organizativas
+### 6.4. Zonas de combate frecuente
+### 6.5. Lugares simbólicos
 
-\## 二、核心规则
+## 7. Conflicto central
 
+### 7.1. Conflicto superficial
+### 7.2. Conflicto profundo
+### 7.3. Conflicto definitivo
 
+## 8. Verdad oculta
 
-\### 1. 基础规则
+### 8.1. Verdadero origen del mundo
+### 8.2. Hechos ocultos
+### 8.3. Relación del protagonista con la verdad
+### 8.4. Consecuencias de revelar la verdad
 
-\### 2. 特殊力量来源
+## 9. Ganchos argumentales
 
-\### 3. 使用条件
+### 9.1. Evento inicial
+### 9.2. Giro en el desarrollo
+### 9.3. Crisis final
+### 9.4. Elección definitiva
 
-\### 4. 限制与代价
-
-\### 5. 禁忌事项
-
-
-
-\## 三、历史背景
-
-
-
-\### 1. 起源事件
-
-\### 2. 关键历史节点
-
-\### 3. 重大灾难或战争
-
-\### 4. 当前时代现状
-
-\### 5. 被掩盖的历史
-
-
-
-\## 四、社会结构
-
-
-
-\### 1. 普通人的生活
-
-\### 2. 政府或管理机构
-
-\### 3. 教育制度
-
-\### 4. 法律与禁令
-
-\### 5. 阶级或身份差异
-
-
-
-\## 五、主要势力
-
-
-
-\### 1. 势力名称
-
-\- 表面目标：
-
-\- 真正目的：
-
-\- 资源来源：
-
-\- 代表人物：
-
-\- 与主角关系：
-
-\- 内部矛盾：
-
-
-
-\## 六、地理与场景
-
-
-
-\### 1. 主要城市
-
-\### 2. 禁区
-
-\### 3. 学校或组织据点
-
-\### 4. 战斗高发区域
-
-\### 5. 象征性地点
-
-
-
-\## 七、核心冲突
-
-
-
-\### 1. 表层冲突
-
-\### 2. 深层冲突
-
-\### 3. 终极冲突
-
-
-
-\## 八、隐藏真相
-
-
-
-\### 1. 世界真正的起源
-
-\### 2. 被隐瞒的事实
-
-\### 3. 主角与真相的关系
-
-\### 4. 真相揭露后的后果
-
-
-
-\## 九、剧情钩子
-
-
-
-\### 1. 开篇事件
-
-\### 2. 中期转折
-
-\### 3. 后期危机
-
-\### 4. 最终选择
-
-
-
-\## 十、主题表达
-
+## 10. Expresión del tema
 ```
 
 ---
 
-## 力量体系设计规则
+## Reglas para diseñar sistemas de poder
 
-力量体系必须清楚、有边界、有代价。
+Un sistema de poder debe ser claro, tener límites y costes.
 
-### 必须包含
+### Debe incluir
 
-- 力量名称
-- 力量来源
-- 使用方式
-- 适用范围
-- 成长方式
-- 使用代价
-- 失控后果
-- 社会评价
-- 与主线真相的关系
+- Nombre del poder.
+- Fuente del poder.
+- Modo de uso.
+- Alcance de aplicación.
+- Forma de desarrollo.
+- Coste de uso.
+- Consecuencias de perder el control.
+- Valoración social.
+- Relación con la verdad central de la trama.
 
-### 示例结构
+### Estructura de ejemplo
 
 ```markdown
+## Sistema de poder: Arte de las Cicatrices Estelares
 
-\## 力量体系：星痕术
+### 1. Origen
+El Arte de las Cicatrices Estelares proviene de los restos de estrellas caídos en el mundo.
 
+### 2. Condición de uso
+Solo quienes poseen una cicatriz estelar en su cuerpo pueden usarlo.
 
+### 3. Capacidades
+El usuario puede reescribir brevemente las leyes físicas locales.
 
-\### 1. 来源
+### 4. Coste
+Cada uso hace que el usuario olvide un recuerdo verdadero.
 
-星痕术来自坠落在世界各地的星骸。
+### 5. Prohibición
+Está prohibido reescribir el mismo espacio más de tres veces seguidas, o se creará una grieta permanente en el espacio.
 
-
-
-\### 2. 使用条件
-
-只有身体中存在星痕的人才能使用。
-
-
-
-\### 3. 能力表现
-
-使用者可以短暂改写局部物理规则。
-
-
-
-\### 4. 代价
-
-每次使用都会让使用者遗忘一段真实记忆。
-
-
-
-\### 5. 禁忌
-
-禁止连续三次以上改写同一空间，否则空间会产生永久裂缝。
-
-
-
-\### 6. 隐藏真相
-
-星痕并非祝福，而是世界崩坏前留下的伤口。
-
+### 6. Verdad oculta
+Las cicatrices estelares no son una bendición, sino heridas dejadas por el colapso del mundo.
 ```
 
 ---
 
-## 历史设定规则
+## Reglas para el diseño histórico
 
-历史应当为现在的冲突提供原因。
+La historia debe proporcionar razones para el conflicto actual.
 
-不要写无关年表。
+No escribas una cronología irrelevante.
 
-推荐使用：
+Estructura recomendada:
 
 ```markdown
+## Línea temporal histórica
 
-\## 历史时间线
+### Era antigua
+El estado original del mundo.
 
+### Aparición de la anomalía
+Primera manifestación de la anomalía central.
 
+### Período de catástrofes
+La humanidad o la civilización sufren un gran golpe.
 
-\### 旧时代
+### Reconstrucción del orden
+Se forman organizaciones, naciones y sistemas.
 
-世界原本的状态。
+### Paz falsa
+Estabilidad superficial, pero los problemas están ocultos.
 
-
-
-\### 异变发生
-
-核心异常首次出现。
-
-
-
-\### 灾难时期
-
-人类或文明遭受重大打击。
-
-
-
-\### 秩序重建
-
-组织、国家、制度形成。
-
-
-
-\### 虚假和平
-
-表面稳定，但问题被掩盖。
-
-
-
-\### 故事开始
-
-主角卷入被掩盖的问题。
-
+### Comienzo de la historia
+El protagonista se ve envuelto en el problema oculto.
 ```
 
 ---
 
-## 势力设定规则
+## Reglas para el diseño de facciones
 
-每个势力都应有合理立场。
+Cada facción debe tener una postura razonable.
 
-不要只写：
-
-```text
-
-正义组织
-
-邪恶组织
-
-```
-
-应写成：
+No escribas simplemente:
 
 ```text
-
-他们表面上保护城市，实际上在牺牲少数人维持秩序。
-
-他们不是单纯邪恶，而是相信“少数人的痛苦可以换来多数人的安宁”。
-
+Organización del bien.
+Organización del mal.
 ```
 
-势力设计应包含价值观冲突。
+Debe quedar así:
 
-常见价值观冲突：
+```text
+Ellos protegen la ciudad en apariencia, pero en realidad sacrifican a unos pocos para mantener el orden.
+No son simplemente malvados; creen que "el sufrimiento de unos pocos puede traer la paz a la mayoría".
+```
 
-- 自由 vs 秩序
-- 真相 vs 稳定
-- 个人幸福 vs 集体安全
-- 牺牲少数 vs 拯救所有人
-- 继承传统 vs 打破规则
-- 接受命运 vs 反抗命运
+El diseño de facciones debe incluir conflictos de valores.
+
+Conflictos de valores comunes:
+
+- Libertad vs. orden.
+- Verdad vs. estabilidad.
+- Felicidad individual vs. seguridad colectiva.
+- Sacrificar a unos pocos vs. salvar a todos.
+- Mantener la tradición vs. romper las reglas.
+- Aceptar el destino vs. rebelarse contra él.
 
 ---
 
-## 地理与场景设计规则
+## Reglas para el diseño de geografía y escenarios
 
-地点不只是地图名称，要有叙事功能。
+Los lugares no son solo nombres en un mapa; deben tener función narrativa.
 
-每个重要地点应包含：
+Cada lugar importante debe incluir:
 
-- 外观氛围
-- 社会功能
-- 隐藏秘密
-- 与主角的关系
-- 可能发生的剧情
+- Apariencia y atmósfera.
+- Función social.
+- Secreto oculto.
+- Relación con el protagonista.
+- Posibles eventos.
 
-示例：
+Ejemplo:
 
 ```markdown
+### Torre del Reloj Vieja
 
-\### 旧钟塔
+Torre del reloj abandonada durante años en el centro de la ciudad.
 
+En apariencia, un edificio peligroso y prohibido; en realidad, el lugar donde ocurrió la primera anomalía mundial.
 
-
-城市中心废弃多年的钟塔。
-
-
-
-表面上是禁止进入的危险建筑，实际上是第一次世界异常发生的地点。
-
-
-
-每到凌晨三点，钟塔会响起不存在的第十三声钟声，听见钟声的人会短暂看见自己未来的死亡。
-
+Cada noche a las tres de la madrugada, la torre hace sonar una decimotercera campanada inexistente. Quien la escucha vislumbra brevemente su propia muerte futura.
 ```
 
 ---
 
-## 隐藏真相设计规则
+## Reglas para el diseño de verdades ocultas
 
-隐藏真相应与前期设定呼应。
+La verdad oculta debe resonar con el ajuste previo.
 
-不要为了反转而反转。
+No se debe hacer una revelación solo por el impacto.
 
-好的隐藏真相应满足：
+Una buena verdad oculta debe cumplir:
 
-- 能解释前期异常
-- 能改变主角对世界的理解
-- 能迫使主角做出选择
-- 能与主题相关
-- 揭露后让前文伏笔成立
+- Explicar las anomalías previas.
+- Cambiar la comprensión del mundo por parte del protagonista.
+- Obligar al protagonista a tomar una decisión.
+- Estar relacionada con el tema.
+- Hacer que los indicios previos cobren sentido al revelarse.
 
-推荐结构：
+Estructura recomendada:
 
 ```text
+Ajuste superficial:
+Lo que la gente siempre ha creído como cierto.
 
-表面设定：
+Indicios de anomalía:
+Pequeños detalles que contradicen el ajuste superficial.
 
-人们一直相信的事实。
+Sospecha en el desarrollo:
+El protagonista descubre que las reglas no son razonables.
 
+Revelación de la verdad:
+Aparece la verdadera forma de funcionamiento del mundo.
 
-
-异常线索：
-
-与表面设定矛盾的小细节。
-
-
-
-中期怀疑：
-
-主角发现规则不合理。
-
-
-
-真相揭露：
-
-世界真正的运行方式出现。
-
-
-
-最终选择：
-
-主角必须决定是否打破这个世界规则。
-
+Elección definitiva:
+El protagonista debe decidir si rompe o no esta regla del mundo.
 ```
 
 ---
 
-## 世界观自洽检查
+## Verificación de coherencia del mundo
 
-生成或整理世界观后，应检查：
+Tras generar u organizar un mundo, comprueba:
 
-- 核心设定是否清楚
-- 力量体系是否有边界
-- 代价是否足够明确
-- 普通人生活是否受到影响
-- 历史是否能解释现状
-- 势力是否有合理动机
-- 主线冲突是否来自世界规则
-- 隐藏真相是否与前文呼应
-- 是否存在明显逻辑漏洞
-- 是否有太多无用名词
-- 是否能支持具体剧情
+- ¿El ajuste central es claro?
+- ¿El sistema de poder tiene límites?
+- ¿El coste está suficientemente definido?
+- ¿La vida de la gente común se ve afectada?
+- ¿La historia explica el presente?
+- ¿Las facciones tienen motivaciones razonables?
+- ¿El conflicto principal surge de las reglas del mundo?
+- ¿La verdad oculta conecta con lo anterior?
+- ¿Hay lagunas lógicas evidentes?
+- ¿Hay demasiados términos inútiles?
+- ¿Puede sostener una trama concreta?
 
 ---
 
-## 常见问题修正
+## Corrección de problemas comunes
 
-### 问题一：设定太空泛
+### Problema 1: Ajuste demasiado vago
 
-错误：
+Incorrecto:
 
 ```text
-
-这是一个充满魔法与冒险的世界。
-
+Este es un mundo lleno de magia y aventuras.
 ```
 
-修正：
+Corrección:
 
 ```text
-
-这是一个所有魔法都必须以“失去某段记忆”为代价的世界，因此魔法师越强大，越接近失去自我。
-
+Este es un mundo donde toda magia debe pagarse con "la pérdida de un recuerdo", así que cuanto más poderoso es un mago, más cerca está de perder su identidad.
 ```
 
 ---
 
-### 问题二：力量没有代价
+### Problema 2: Poder sin coste
 
-错误：
+Incorrecto:
 
 ```text
-
-主角可以无限使用火焰魔法。
-
+El protagonista puede usar magia de fuego sin límites.
 ```
 
-修正：
+Corrección:
 
 ```text
-
-主角可以使用火焰魔法，但每次点燃火焰，都会烧掉自己与某个人之间的一段情感联系。
-
+El protagonista puede usar magia de fuego, pero cada vez que enciende el fuego, quema un vínculo emocional con alguien.
 ```
 
 ---
 
-### 问题三：组织太脸谱化
+### Problema 3: Organizaciones estereotipadas
 
-错误：
+Incorrecto:
 
 ```text
-
-黑暗教团想毁灭世界。
-
+La Cofradía Oscura quiere destruir el mundo.
 ```
 
-修正：
+Corrección:
 
 ```text
-
-黑暗教团相信这个世界本身就是一场不断重复的痛苦轮回，因此他们想毁灭世界，并不是为了混乱，而是为了终止所有人的命运循环。
-
+La Cofradía Oscura cree que este mundo es un ciclo de sufrimiento que se repite sin cesar, por lo que quieren destruirlo no por el caos, sino para poner fin al ciclo del destino de todos.
 ```
 
 ---
 
-### 问题四：历史与剧情无关
+### Problema 4: Historia desconectada de la trama
 
-错误：
+Incorrecto:
 
 ```text
-
-一千年前有一场大战。
-
+Hace mil años hubo una gran guerra.
 ```
 
-修正：
+Corrección:
 
 ```text
-
-一千年前的大战并没有结束，而是被封存在城市地下。如今主角所在的学校正建在封印最薄弱的位置。
-
+La gran guerra de hace mil años no terminó realmente, sino que fue sellada bajo la ciudad. Hoy, la escuela del protagonista está construida sobre el punto más débil del sello.
 ```
 
 ---
 
-## 与人物设定的关系
+## Relación con el diseño de personajes
 
-世界观不应脱离人物。
+El mundo no debe separarse de los personajes.
 
-设计世界观时，应同步考虑：
+Al diseñar el mundo, considera también:
 
-- 主角为什么会被这个世界选中？
-- 主角的痛苦是否来自世界规则？
-- 主角的愿望是否会挑战世界秩序？
-- 反派是否代表世界的另一种答案？
-- 配角是否体现不同阶层或立场？
-- 最终结局是否改变世界规则？
+- ¿Por qué el protagonista es elegido por este mundo?
+- ¿El sufrimiento del protagonista proviene de las reglas del mundo?
+- ¿El deseo del protagonista desafiará el orden del mundo?
+- ¿El antagonista representa otra respuesta del mundo?
+- ¿Los personajes secundarios muestran diferentes clases o posturas?
+- ¿El final cambiará las reglas del mundo?
 
 ---
 
-## 与剧情设计的关系
+## Relación con el diseño de la trama
 
-世界观应产生剧情，而不是只作为背景。
+El mundo debe generar trama, no ser solo un trasfondo.
 
-推荐关系：
+Relación recomendada:
 
 ```text
-
-世界规则
-
+Reglas del mundo
 ↓
-
-导致社会矛盾
-
+Generan contradicciones sociales
 ↓
-
-社会矛盾影响人物命运
-
+Las contradicciones afectan el destino de los personajes
 ↓
-
-人物做出选择
-
+Los personajes toman decisiones
 ↓
-
-选择推动剧情
-
+Las decisiones impulsan la trama
 ↓
-
-剧情揭露世界真相
-
+La trama revela la verdad del mundo
 ↓
-
-真相反过来改变人物
-
+La verdad cambia a los personajes
 ```
 
 ---
 
-## 输出风格
+## Estilo de salida
 
-默认输出应：
+La salida por defecto debe ser:
 
-- 条理清晰
-- 使用 markdown 标题
-- 信息密度适中
-- 不堆砌无意义专有名词
-- 设定之间有因果关系
-- 兼顾故事性和可用性
-- 适合直接用于小说或游戏创作
-
----
-
-## 禁止事项
-
-不要：
-
-- 只堆设定名词
-- 生成无法用于剧情的空泛背景
-- 让力量体系没有限制
-- 让历史与主线无关
-- 让组织只有正邪标签
-- 让隐藏真相与前文无关
-- 一次性解释过多无用细节
-- 忽视普通人的生活
-- 忽视主角与世界观的关系
-- 生成互相矛盾的规则
+- Clara y organizada.
+- Usar títulos de markdown.
+- Densidad de información adecuada.
+- Sin acumulación innecesaria de términos inventados.
+- Con relaciones causales entre los ajustes.
+- Equilibrada entre narrativa y utilidad.
+- Adecuada para su uso directo en novelas o juegos.
 
 ---
 
-## 默认倾向
+## Prohibiciones
 
-当用户没有额外说明时，默认：
+No hagas:
 
-- 使用中文
-- 输出 markdown 格式
-- 偏小说 / 轻小说 / 游戏企划可用设定
-- 世界观有核心异常
-- 力量体系有代价
-- 社会结构受核心异常影响
-- 至少包含一个隐藏真相
-- 至少包含三个可用剧情钩子
-- 不写得过于空泛
-- 不只给概念，要给可直接使用的设定
+- Solo acumular nombres de ajustes.
+- Generar trasfondos vacíos que no puedan usarse en la trama.
+- Sistemas de poder sin límites.
+- Historias sin relación con la trama principal.
+- Organizaciones con solo etiquetas de bueno o malo.
+- Verdades ocultas que no conecten con lo anterior.
+- Explicar demasiados detalles inútiles de una vez.
+- Ignorar la vida de la gente común.
+- Ignorar la relación del protagonista con el mundo.
+- Generar reglas contradictorias.
 
 ---
 
-## 最终目标
+## Orientación predeterminada
 
-这个 skill 的目标是让 agent 能够生成真正可用于创作的世界观。
+Cuando el usuario no indique lo contrario, por defecto:
 
-它应帮助用户得到一个：
+- Usa el español.
+- Salida en formato markdown.
+- Orientado a novelas, novelas ligeras o juegos.
+- El mundo tiene una anomalía central.
+- El sistema de poder tiene coste.
+- La estructura social está afectada por la anomalía central.
+- Incluye al menos una verdad oculta.
+- Incluye al menos tres ganchos argumentales utilizables.
+- No sea demasiado vago.
+- No solo dé conceptos, sino ajustes directamente utilizables.
 
-- 有规则
-- 有历史
-- 有冲突
-- 有势力
-- 有地点
-- 有秘密
-- 有剧情钩子
-- 有人物命运关联
-- 能继续扩写成小说、游戏或剧本的世界设定
+---
+
+## Objetivo final
+
+El objetivo de esta habilidad es que el agente pueda generar mundos realmente útiles para la creación.
+
+Debe ayudar al usuario a obtener un ajuste que tenga:
+
+- Reglas.
+- Historia.
+- Conflicto.
+- Facciones.
+- Lugares.
+- Secretos.
+- Ganchos argumentales.
+- Relación con el destino de los personajes.
+- Capacidad de seguir expandiéndose en una novela, juego o guion.
+[file content end]
