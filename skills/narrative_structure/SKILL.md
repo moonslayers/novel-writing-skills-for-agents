@@ -1,237 +1,274 @@
-# 叙事结构与剧情编排 Skill
+---
+name: narrative_structure_and_plotting
+description: Diseño y optimización del esqueleto narrativo general de una novela, asegurando que la estructura de la historia sea completa, el ritmo adecuado, los presagios se recuperen de manera ordenada y las subtramas se integren orgánicamente.
+---
 
-设计和优化小说的整体叙事骨架，确保故事结构完整、节奏得当、伏笔有序回收、支线有机融合。
+# Narrative Structure & Plotting Skill
 
 ## Core Principles
 
-1. **结构服务于情感** — 好的结构让读者在对的时间感受到对的情绪。结构不是公式，是情绪的骨架
-2. **先有骨架再填肉** — 在写正文之前，确认整体结构：从哪里开始、在哪里转折、在哪里高潮、在哪里结束
-3. **伏笔是契约** — 埋下的伏笔就是对读者的承诺，必须回收。未回收的伏笔是信誉损失
-4. **支线必须有功能** — 每条副线都应该：推进主线、深化主题、发展角色，至少满足其中一项
-5. **节奏是呼吸** — 紧张之后需要放松，日常之后才能爆发。没有松弛的高潮等于没有高潮
+1. **La estructura sirve a la emoción** — Una buena estructura hace que el lector sienta la emoción adecuada en el momento adecuado. La estructura no es una fórmula, es el esqueleto de la emoción.
+2. **Primero el esqueleto, luego la carne** — Antes de escribir el texto, confirmar la estructura general: dónde empezar, dónde girar, dónde está el clímax, dónde terminar.
+3. **Los presagios son un contrato** — Un presagio es una promesa al lector y debe cumplirse. Un presagio sin recuperar es una pérdida de credibilidad.
+4. **Las subtramas deben tener una función** — Cada subtrama debe: impulsar la trama principal, profundizar el tema o desarrollar personajes; debe cumplir al menos una de estas funciones.
+5. **El ritmo es la respiración** — Después de la tensión viene la relajación, solo después de lo cotidiano puede venir la explosión. Un clímax sin pausas no es un clímax.
+
+---
 
 ## Overall Architecture
 
-### 三幕式结构（最通用）
+### Estructura en Tres Actos (la más universal)
 
-**第一幕：日常与卷入（约25%篇幅）**
-- 引入主角的日常生活状态
-- 建立主角的初始欲望/问题
-- 激励事件：打破日常的触发点
-- 第一幕转折点：主角无法回到过去，被迫行动
-- 关键：日常部分要让读者产生共鸣，激励事件要有冲击力
+**Primer Acto: Cotidianidad e Involucramiento (≈25% de la extensión)**
+- Introducción del estado de vida cotidiana del protagonista.
+- Establecimiento del deseo/problema inicial del protagonista.
+- Evento incitante: el punto de quiebre que rompe la cotidianidad.
+- Punto de inflexión del primer acto: el protagonista no puede volver atrás y se ve obligado a actuar.
+- Clave: la parte cotidiana debe generar empatía en el lector; el evento incitante debe tener impacto.
 
-**第二幕：对抗与深化（约50%篇幅）**
-- 主角面对障碍，不断受挫
-- 伙伴加入、敌人出现、规则揭露
-- 中点：重大转折（真相的一部分、关系的质变、目标的改变）
-- 伪胜利或伪失败：让主角和读者以为走对了/走错了
-- 第二幕转折点：最低谷，失去一切
-- 关键：第二幕最容易拖沓，需要不断制造新的冲突和悬念
+**Segundo Acto: Confrontación y Profundización (≈50% de la extensión)**
+- El protagonista enfrenta obstáculos y sufre reveses.
+- Se unen compañeros, aparecen enemigos, se revelan reglas.
+- Punto medio: un giro importante (parte de la verdad, un cambio cualitativo en una relación, un cambio de objetivo).
+- Falsa victoria o falsa derrota: hacer que el protagonista y el lector crean que van bien o mal.
+- Punto de inflexión del segundo acto: el punto más bajo, la pérdida de todo.
+- Clave: el segundo acto es el más propenso a estancarse; es necesario crear nuevos conflictos y suspenso constantemente.
 
-**第三幕：高潮与余韵（约25%篇幅）**
-- 最终决战/最终选择
-- 主题的正面回应
-- 余韵：情感落点，给读者消化空间
-- 关键：高潮必须是主角主动做出的选择，不能靠外部力量解决
+**Tercer Acto: Clímax y Resquicio (≈25% de la extensión)**
+- Batalla final/decisión final.
+- Respuesta directa al tema.
+- Resquicio: punto de apoyo emocional, dar al lector espacio para digerir.
+- Clave: el clímax debe ser una elección activa del protagonista, no puede resolverse con fuerzas externas.
 
-### 轻小说特化结构
+---
 
-**卷级结构（适用于系列连载）**
+### Estructura Específica para Light Novel
+
+**Estructura por Volúmenes (para series)**
 ```
-第一幕：日常引入（1-2章）
-  → 异常事件（2-3章）
-  → 卷级小高潮
-  → 轻松收尾 + 续集钩子
-```
-
-**长篇单卷结构**
-```
-序章：悬念钩子 / 倒叙开场
-第一章-第三章：日常 + 异常初现
-第四章-第六章：深入 + 真相渐露
-第七章-第八章：高潮 + 选择
-终章：余韵 + 新的悬念
+Primer acto: Introducción cotidiana (capítulos 1-2)
+  → Evento anómalo (capítulos 2-3)
+  → Mini clímax del volumen
+  → Cierre ligero + gancho para el siguiente volumen
 ```
 
-### 多弧并行结构
+**Estructura de un volumen extenso**
+```
+Prólogo: Gancho de suspenso / apertura en flashback
+Capítulos 1-3: Cotidianidad + primeros indicios de anomalía
+Capítulos 4-6: Profundización + revelación gradual de la verdad
+Capítulos 7-8: Clímax + elección
+Epílogo: Resquicio + nuevo suspenso
+```
 
-适用于双主角或多视角叙事：
-- **A/B交替型**：A线和B线交替出现，最终交汇
-- **交织型**：多条线在同一事件的不同角度展开
-- **汇流型**：分散的线逐渐汇聚到同一个终点
+---
 
-设计要点：
-- 每条线都要有独立的张力和悬念
-- 交汇点要有化学反应，不只是"碰面"
-- 读者能看到角色看不到的交叉信息（戏剧性反讽）
+### Estructura de Múltiples Arcos Paralelos
+
+Adecuado para protagonistas duales o narración con múltiples perspectivas:
+- **Tipo A/B alternante**: Las líneas A y B se alternan y finalmente convergen.
+- **Tipo entrelazado**: Múltiples líneas se desarrollan desde diferentes ángulos de un mismo evento.
+- **Tipo convergente**: Líneas dispersas se unen gradualmente hacia un mismo destino.
+
+Puntos clave de diseño:
+- Cada línea debe tener su propia tensión y suspenso independientes.
+- Los puntos de convergencia deben tener reacción química, no solo ser un "encuentro".
+- El lector debe ver información cruzada que los personajes no ven (ironía dramática).
+
+---
 
 ## Pacing Control
 
-### 节奏的基本单位
+### Unidades Básicas del Ritmo
 
-**场景（Scene）**：有冲突、有变化的实时段落 → 节奏偏快
-**桥段（Sequel）**：角色反应、思考、决策的过渡段 → 节奏偏慢
-**总结（Summary）**：压缩时间的叙述 → 最快节奏
+**Escena (Scene)**: Segmento en tiempo real con conflicto y cambio → ritmo rápido.
+**Puente (Sequel)**: Segmento de transición con reacción, reflexión y decisión del personaje → ritmo lento.
+**Resumen (Summary)**: Narración que comprime el tiempo → ritmo más rápido.
 
-### 节奏曲线原则
+### Principios de la Curva de Ritmo
 
-1. **峰谷交替**：每个高潮场景后安排一个情感缓冲
-2. **渐进加速**：越接近结局，场景切换越快、冲突越密集
-3. **关键场景放慢**：最重要的时刻要写得最慢——更多描写、更多心理、更多细节
-4. **过渡场景加速**：旅行、等待、准备阶段可以总结处理
+1. **Alternancia de picos y valles**: Después de cada escena de clímax, colocar un respiro emocional.
+2. **Aceleración progresiva**: Cuanto más cerca del final, más rápidos los cambios de escena y más denso el conflicto.
+3. **Ralentizar las escenas clave**: Los momentos más importantes deben escribirse con más lentitud: más descripción, más psicología, más detalles.
+4. **Acelerar las escenas de transición**: Viajes, esperas, preparativos pueden resumirse.
 
-### 节奏诊断方法
+### Método de Diagnóstico del Ritmo
 
-读完一个章节后自问：
-- 哪里让我想快点翻过去？→ 可能太慢了
-- 哪里让我觉得"这么快就结束了？"→ 可能太快了
-- 哪里让我停下来想了一下？→ 这是关键节奏点，处理得好
-- 连续三章都是同一种节奏？→ 需要变化
+Después de leer un capítulo, preguntarse:
+- ¿Dónde quise pasar la página rápido? → Puede ser demasiado lento.
+- ¿Dónde sentí que "terminó tan rápido"? → Puede ser demasiado rápido.
+- ¿Dónde me detuve a pensar? → Ese es un punto de ritmo clave, bien manejado.
+- ¿Tres capítulos seguidos tienen el mismo ritmo? → Necesita variación.
+
+---
 
 ## Foreshadowing System
 
-### 伏笔的分类
+### Clasificación de los Presagios
 
-**显性伏笔**：读者能注意到，但不知道具体含义。回头看恍然大悟。
-- 示例：角色反复提到某个习惯，后来这个习惯成为关键线索
+**Presagio explícito**: El lector puede notarlo, pero no sabe su significado. Al mirar atrás, lo comprende.
+- Ejemplo: Un personaje menciona repetidamente un hábito que luego se convierte en una pista clave.
 
-**隐性伏笔**：读者完全不会注意到，只有回头看才发现。
-- 示例：背景中一个不起眼的细节，事后证明是关键
+**Presagio implícito**: El lector no lo nota en absoluto, solo al mirar atrás lo descubre.
+- Ejemplo: Un pequeño detalle en el fondo que resulta ser clave.
 
-**误导性伏笔（红鲱鱼）**：故意让读者产生错误推断。
-- 注意：误导需要有合理解释，不能纯粹欺骗读者
+**Presagio engañoso (Cebo / Red Herring)**: Intencionadamente lleva al lector a una conclusión errónea.
+- Nota: El engaño debe tener una explicación razonable, no puede ser un simple engaño al lector.
 
-### 伏笔生命周期
+### Ciclo de Vida de un Presagio
 
 ```
-埋设 → 淡化（让读者暂时忘记）→ 渐露（暗示性提示）→ 呼应回收
+Plantación → Desvanecimiento (para que el lector lo olvide temporalmente) → Aparición gradual (insinuación) → Llamada y recuperación
 ```
 
-**埋设阶段**
-- 自然地融入日常描写或对话
-- 不要刻意强调（"他注意到了那把刀"太明显）
-- 最好的伏笔是一句看起来无关紧要的话
+**Fase de plantación**
+- Integrarlo de forma natural en la descripción cotidiana o el diálogo.
+- No enfatizarlo demasiado ("notó el cuchillo" es demasiado obvio).
+- El mejor presagio es una frase aparentemente irrelevante.
 
-**淡化阶段**
-- 伏笔出现后，用新的悬念覆盖它
-- 不要反复提及同一个伏笔
+**Fase de desvanecimiento**
+- Después de plantar el presagio, cubrirlo con un nuevo suspenso.
+- No mencionar el mismo presagio repetidamente.
 
-**渐露阶段**
-- 在回收前给读者一次"重新想起来"的机会
-- 可以通过不同角色的视角重新接触同一信息
+**Fase de aparición gradual**
+- Antes de la recuperación, dar al lector una oportunidad de "recordarlo".
+- Se puede volver a abordar la misma información desde la perspectiva de otro personaje.
 
-**回收阶段**
-- 呼应时要让读者产生"原来如此！"的快感
-- 回收的时机比内容更重要——太早没冲击力，太晚读者忘了
+**Fase de recuperación**
+- La recuperación debe producir en el lector la sensación de "¡Ajá!".
+- El momento de la recuperación es más importante que el contenido: demasiado pronto resta impacto, demasiado tarde y el lector lo olvida.
 
-### 契诃夫之枪原则
+### Principio del Rifle de Chéjov
 
-"如果第一幕墙上挂着一把枪，第三幕它必须开火。"
+"Si en el primer acto hay un rifle colgado en la pared, en el tercer acto debe dispararse."
 
-应用规则：
-- 放进故事的每个元素都应该有其功能
-- 重要道具至少出现三次：初次引入 → 建立熟悉 → 关键使用
-- 反过来：如果你需要一个关键道具来解决高潮，在前面必须铺垫过
+Reglas de aplicación:
+- Cada elemento incluido en la historia debe tener una función.
+- Un objeto importante debe aparecer al menos tres veces: introducción inicial → establecer familiaridad → uso clave.
+- A la inversa: si necesitas un objeto clave para resolver el clímax, debe haber sido presentado antes.
+
+---
 
 ## Subplot Design
 
-### 副线的功能类型
+### Tipos Funcionales de Subtramas
 
-1. **主题深化型**：用另一个故事来回答同一个主题问题
-2. **角色发展型**：展现角色的另一面或推动角色成长
-3. **信息揭示型**：通过副线逐步揭露主线需要的信息
-4. **关系发展型**：推进角色之间的关系变化
-5. **节奏调节型**：主线紧张时穿插轻松副线，反之亦然
+1. **De profundización temática**: Usar otra historia para responder a la misma pregunta temática.
+2. **De desarrollo de personaje**: Mostrar otra faceta del personaje o impulsar su crecimiento.
+3. **De revelación de información**: Revelar gradualmente información necesaria para la trama principal.
+4. **De desarrollo de relaciones**: Impulsar cambios en las relaciones entre personajes.
+5. **De regulación del ritmo**: Intercalar subtramas ligeras cuando la trama principal está tensa, y viceversa.
 
-### 副线设计规则
+### Reglas de Diseño de Subtramas
 
-- **收束点**：每条副线必须在主线高潮前或高潮时收束
-- **交叉点**：副线和主线至少要有两个交叉点（开始和结束）
-- **独立性**：副线去掉后主线仍然完整，但会缺少深度
-- **比例**：副线篇幅不超过主线的30%
+- **Punto de cierre**: Cada subtrama debe cerrarse antes o en el clímax de la trama principal.
+- **Puntos de cruce**: La subtrama y la trama principal deben tener al menos dos puntos de cruce (inicio y fin).
+- **Independencia**: Si se elimina la subtrama, la trama principal sigue siendo completa, pero pierde profundidad.
+- **Proporción**: La extensión de la subtrama no debe superar el 30% de la trama principal.
 
-### 常见副线错误
+### Errores Comunes en Subtramas
 
-- 副线太精彩抢了主线风头 → 副线应该服务主线
-- 副线开了不收 → 每条副线都要有明确的结束点
-- 副线和主线没有关联 → 至少要有一个主题或角色上的联系
-- 副线太多读者记不住 → 同时活跃的副线不超过3条
+- La subtrama es tan interesante que eclipsa a la principal → debe servir a la principal.
+- La subtrama se abre pero no se cierra → cada subtrama debe tener un final claro.
+- La subtrama y la trama principal no están relacionadas → deben tener al menos una conexión temática o de personajes.
+- Demasiadas subtramas, el lector no las recuerda → no más de 3 subtramas activas simultáneamente.
+
+---
 
 ## Climax and Turning Points
 
-### 高潮的类型
+### Tipos de Clímax
 
-**情节高潮**：外部冲突的最高点（战斗、对决、生死关头）
-**情感高潮**：角色内心冲突的最高点（坦白、选择、放下）
-**主题高潮**：主题问题的最终回答
+**Clímax argumental**: El punto más alto del conflicto externo (batalla, duelo, momento crítico).
+**Clímax emocional**: El punto más alto del conflicto interno del personaje (confesión, elección, renuncia).
+**Clímax temático**: La respuesta final a la pregunta temática.
 
-好的高潮让这三者同时发生：主角在生死关头做出选择，这个选择回答了主题问题。
+Un buen clímax hace que estos tres ocurran simultáneamente: el protagonista, en un momento crítico, toma una decisión que responde a la pregunta temática.
 
-### 高潮设计原则
+### Principios de Diseño del Clímax
 
-1. **主角驱动**：高潮的解决必须来自主角的选择和行动，不能靠外部力量天降
-2. **代价**：高潮中主角必须付出代价——失去什么、放弃什么、面对什么
-3. **意外但合理**：转折让人惊讶，但事后回想有迹可循
-4. **情感高于动作**：读者记住的是感受，不是事件
+1. **Impulsado por el protagonista**: La resolución del clímax debe provenir de la elección y acción del protagonista, no de fuerzas externas que aparecen de la nada.
+2. **Costo**: El protagonista debe pagar un precio en el clímax: perder algo, renunciar a algo, enfrentar algo.
+3. **Sorprendente pero lógico**: El giro sorprende, pero en retrospectiva tiene indicios.
+4. **La emoción está por encima de la acción**: Lo que el lector recuerda es la sensación, no el evento.
 
-### 假高潮技术
+### Técnica del Falso Clímax
 
-在真正高潮之前设置一个"假高潮"：
-- 看似解决了问题，但实际是更深层问题的开始
-- 让读者短暂放松，然后更猛烈地冲击
-- 示例：打败了一个Boss，发现真正的敌人另有其人
+Colocar un "falso clímax" antes del verdadero:
+- Parece que el problema se ha resuelto, pero es el inicio de un problema más profundo.
+- Dejar que el lector se relaje brevemente para luego impactarlo con más fuerza.
+- Ejemplo: Derrotar a un jefe final y descubrir que el verdadero enemigo es otro.
 
-### 反转技术
+### Técnica del Giro (Plot Twist)
 
-好的反转需要三个条件：
-1. **伏笔充分**：读者回头看能找到线索
-2. **逻辑自洽**：反转后的剧情仍然合理
-3. **情感冲击**：不只是"信息变了"，而是"感受变了"
+Un buen giro requiere tres condiciones:
+1. **Suficientes presagios**: El lector puede encontrar pistas al mirar atrás.
+2. **Coherencia lógica**: La historia sigue siendo coherente después del giro.
+3. **Impacto emocional**: No solo es un "cambio de información", sino un "cambio de sensación".
+
+---
 
 ## Ending Design
 
-### 结局类型
+### Tipos de Final
 
-**闭合式结局**：所有问题得到回答，所有弧线完成。给读者满足感。
-- 适用于：独立作品、想要完整体验的故事
+**Final cerrado**: Todas las preguntas tienen respuesta, todos los arcos están completos. Da satisfacción al lector.
+- Adecuado para: Obras independientes, historias que buscan una experiencia completa.
 
-**开放式结局**：核心问题回答了，但留有想象空间。给读者回味。
-- 适用于：偏文学性的作品、想引发思考的故事
+**Final abierto**: La pregunta central está respondida, pero queda espacio para la imaginación. Deja un regusto.
+- Adecuado para: Obras más literarias, historias que buscan provocar reflexión.
 
-**余韵式结局**：冲突解决了，但重点放在"之后"的情感状态。
-- 适用于：青春、恋爱、成长题材
+**Final de resquicio**: El conflicto está resuelto, pero el enfoque está en el estado emocional posterior.
+- Adecuado para: Temas juveniles, de amor, de crecimiento.
 
-**反转型结局**：最后一刻揭示真相，改变对整个故事的理解。
-- 适用于：悬疑、推理、心理题材
+**Final con giro**: En el último momento se revela una verdad que cambia la comprensión de toda la historia.
+- Adecuado para: Suspenso, misterio, psicología.
 
-**钩子式结局**：本卷冲突解决，但引出更大的悬念。
-- 适用于：系列连载作品
+**Final con gancho**: El conflicto del volumen se resuelve, pero se presenta un suspenso mayor.
+- Adecuado para: Obras en serie.
 
-### 结局检查清单
+### Lista de Verificación del Final
 
-- [ ] 主角的初始问题得到解决或被重新定义
-- [ ] 主角相比开篇有了变化（性格、认知、关系）
-- [ ] 所有重要伏笔得到回收
-- [ ] 所有活跃副线得到收束
-- [ ] 主题得到回应（通过事件，不是通过说教）
-- [ ] 读者情感得到释放（不管是什么情感）
-- [ ] 结局的画面/场景有象征意义
+- [ ] El problema inicial del protagonista se ha resuelto o ha sido redefinido.
+- [ ] El protagonista ha cambiado en comparación con el inicio (personalidad, percepción, relaciones).
+- [ ] Todos los presagios importantes se han recuperado.
+- [ ] Todas las subtramas activas se han cerrado.
+- [ ] El tema ha recibido una respuesta (a través de eventos, no de sermones).
+- [ ] La emoción del lector ha tenido una liberación (sea cual sea).
+- [ ] La escena/imagen final tiene un significado simbólico.
+
+---
 
 ## Output Format
 
-剧情编排默认输出格式：
-1. **整体结构概览**：三幕式分布、每幕核心事件
-2. **节奏曲线图**（文字描述）：关键转折点的位置
-3. **伏笔清单**：每个伏笔的埋设位置、渐露位置、回收位置
-4. **副线规划**：每条副线的功能、交叉点、收束点
-5. **高潮设计**：情节/情感/主题三重高潮的交汇点
-6. **结局方案**：选择的结局类型及其理由
+El formato de salida predeterminado para la estructuración de la trama es:
+
+1. **Resumen de la estructura general**: Distribución en tres actos, eventos centrales de cada acto.
+2. **Curva de ritmo (descripción textual)**: Ubicación de los puntos de inflexión clave.
+3. **Lista de presagios**: Ubicación de siembra, aparición gradual y recuperación de cada presagio.
+4. **Planificación de subtramas**: Función, puntos de cruce y punto de cierre de cada subtrama.
+5. **Diseño del clímax**: Punto de convergencia de los tres clímax (argumental, emocional, temático).
+6. **Propuesta de final**: Tipo de final elegido y su justificación.
+
+---
 
 ## Self-Consistency Check
 
-检查：结构是否完整（有开头有结尾有转折）、节奏是否有变化（没有连续同节奏段落）、伏笔是否全部回收、副线是否有功能且有收束、高潮是否由主角驱动、结局是否回应了主题、转折是否有铺垫
+Verificar:
+- ¿La estructura es completa? (tiene principio, desarrollo y final)
+- ¿El ritmo varía? (no hay segmentos consecutivos con el mismo ritmo)
+- ¿Todos los presagios se han recuperado?
+- ¿Las subtramas tienen función y están cerradas?
+- ¿El clímax está impulsado por el protagonista?
+- ¿El final responde al tema?
+- ¿Los giros tienen una preparación adecuada?
+
+---
 
 ## Default Orientation
 
-中文、markdown格式、偏轻小说/网文/青春题材适用、结构清晰可执行、优先给出可直接使用的编排模板
+- Idioma: español.
+- Formato: markdown.
+- Orientado a light novel / web novel / temática juvenil.
+- Estructura clara y ejecutable.
+- Priorizar la entrega de plantillas de estructuración listas para usar.
