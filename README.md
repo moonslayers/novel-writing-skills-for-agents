@@ -1,13 +1,13 @@
-# Novel Writing Skills for Agents
+# Habilidades de escritura de novelas para agentes de IA
 
-这是一个面向 AI Agent 的小说创作 Skill 仓库，旨在为自动化写作助手提供可复用、结构化、可扩展的创作能力。
+Este es un repositorio de habilidades de escritura de novelas diseñado para agentes de IA, cuyo objetivo es dotar a los asistentes de escritura automatizada de capacidades creativas reutilizables, estructuradas y escalables.
 
-本仓库包含多个用于小说创作的 Skill，例如轻小说风格写作、世界观设定、人物塑造、剧情大纲设计、章节续写、文本润色等。
+El repositorio incluye diversas habilidades para la creación de novelas, tales como la escritura al estilo de las *light novels*, la construcción de mundos, el desarrollo de personajes, el esbozo de tramas, la continuación de capítulos y el pulido de textos.
 
-## Project Vision
+## Visión del proyecto
 
-我希望这个项目能够逐渐发展成一个面向 AI Agent 的小说创作能力库。
+Aspiro a que este proyecto evolucione hasta convertirse en una biblioteca integral de capacidades de escritura de novelas para agentes de IA.
 
-在未来，它不只是几个简单的提示词文件，而是一个能够支持完整小说创作流程的 Skill 系统。
+En el futuro, dejará de ser una simple colección de archivos de *prompts* para transformarse en un sistema de habilidades robusto, capaz de dar soporte a todo el flujo de trabajo de la escritura de novelas.
 
-新增了4个skill 本项目正在持续更新 2026.5.10
+Se han añadido 4 nuevas habilidades; el proyecto se actualiza continuamente (10 de mayo de 2026).
