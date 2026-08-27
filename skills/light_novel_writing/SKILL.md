@@ -1,13 +1,13 @@
 ---
 name: light_novel_writing
-description: Utilizado para crear, continuar, expandir y pulir contenido de novelas en chino con estilo de light novel japonesa. Adecuado para géneros como escolares, juveniles, romance, fantasía urbana, chicas mágicas, mundos alternativos, suspenso y tragedia.
+description: Utilizado para crear, continuar, expandir y pulir contenido de novelas en español con estilo de light novel japonesa. Adecuado para géneros como escolares, juveniles, romance, fantasía urbana, chicas mágicas, mundos alternativos, suspenso y tragedia.
 ---
 
 # Light Novel Writing Skill
 
 ## Objetivo
 
-Ayudar al usuario a crear contenido de novela en chino con estilo de light novel japonesa.
+Ayudar al usuario a crear contenido de novela en español con estilo de light novel japonesa.
 
 El enfoque no es imitar mecánicamente un tono de traducción del japonés, sino escribir con las características comunes de las light novels:
 
@@ -193,7 +193,7 @@ No hacer que el personaje se derrumbe, se sacrifique o comprenda todo de repente
 
 ### Recomendado
 
-- Expresión natural en chino.
+- Expresión natural en español.
 - Frases claras y ritmo ágil.
 - Uso adecuado de frases cortas para potenciar la emoción.
 - Descripciones con calidad visual.
@@ -975,7 +975,7 @@ No:
 
 Cuando el usuario no especifique lo contrario, por defecto:
 
-- Usar chino.
+- Usar español.
 - Estilo de light novel japonesa.
 - Tercera persona cercana al protagonista.
 - Con títulos de capítulos.
@@ -1019,7 +1019,7 @@ Usar una estructura clara en markdown, organizando personajes, mundo, trama prin
 
 El objetivo final de este skill es:
 
-Permitir que el agente, al abordar tareas de creación de novelas, no solo genere resúmenes de la trama, sino que pueda escribir un texto de novela en chino con la verdadera sensación de lectura de una light novel japonesa.
+Permitir que el agente, al abordar tareas de creación de novelas, no solo genere resúmenes de la trama, sino que pueda escribir un texto de novela en español con la verdadera sensación de lectura de una light novel japonesa.
 
 Debe lograr:
 

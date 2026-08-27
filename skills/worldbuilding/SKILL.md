@@ -1,5 +1,3 @@
-[file name]: ---.txt
-[file content begin]
 ---
 name: worldbuilding
 description: Habilidad para construir, organizar, expandir y optimizar ajustes de mundo para novelas, juegos, guiones, TRPG, novelas ligeras y otras obras. Adecuada para el diseño de reglas del mundo, sistemas de poder, trasfondo histórico, estructuras organizativas, civilizaciones y razas, entornos geográficos, sistemas sociales, conflictos centrales y verdades ocultas.
@@ -750,4 +748,3 @@ Debe ayudar al usuario a obtener un ajuste que tenga:
 - Ganchos argumentales.
 - Relación con el destino de los personajes.
 - Capacidad de seguir expandiéndose en una novela, juego o guion.
-[file content end]

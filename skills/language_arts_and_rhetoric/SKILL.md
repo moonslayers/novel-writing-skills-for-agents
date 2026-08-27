@@ -122,7 +122,7 @@ La puerta se abrió de golpe.
 
 **Variación en la longitud de los párrafos**:
 - Párrafos cortos: sensación de urgencia, avance rápido, diálogo denso.
-- Párrafos largos: sensación de inmersión, descripción rica,酝酿 emocional.
+- Párrafos largos: sensación de inmersión, descripción rica, gestación emocional.
 - 3 o 4 párrafos cortos seguidos de un párrafo largo → fuerte contraste rítmico.
 
 ---

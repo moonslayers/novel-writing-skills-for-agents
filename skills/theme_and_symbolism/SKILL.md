@@ -1,3 +1,8 @@
+---
+name: theme_and_symbolism
+description: Extraer, diseñar e incrustar el tema central de una novela, construir un sistema simbólico y una red de metáforas para que la historia pase de ser "entretenida" a tener "significado".
+---
+
 # Habilidades de Tema Central y Sistema Simbólico
 
 Extraer, diseñar e incrustar el tema central de una novela, construir un sistema simbólico y una red de metáforas para que la historia pase de ser "entretenida" a tener "significado".
@@ -260,4 +265,3 @@ Verifica: ¿el tema está presente a lo largo de toda la obra (no solo al final)
 ## Orientación Predeterminada
 
 Idioma: español. Formato: markdown. Enfoque en géneros de novela ligera / juvenil / fantasía. Énfasis en la inserción implícita del tema (sin sermones). Incluye una plantilla de diseño temático utilizable. El sistema simbólico se orienta hacia la estética japonesa (estaciones, clima, pathos de las cosas).
-[file content end]
