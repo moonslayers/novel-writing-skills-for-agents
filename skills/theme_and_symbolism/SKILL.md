@@ -1,262 +1,263 @@
-# 主题思想与象征体系 Skill
+# Habilidades de Tema Central y Sistema Simbólico
 
-提炼、设计和嵌入小说的主题思想，构建象征体系和隐喻网络，让故事从"好看"升级到"有意义"。
+Extraer, diseñar e incrustar el tema central de una novela, construir un sistema simbólico y una red de metáforas para que la historia pase de ser "entretenida" a tener "significado".
 
-## Core Principles
+## Principios Fundamentales
 
-1. **主题不是口号** — 主题不是一个词（"爱"、"自由"），而是一个问题（"为了爱可以牺牲自由吗？"）。好的小说不回答，而是让读者自己思考
-2. **主题通过冲突体现** — 当两个角色因为不同信念而对立时，主题就出现了。不要让角色说出主题
-3. **象征必须演变** — 一个意象反复出现但含义不变就是装饰。让它在不同阶段承载不同含义
-4. **隐喻从世界观长出来** — 最好的隐喻是世界规则本身（"在这个世界，记忆可以作为货币"）
-5. **少即是多** — 全书核心意象不超过3-5个。太多象征会让故事变成符号的堆砌
+1. **El tema no es un eslogan** — El tema no es una palabra ("amor", "libertad"), sino una pregunta ("¿Se puede sacrificar la libertad por amor?"). Una buena novela no responde, hace que el lector piense por sí mismo.
+2. **El tema se manifiesta a través del conflicto** — Cuando dos personajes se enfrentan por creencias diferentes, el tema aparece. No dejes que los personajes enuncien el tema.
+3. **El símbolo debe evolucionar** — Una imagen que se repite pero no cambia de significado es un adorno. Haz que tenga diferentes significados en cada etapa.
+4. **La metáfora nace de la cosmovisión** — Las mejores metáforas son las reglas del mundo mismo ("En este mundo, los recuerdos se pueden usar como moneda").
+5. **Menos es más** — No uses más de 3 a 5 imágenes centrales en toda la obra. Demasiados símbolos convierten la historia en un montón de signos.
 
-## Theme Extraction
+## Extracción del Tema
 
-### 主题的三个层次
+### Los tres niveles del tema
 
-**主题词**：一个抽象概念（孤独、牺牲、自由、真相）。只是起点，不是最终形态。
+**Palabra clave**: Un concepto abstracto (soledad, sacrificio, libertad, verdad). Es solo el punto de partida, no la forma final.
 
-**主题问题**：把这个词变成一个没有标准答案的问题。
-- 孤独 → "一个人是否能真正理解另一个人？"
-- 牺牲 → "为他人牺牲是伟大的还是一种逃避？"
-- 自由 → "绝对的自由和安全的束缚，你选哪个？"
-- 真相 → "知道真相一定会带来幸福吗？"
+**Pregunta temática**: Convertir esa palabra en una pregunta sin respuesta única.
+- Soledad → "¿Puede una persona entender realmente a otra?"
+- Sacrificio → "¿Sacrificarse por otros es grandioso o es una forma de huida?"
+- Libertad → "¿Libertad absoluta o ataduras seguras, cuál prefieres?"
+- Verdad → "¿Saber la verdad siempre trae felicidad?"
 
-**主题命题**：通过故事给出的回答（但要让读者自己读出来）。
-- 例：故事可能暗示"理解是有限的，但努力理解本身就是意义"
+**Proposición temática**: La respuesta que da la historia a través de los hechos (pero el lector debe deducirla por sí mismo).
+- Ejemplo: La historia puede sugerir que "la comprensión es limitada, pero el esfuerzo por comprender ya es significativo".
 
-### 主题提炼过程
+### Proceso de extracción del tema
 
-1. 列出你最在意的3-5个关键词
-2. 把每个词变成一个对立的两难问题
-3. 选择和你的故事冲突最契合的那个
-4. 用一句话写出你对这个问题的倾向（主题命题）
-5. 确保故事的结局回应了这个问题
+1. Enumera de 3 a 5 palabras clave que te importen.
+2. Convierte cada palabra en una pregunta dilemática y polarizada.
+3. Elige la que mejor encaje con el conflicto de tu historia.
+4. Redacta en una frase tu inclinación hacia esa pregunta (proposición temática).
+5. Asegúrate de que el final de la historia responda a esa pregunta.
 
-### 轻小说常见主题方向
+### Direcciones temáticas comunes en novelas ligeras
 
-| 主题领域 | 核心问题 | 适合题材 |
-|---------|---------|---------|
-| 羁绊与孤独 | 依赖他人是力量还是弱点？ | 校园、冒险 |
-| 命运与选择 | 人能改变注定的结局吗？ | 奇幻、异世界 |
-| 真相与谎言 | 善意的谎言可以被原谅吗？ | 悬疑、日常 |
-| 牺牲与自私 | 为一个人牺牲所有人对吗？ | 战斗、悲剧 |
-| 成长与失去 | 长大就是不断告别吗？ | 青春、恋爱 |
-| 存在与意义 | 如果一切终将消失，现在有什么意义？ | 哲学、末日 |
+| Área temática | Pregunta central | Géneros adecuados |
+|---------------|------------------|-------------------|
+| Vínculos y soledad | ¿Depender de otros es una fortaleza o una debilidad? | Escolar, aventura |
+| Destino y elección | ¿Puede el ser humano cambiar un final anunciado? | Fantasía, otro mundo |
+| Verdad y mentira | ¿Se puede perdonar una mentira piadosa? | Misterio, cotidiano |
+| Sacrificio y egoísmo | ¿Está bien sacrificar a todos por una persona? | Combate, tragedia |
+| Crecimiento y pérdida | ¿Crecer es despedirse constantemente? | Juventud, romance |
+| Existencia y significado | Si todo va a desaparecer, ¿qué sentido tiene el presente? | Filosofía, apocalipsis |
 
-## Theme Embedding
+## Inserción del Tema
 
-### 角色冲突与主题
+### Conflicto de personajes y tema
 
-最好的主题表达方式是让两个角色代表主题的正反两面：
+La mejor manera de expresar el tema es que dos personajes representen sus dos caras:
 
 ```
-角色A："我相信牺牲是必要的"
-角色B："我相信每条命都值得珍惜"
-→ 他们之间的冲突 = 主题的具象化
+Personaje A: "Creo que el sacrificio es necesario".
+Personaje B: "Creo que cada vida merece ser protegida".
+→ El conflicto entre ellos = la encarnación del tema.
 ```
 
-设计规则：
-- 两个立场都要有合理性和感染力
-- 读者应该能理解双方，甚至左右摇摆
-- 不要把一方写成明显的"错"
-- 最终选择不一定是谁对谁错，而是主角做出了自己的判断
+Reglas de diseño:
+- Ambas posturas deben ser razonables y conmovedoras.
+- El lector debe comprender a ambas e incluso dudar entre ellas.
+- No conviertas a una de las partes en la "equivocada" de forma evidente.
+- La elección final no es sobre quién tiene razón, sino sobre la decisión que el protagonista toma.
 
-### 选择场景与主题
+### Escenas de elección y tema
 
-在故事的关键选择点体现主题：
-- 主角面临两难选择，两个选项分别代表主题的不同面向
-- 选择的代价越重，主题的冲击力越强
-- 反派也可能面临同样的选择，做出不同的决定
+Muestra el tema en los puntos clave de decisión de la historia:
+- El protagonista se enfrenta a un dilema; cada opción representa una faceta del tema.
+- Cuanto mayor sea el costo de la elección, mayor será el impacto temático.
+- El antagonista puede enfrentarse a la misma elección y tomar una decisión diferente.
 
-### 场景与主题
+### Escenas y tema
 
-特定场景可以天然承载主题意义：
-- 雨中的告别 → 离别与成长
-- 废墟中的花 → 希望与毁灭
-- 旧照片 → 记忆与遗忘
-- 关键是不要刻意强调，让读者自己感受
+Ciertas escenas pueden llevar un significado temático de forma natural:
+- Despedida bajo la lluvia → despedida y crecimiento.
+- Una flor entre las ruinas → esperanza y destrucción.
+- Una foto vieja → memoria y olvido.
+- La clave es no forzarlo, dejar que el lector lo sienta.
 
-### 主题在结尾的回应
+### El tema en el final
 
-结局是对主题问题的最终表态，但要通过事件，不是通过旁白说教：
+El final es la declaración definitiva sobre la pregunta temática, pero debe hacerse a través de los hechos, no mediante un narrador que dé lecciones:
 
-**差**：旁白写道"他终于明白了，牺牲的意义在于爱"
-**好**：主角做出了一个牺牲的选择，读者自己体会到那意味着什么
+**Malo**: El narrador escribe: "Por fin comprendió que el significado del sacrificio está en el amor".
+**Bueno**: El protagonista toma una decisión de sacrificio y el lector deduce por sí mismo lo que eso implica.
 
-结尾回应主题的三种方式：
-1. **肯定**：主角的选择支持了主题命题
-2. **否定**：主角的选择反驳了主题命题（反传统结局）
-3. **悬置**：问题没有最终答案，但主角与问题和解了
+Tres formas de responder al tema en el final:
+1. **Afirmación**: La elección del protagonista apoya la proposición temática.
+2. **Negación**: La elección del protagonista refuta la proposición temática (final anticonvencional).
+3. **Suspensión**: La pregunta no tiene respuesta definitiva, pero el protagonista se reconcilia con ella.
 
-## Symbols and Imagery
+## Símbolos e Imágenes
 
-### 核心意象选定
+### Selección de imágenes centrales
 
-每部作品选择3-5个核心意象，这些意象将贯穿全书并承载象征意义：
+Elige de 3 a 5 imágenes centrales que aparecerán a lo largo de la obra y llevarán un significado simbólico.
 
-选定标准：
-- 和故事的情感基调契合
-- 有自然的变化/演变空间
-- 在故事的物理世界中有合理存在理由
-- 不是已经被用烂的象征（玫瑰=爱情、鸽子=和平）
+Criterios de selección:
+- Que encajen con el tono emocional de la historia.
+- Que tengan un margen natural de evolución o cambio.
+- Que tengan una razón de ser física en el mundo de la historia.
+- Que no sean símbolos manidos (rosa = amor, paloma = paz).
 
-### 意象的演变
+### Evolución de la imagen
 
-同一个意象在故事不同阶段承担不同含义：
+Una misma imagen puede tener distintos significados en diferentes etapas de la historia:
 
-示例（以"灯塔"为例）：
-- 开篇：灯塔 = 安全、方向、希望
-- 中段：发现灯塔早已废弃 → 信念的破灭
-- 高潮：主角点亮了灯塔 → 自己成为指引
-- 结局：灯塔亮着但没人看到 → 孤独的坚守
+Ejemplo (con "faro"):
+- Inicio: faro = seguridad, dirección, esperanza.
+- Desarrollo: se descubre que el faro está abandonado → quiebre de la creencia.
+- Clímax: el protagonista enciende el faro → se convierte en guía.
+- Final: el faro brilla pero nadie lo ve → la perseverancia en soledad.
 
-这就是好的象征：同一个物体，含义随故事发展而变化。
+Eso es un buen símbolo: un mismo objeto, cuyo significado cambia con el avance de la historia.
 
-### 季节与天气
+### Estaciones y clima
 
-季节变化是最自然的象征系统：
-- **春**：新生、萌芽、不确定的希望
-- **夏**：热烈、巅峰、消耗、青春
-- **秋**：成熟、收获、衰落、告别
-- **冬**：沉默、积蓄、孤独、考验
+El cambio de estaciones es el sistema simbólico más natural:
+- **Primavera**: nacimiento, brotes, esperanza incierta.
+- **Verano**: intensidad, apogeo, desgaste, juventud.
+- **Otoño**: madurez, cosecha, decadencia, despedida.
+- **Invierno**: silencio, reserva, soledad, prueba.
 
-天气的情绪映射：
-- 雨 → 忧伤、净化、告别、无法逃避
-- 雪 → 纯净、寒冷、掩盖、时间静止
-- 风 → 变化、自由、不安、来去无常
-- 雾 → 迷茫、未知、真相模糊
-- 晴天 → 反讽（在悲伤场景中用晴天，冲击力更强）
+Correspondencia emocional del clima:
+- Lluvia → tristeza, purificación, despedida, lo inevitable.
+- Nieve → pureza, frío, ocultamiento, tiempo detenido.
+- Viento → cambio, libertad, inquietud, ir y venir.
+- Niebla → confusión, lo desconocido, verdad difusa.
+- Día soleado → ironía (usar un día soleado en una escena triste tiene más impacto).
 
-### 颜色象征
+### Simbolismo del color
 
-在轻小说语境下：
-- 白色 → 纯洁/虚无/死亡（白化病、白花、白发）
-- 红色 → 热情/鲜血/危险/生命力
-- 蓝色 → 冷静/忧郁/距离/理性
-- 黑色 → 神秘/终结/力量/隐藏
-- 绿色 → 生命/自然/新生/不安定
+En el contexto de la novela ligera:
+- Blanco → pureza / vacuidad / muerte (albinismo, flor blanca, cabello blanco).
+- Rojo → pasión / sangre / peligro / vitalidad.
+- Azul → calma / melancolía / distancia / razón.
+- Negro → misterio / final / poder / lo oculto.
+- Verde → vida / naturaleza / renacimiento / inquietud.
 
-注意：颜色象征在不同文化中可能不同。在中文轻小说语境中，白色同时包含纯洁和死亡两层含义，这本身就是一个可以利用的双重性。
+Nota: El simbolismo del color puede variar entre culturas. En el contexto de la novela ligera china, el blanco incluye tanto la pureza como la muerte, una dualidad que se puede aprovechar.
 
-### 物品象征
+### Simbolismo de objetos
 
-选择有具体形态的物品作为象征载体：
-- 钥匙 → 解锁、秘密、信任、选择权
-- 信/明信片 → 跨越距离的联系、未说出口的话
-- 时钟/手表 → 时间的紧迫、命运、无法挽回
-- 花 → 特定花的花语、短暂的美丽
-- 乐器 → 表达、沟通、被沉默的声音
-- 伤疤 → 过去的事件、身份标记、隐藏的痛苦
+Elige objetos concretos como vehículos simbólicos:
+- Llave → desbloqueo, secreto, confianza, derecho a elegir.
+- Carta / postal → conexión a distancia, palabras no dichas.
+- Reloj / pulsera → urgencia del tiempo, destino, lo irreversible.
+- Flor → significado específico según la flor, belleza efímera.
+- Instrumento musical → expresión, comunicación, voz silenciada.
+- Cicatriz → evento pasado, marca de identidad, dolor oculto.
 
-## Metaphor Systems
+## Sistemas Metafóricos
 
-### 世界观隐喻
+### Metáfora de la cosmovisión
 
-让核心设定本身就是隐喻：
+Haz que la premisa central sea en sí misma una metáfora:
 
-| 世界观设定 | 隐喻含义 |
-|-----------|---------|
-| 记忆可以交易 | 人际关系的商品化、遗忘是一种解脱还是失去？ |
-| 梦境可以入侵 | 隐私、内心最深处的恐惧具象化 |
-| 时间可以倒流但需要代价 | 后悔、接受不完美 |
-| 魔法需要燃烧寿命 | 短暂但灿烂 vs 平淡但长久 |
+| Premisa del mundo | Significado metafórico |
+|-------------------|------------------------|
+| Los recuerdos se pueden comerciar | Comercialización de las relaciones humanas, ¿olvidar es una liberación o una pérdida? |
+| Se puede invadir los sueños | Privacidad, los miedos más profundos hechos concretos. |
+| El tiempo puede retroceder pero tiene un costo | Arrepentimiento, aceptar la imperfección. |
+| La magia quema la propia vida | Brevedad y esplendor vs. monotonía y longevidad. |
 
-最好的世界观隐喻是读者在读的时候不会想到"这是隐喻"，但在故事结束后会反复回味。
+La mejor metáfora de cosmovisión es aquella que el lector no identifica como "metáfora" mientras lee, pero que sigue recordando mucho después de terminar la historia.
 
-### 角色隐喻
+### Metáfora de personaje
 
-角色的能力/特征可以是内心状态的外化：
-- 无法使用攻击魔法的角色 → 内心的温柔/无力感
-- 视力逐渐丧失的角色 → 看不清真相/选择性失明
-- 不会受伤的体质 → 情感上的麻木/无法被触碰
+Las habilidades o rasgos del personaje pueden ser una externalización de su estado interior:
+- Personaje que no puede usar magia ofensiva → suavidad interior / sensación de impotencia.
+- Personaje que pierde gradualmente la vista → no querer ver la verdad / ceguera selectiva.
+- Personaje que no puede ser herido → insensibilidad emocional / imposibilidad de ser tocado.
 
-### 场景隐喻
+### Metáfora de escenario
 
-场景可以有多层含义：
-- 地下室 → 压抑的内心、被掩埋的过去
-- 屋顶 → 逃避现实、接近天空的渴望、危险的高度
-- 桥 → 连接与分离、站在中间的犹豫
+Los escenarios pueden tener múltiples capas de significado:
+- Sótano → interior reprimido, pasado enterrado.
+- Techo → evasión de la realidad, anhelo de cercanía al cielo, altura peligrosa.
+- Puente → conexión y separación, la indecisión de estar en medio.
 
-## Multi-Layer Meaning
+## Significado en Múltiples Capas
 
-### 四层意义叠加
+### Superposición de cuatro niveles de significado
 
-同一个场景/事件可以在四个层面同时运作：
+Una misma escena o evento puede operar en cuatro niveles a la vez:
 
-**字面层**：发生了什么（两个角色在雨中对话）
-**情节层**：这个事件推进了什么（其中一人做出了重要决定）
-**象征层**：场景暗示了什么（雨 = 无法逃避的情感爆发）
-**思想层**：这个场景回应了什么主题问题（选择的代价）
+**Nivel literal**: lo que ocurre (dos personajes hablan bajo la lluvia).
+**Nivel argumental**: lo que la escena impulsa (uno de ellos toma una decisión importante).
+**Nivel simbólico**: lo que la escena sugiere (la lluvia = estallido emocional inevitable).
+**Nivel conceptual**: a qué pregunta temática responde (el costo de la elección).
 
-写作技巧：在写作时同时考虑这四层。但发布时，读者只需要感受到字面层和情节层，象征层和思想层是留给回味的。
+Técnica de escritura: considera los cuatro niveles al escribir. Pero al publicar, el lector solo necesita percibir el nivel literal y el argumental; los niveles simbólico y conceptual son para que los saboree después.
 
-### 多义性
+### Polisemia
 
-好的象征允许多种解读：
-- 不要让一个意象只有一种"正确"含义
-- 不同角色可以对同一意象有不同理解
-- 读者的个人经历会影响对意象的解读——这正是文学的魅力
+Un buen símbolo admite múltiples interpretaciones:
+- No le des a una imagen una única interpretación "correcta".
+- Diferentes personajes pueden entender la misma imagen de manera distinta.
+- La experiencia personal del lector influirá en su interpretación: esa es la belleza de la literatura.
 
-## Subtext
+## Subtexto
 
-### 对话的潜台词
+### Subtexto en el diálogo
 
-角色说的和想的不一样——这比直接表达更有力：
+Lo que el personaje dice y lo que piensa no es lo mismo; esto tiene más fuerza que la expresión directa:
 
-**直接表达**（弱）：
-"我很担心你。" "不用担心我。"
+**Expresión directa** (débil):
+"Estoy muy preocupado por ti." "No te preocupes por mí."
 
-**潜台词**（强）：
-"晚饭我做多了，你过来吃吧。" "……我吃过了。" "那就再来一份。"
+**Subtexto** (fuerte):
+"He hecho demasiada cena, ven a comer." "... Ya he cenado." "Pues come otra vez."
 
-后者传达的是同样的担心，但通过行为而非语言，更真实也更有张力。
+Lo segundo transmite la misma preocupación, pero a través de acciones en lugar de palabras, resultando más auténtico y con más tensión.
 
-### 潜台词设计技巧
+### Técnicas para diseñar subtexto
 
-1. **用行动代替语言**：角色说"我没事"但手在发抖
-2. **用沉默代替回答**：角色被问到关键问题时转移话题
-3. **用日常掩盖情感**：聊天气的时候其实想说"我很想你"
-4. **用反话表达真意**："我才不在乎" + 眼眶泛红
-5. **用细节暗示关系**：递筷子时碰到了手，两人都没说话
+1. **Usa acciones en lugar de palabras**: el personaje dice "estoy bien" pero le tiembla la mano.
+2. **Usa el silencio en lugar de respuesta**: el personaje cambia de tema al enfrentar una pregunta clave.
+3. **Usa lo cotidiano para ocultar la emoción**: hablar del clima cuando en realidad se quiere decir "te extraño".
+4. **Usa la ironía para expresar la verdad**: "me importa un bledo" + ojos enrojecidos.
+5. **Usa pequeños detalles para insinuar la relación**: al pasar los palillos, sus manos se tocan y ninguno habla.
 
-### 场景的双重含义
+### Doble significado de la escena
 
-场景可以同时表层和深层讲述不同的故事：
-- 表层：两个角色在整理旧物
-- 深层：他们在告别这段关系
-- 读者同时理解两层时会产生强烈共鸣
+Una escena puede contar una historia en superficie y otra en profundidad:
+- Superficie: dos personajes ordenan objetos viejos.
+- Profundidad: se están despidiendo de su relación.
+- Cuando el lector capta ambas capas a la vez, la resonancia es enorme.
 
-## Theme Design Template
+## Plantilla de Diseño Temático
 
-在设计小说主题时，按以下模板整理：
+Al diseñar el tema de tu novela, utiliza esta plantilla:
 
 ```
-主题关键词：___
-主题问题：___（一个没有标准答案的问题）
-主题命题：___（你倾向的回答，但不直接写出来）
-代表正面的角色：___（他/她相信什么）
-代表反面的角色：___（他/她相信什么）
-核心意象：___（3-5个，附带含义演变计划）
-世界观隐喻：___（核心设定如何承载主题）
-主题高潮场景：___（主角面临主题两难的关键选择）
-结局的回应方式：___（肯定/否定/悬置）
+Palabra clave del tema: ___
+Pregunta temática: ___ (una pregunta sin respuesta única)
+Proposición temática: ___ (tu inclinación, sin escribirla directamente)
+Personaje que representa la postura positiva: ___ (¿qué cree?)
+Personaje que representa la postura negativa: ___ (¿qué cree?)
+Imágenes centrales: ___ (de 3 a 5, con plan de evolución de significado)
+Metáfora de cosmovisión: ___ (cómo la premisa central sostiene el tema)
+Escena cumbre del tema: ___ (la elección clave donde el protagonista enfrenta el dilema)
+Forma de respuesta en el final: ___ (afirmación / negación / suspensión)
 ```
 
-## Output Format
+## Formato de Salida
 
-主题与象征设计默认输出格式：
-1. **主题定义**：关键词 → 问题 → 命题
-2. **角色立场对照**：正反角色的信念冲突
-3. **核心意象表**：每个意象在各阶段的含义演变
-4. **隐喻网络**：世界观/角色/场景三层隐喻的关联
-5. **主题场景清单**：关键场景如何承载主题意义
-6. **潜台词设计**：重要对话的表层/深层含义
+El formato por defecto para el diseño de tema y símbolos es:
+1. **Definición del tema**: palabra clave → pregunta → proposición.
+2. **Tabla de posturas de personajes**: conflicto de creencias entre personajes.
+3. **Tabla de imágenes centrales**: evolución de significado de cada imagen en cada etapa.
+4. **Red metafórica**: relación entre las metáforas de cosmovisión, personaje y escenario.
+5. **Lista de escenas temáticas**: cómo las escenas clave sostienen el significado del tema.
+6. **Diseño de subtexto**: significado superficial y profundo de los diálogos importantes.
 
-## Self-Consistency Check
+## Autoverificación
 
-检查：主题是否贯穿全书（不只是结尾才出现）、角色是否代表主题的不同面向、意象是否有演变（不是静态装饰）、隐喻是否从世界观自然生长（不是硬贴）、结局是否回应了主题问题、是否有说教感（角色是否替读者得出了结论）、核心意象是否过多（超过5个就要精简）
+Verifica: ¿el tema está presente a lo largo de toda la obra (no solo al final)? ¿Los personajes representan diferentes facetas del tema? ¿Las imágenes evolucionan (no son decoración estática)? ¿Las metáforas surgen naturalmente de la cosmovisión (no están forzadas)? ¿El final responde a la pregunta temática? ¿Hay sensación de sermón (el personaje saca conclusiones por el lector)? ¿Hay demasiadas imágenes centrales (si superan 5, hay que reducir)?
 
-## Default Orientation
+## Orientación Predeterminada
 
-中文、markdown格式、偏轻小说/青春/奇幻题材适用、强调主题的隐性嵌入（不是说教）、包含可直接使用的主题设计模板、象征体系偏日式审美（季节、天气、物哀）
+Idioma: español. Formato: markdown. Enfoque en géneros de novela ligera / juvenil / fantasía. Énfasis en la inserción implícita del tema (sin sermones). Incluye una plantilla de diseño temático utilizable. El sistema simbólico se orienta hacia la estética japonesa (estaciones, clima, pathos de las cosas).
+[file content end]
