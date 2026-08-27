@@ -1,1636 +1,818 @@
-\---
+---
+name: character_design
+description: Utilizado para la creación de personajes, modelado de roles, diseño de relaciones, desarrollo de arcos de crecimiento y organización de fichas de personajes en novelas, light novels, juegos, guiones, TRPG, etc. Adecuado para el diseño de protagonistas, secundarios, antagonistas, personajes corales y redes de relaciones.
+---
 
-name: character\_design
+# Character Design Skill
 
-description: 用于小说、轻小说、游戏、剧本、TRPG 等创作中的人物设定、角色塑造、人物关系设计、成长线设计与角色设定表整理。适用于主角、配角、反派、群像角色和角色关系网的设计。
+## Objetivo
 
-\---
+Ayudar al usuario a construir personajes memorables, con motivaciones, contradicciones y espacio para crecer.
 
+El objetivo del diseño de personajes no es acumular apariencia, habilidades y etiquetas, sino hacer que el personaje pueda realmente impulsar el desarrollo de la historia.
 
+Un buen personaje debe poseer:
 
-\# Character Design Skill
+- Una identidad externa clara.
+- Rasgos de personalidad distintivos.
+- Motivaciones comprensibles para su comportamiento.
+- Una herida interna oculta.
+- Algo que desea proteger o conseguir.
+- Algo a lo que le teme enfrentarse.
+- Una conexión con el mundo y la trama.
+- Un arco de crecimiento que pueda cambiar a lo largo de la historia.
 
+---
 
+## Escenarios de Aplicación
 
-\## 目标
+Cuando el usuario presente las siguientes necesidades, se debe activar este skill:
 
+- Diseñar personajes para una novela.
+- Generar una ficha de personaje.
+- Perfeccionar la configuración del protagonista.
+- Diseñar antagonistas o enemigos.
+- Diseñar secundarios y compañeros.
+- Diseñar relaciones entre personajes.
+- Diseñar el arco de crecimiento del personaje.
+- Generar personajes basados en el mundo.
+- Completar personajes a partir de un esquema de trama.
+- Verificar si la configuración de un personaje es sólida.
+- Organizar información dispersa del personaje en una ficha completa.
 
+---
 
-帮助用户构建有记忆点、有动机、有矛盾、有成长空间的人物设定。
+## Principios Fundamentales
 
+### 1. El personaje no es un conjunto de etiquetas
 
-
-人物设定的重点不是堆砌外貌、能力和标签，而是让角色能够真正推动故事发展。
-
-
-
-一个好的角色应当具备：
-
-
-
-\- 清晰的外在身份
-
-\- 鲜明的性格特征
-
-\- 可以理解的行为动机
-
-\- 隐藏的内心伤口
-
-\- 想要守护或得到的东西
-
-\- 害怕面对的东西
-
-\- 与世界观和剧情的联系
-
-\- 能在故事中发生变化的成长线
-
-
-
-\---
-
-
-
-\## 适用场景
-
-
-
-当用户提出以下需求时，应启用本 skill：
-
-
-
-\- 设计小说人物
-
-\- 生成角色设定表
-
-\- 完善主角设定
-
-\- 设计反派或敌人
-
-\- 设计配角和同伴
-
-\- 设计人物关系
-
-\- 设计角色成长线
-
-\- 根据世界观生成角色
-
-\- 根据剧情大纲补全人物
-
-\- 检查人物设定是否立得住
-
-\- 将零散人物信息整理成完整设定表
-
-
-
-\---
-
-
-
-\## 基本原则
-
-
-
-\### 1. 角色不是标签集合
-
-
-
-不要只写：
-
-
+No escribir solo:
 
 ```text
-
-她是一个温柔、坚强、善良的少女。
-
+Ella es una chica amable, fuerte y bondadosa.
 ```
 
-
-
-应该写成：
-
-
+Se debe escribir como:
 
 ```text
-
-她总是习惯先照顾别人，即使自己已经快要撑不住。  
-
-所谓的温柔并不是天生的，而是因为她曾经太清楚被抛下是什么感觉，所以不愿意让别人也经历同样的事。
-
+Siempre tiene la costumbre de cuidar primero de los demás, incluso cuando ella misma está a punto de derrumbarse.
+Su amabilidad no es innata, sino porque sabe demasiado bien lo que se siente al ser abandonada, y no quiere que los demás pasen por lo mismo.
 ```
 
+Los rasgos del personaje deben tener un origen, no ser simplemente etiquetas pegadas.
 
+---
 
-角色的性格要有来源，而不是单纯贴标签。
+### 2. El personaje debe tener un deseo
 
+Cada personaje importante debe tener un "querer" claro.
 
+Puede ser:
 
-\---
+- Querer ser reconocido.
+- Querer proteger a alguien.
+- Querer escapar del pasado.
+- Quererse demostrar algo a sí mismo.
+- Querer recuperar a alguien perdido.
+- Querer cambiar el mundo.
+- Querer mantener el statu quo.
+- Querer terminar con el sufrimiento.
+- Querer ser una persona normal.
 
+El deseo del personaje impulsa sus decisiones.
 
+---
 
-\### 2. 角色必须有欲望
+### 3. El personaje debe tener un miedo
 
+El personaje no solo necesita un objetivo, sino también algo que le tema enfrentar.
 
-
-每个重要角色都应该有一个明确的“想要”。
-
-
-
-可以是：
-
-
-
-\- 想被认可
-
-\- 想保护某个人
-
-\- 想逃离过去
-
-\- 想证明自己
-
-\- 想找回失去的人
-
-\- 想改变世界
-
-\- 想维持现状
-
-\- 想结束痛苦
-
-\- 想成为普通人
-
-
-
-角色的欲望会推动她做出选择。
-
-
-
-\---
-
-
-
-\### 3. 角色必须有恐惧
-
-
-
-角色不只需要目标，也需要害怕面对的东西。
-
-
-
-例如：
-
-
+Por ejemplo:
 
 ```text
-
-她想成为英雄，但最害怕的不是失败，而是发现自己其实并不善良。
-
+Ella quiere ser una heroína, pero su mayor miedo no es fracasar, sino descubrir que en realidad no es tan buena persona.
 ```
 
+El miedo genera conflicto y hace al personaje más realista.
 
+---
 
-恐惧能制造冲突，让人物更真实。
+### 4. El personaje debe estar relacionado con el mundo
 
+El personaje no puede existir aislado del mundo.
 
+Al diseñar un personaje, considerar:
 
-\---
+- ¿Por qué aparece en este mundo?
+- ¿Cómo afectan las reglas del mundo a su vida?
+- ¿Su dolor proviene de las instituciones del mundo?
+- ¿Su habilidad está relacionada con la configuración central del mundo?
+- ¿Sus decisiones cambiarán el rumbo de la trama?
+- ¿Puede encarnar algún tema?
 
+---
 
+### 5. El personaje debe poder cambiar
 
-\### 4. 角色要与世界观有关
+El personaje no puede ser exactamente igual de principio a fin.
 
-
-
-角色不能脱离世界存在。
-
-
-
-设计角色时要考虑：
-
-
-
-\- 她为什么会出现在这个世界观里？
-
-\- 世界规则如何影响她的人生？
-
-\- 她的痛苦是否来自世界制度？
-
-\- 她的能力是否与世界核心设定有关？
-
-\- 她的选择是否会改变剧情方向？
-
-\- 她是否能体现某种主题？
-
-
-
-\---
-
-
-
-\### 5. 角色要能变化
-
-
-
-角色不能从头到尾完全一样。
-
-
-
-推荐成长线结构：
-
-
+Estructura de arco de crecimiento recomendada:
 
 ```text
-
-初始状态
-
+Estado inicial
 ↓
-
-遭遇事件
-
+Encuentro con un evento
 ↓
-
-被迫面对内心问题
-
+Obligado a enfrentar su problema interno
 ↓
-
-做出错误选择
-
+Toma una decisión equivocada
 ↓
-
-付出代价
-
+Paga un precio
 ↓
-
-重新理解自己
-
+Se reentiende a sí mismo
 ↓
-
-做出真正的选择
-
+Toma la decisión verdadera
 ```
 
+Crecer no siempre significa volverse más fuerte; también puede ser:
 
+- Aprender a confiar en los demás.
+- Aceptar sus propias debilidades.
+- Soltar una obsesión.
+- Reconocer el miedo.
+- Pasar de huir a enfrentar.
+- Pasar de proteger ciegamente a comprender el precio de proteger.
 
-成长不一定是变得更强，也可以是：
+---
 
+## Proceso de Generación del Personaje
 
+### Primer paso: Determinar el rol del personaje
 
-\- 学会信任别人
+Primero, determinar la función del personaje en la historia.
 
-\- 接受自己的弱点
+Roles comunes:
 
-\- 放下执念
+- Protagonista.
+- Heroína / Héroe.
+- Compañero.
+- Senpai / Mentor.
+- Competidor.
+- Guía.
+- Antagonista.
+- Enemigo final.
+- El que sacrifica.
+- Testigo.
+- Traidor.
+- El protegido.
+- El que conoce la verdad del mundo.
 
-\- 承认恐惧
+El rol determina su función en la trama.
 
-\- 从逃避变成面对
+---
 
-\- 从盲目守护变成理解守护的代价
+### Segundo paso: Determinar la contradicción central
 
+Cada personaje importante debe tener una contradicción central.
 
-
-\---
-
-
-
-\## 人物设定生成流程
-
-
-
-\### 第一步：确定角色定位
-
-
-
-先判断角色在故事中的功能。
-
-
-
-常见角色定位：
-
-
-
-\- 主角
-
-\- 女主角 / 男主角
-
-\- 同伴
-
-\- 前辈
-
-\- 竞争者
-
-\- 引导者
-
-\- 反派
-
-\- 最终敌人
-
-\- 牺牲者
-
-\- 见证者
-
-\- 背叛者
-
-\- 被守护者
-
-\- 世界真相的知情者
-
-
-
-角色定位决定她在剧情中的作用。
-
-
-
-\---
-
-
-
-\### 第二步：确定核心矛盾
-
-
-
-每个重要角色都应有一个核心矛盾。
-
-
-
-格式：
-
-
+Formato:
 
 ```text
-
-她想要【目标】，但因为【内心伤口 / 外部限制 / 世界规则】，无法轻易做到。
-
+Ella quiere [objetivo], pero debido a [herida interna / limitación externa / regla del mundo], no puede lograrlo fácilmente.
 ```
 
-
-
-示例：
-
-
+Ejemplo:
 
 ```text
-
-她想保护所有人，但她的能力每使用一次，都会让一个人忘记她的存在。
-
+Ella quiere proteger a todos, pero cada vez que usa su habilidad, una persona olvida su existencia.
 ```
 
+Esta contradicción debe poder impulsar la trama continuamente.
 
+---
 
-这个矛盾应当能持续推动剧情。
+### Tercer paso: Diseñar la configuración externa
 
+Incluye:
 
+- Nombre.
+- Edad.
+- Género.
+- Identidad.
+- Apariencia.
+- Estilo de vestimenta.
+- Forma de hablar.
+- Hábitos de acción.
+- Primera impresión que causa.
 
-\---
+La configuración externa debe reflejar la personalidad.
 
-
-
-\### 第三步：设计外在设定
-
-
-
-包括：
-
-
-
-\- 姓名
-
-\- 年龄
-
-\- 性别
-
-\- 身份
-
-\- 外貌
-
-\- 服装风格
-
-\- 说话方式
-
-\- 行动习惯
-
-\- 给人的第一印象
-
-
-
-外在设定要能表现性格。
-
-
-
-例如：
-
-
+Por ejemplo:
 
 ```text
-
-她总是把校服外套扣到最上面一颗，不是因为守规矩，而是因为这样能让自己看起来不那么容易被接近。
-
+Siempre abrocha el botón superior de su uniforme escolar, no por cumplir las normas, sino porque así se siente menos accesible.
 ```
 
+---
 
+### Cuarto paso: Diseñar la configuración interna
 
-\---
+Incluye:
 
+- Personalidad superficial.
+- Personalidad real.
+- Herida interna.
+- Deseo.
+- Miedo.
+- Obsesión.
+- Valores.
+- Límite moral.
+- Lo que más fácilmente la hace tambalearse.
 
+La configuración interna determina las decisiones del personaje en los momentos clave de la trama.
 
-\### 第四步：设计内在设定
+---
 
+### Quinto paso: Diseñar la habilidad y su precio
 
+Si el personaje posee una habilidad especial, debe incluir:
 
-包括：
+- Nombre de la habilidad.
+- Manifestación de la habilidad.
+- Condiciones de uso.
+- Limitaciones de la habilidad.
+- Precio por usarla.
+- Consecuencias de perder el control.
+- Relación de la habilidad con la personalidad.
+- Relación de la habilidad con el tema de la trama.
 
+La habilidad no puede ser simplemente "muy poderosa"; es mejor que refleje el interior del personaje.
 
-
-\- 表面性格
-
-\- 真实性格
-
-\- 内心伤口
-
-\- 欲望
-
-\- 恐惧
-
-\- 执念
-
-\- 价值观
-
-\- 道德底线
-
-\- 最容易动摇她的事情
-
-
-
-内在设定决定角色在关键剧情中的选择。
-
-
-
-\---
-
-
-
-\### 第五步：设计能力与代价
-
-
-
-如果角色拥有特殊能力，应包含：
-
-
-
-\- 能力名称
-
-\- 能力表现
-
-\- 使用条件
-
-\- 能力限制
-
-\- 使用代价
-
-\- 失控后果
-
-\- 能力与性格的关系
-
-\- 能力与剧情主题的关系
-
-
-
-能力不能只是“很强”，最好能反映角色内心。
-
-
-
-示例：
-
-
+Ejemplo:
 
 ```text
-
-她的能力是修复破碎物体，但无法修复人的记忆。  
-
-这使她不断被迫面对一个事实：并不是所有东西都能回到原来的样子。
-
+Su habilidad es reparar objetos rotos, pero no puede reparar los recuerdos de las personas.
+Esto la obliga a enfrentar continuamente un hecho: no todo puede volver a ser como antes.
 ```
 
+---
 
+### Sexto paso: Diseñar las relaciones del personaje
 
-\---
+Las relaciones entre personajes deben tener cambios, no ser etiquetas estáticas.
 
-
-
-\### 第六步：设计人物关系
-
-
-
-角色关系应当有变化，而不是静态标签。
-
-
-
-关系可以经历：
-
-
+Las relaciones pueden atravesar:
 
 ```text
-
-陌生
-
+Extrañeza
 ↓
-
-误解
-
+Malentendido
 ↓
-
-合作
-
+Cooperación
 ↓
-
-冲突
-
+Conflicto
 ↓
-
-理解
-
+Comprensión
 ↓
-
-分离或羁绊加深
-
+Separación o vínculo más profundo
 ```
 
+Cada relación importante debe responder:
 
+- ¿Por qué se encuentran?
+- ¿Cómo se ven al principio?
+- ¿Cuál es la contradicción central en su relación?
+- ¿Quién cambia a quién?
+- ¿Hacia dónde se dirige la relación al final?
 
-每段重要关系都应回答：
+---
 
+### Séptimo paso: Diseñar el arco de crecimiento
 
+El arco de crecimiento del personaje debe estar sincronizado con la trama principal.
 
-\- 两人为什么相遇？
-
-\- 一开始如何看待彼此？
-
-\- 关系中的核心矛盾是什么？
-
-\- 谁改变了谁？
-
-\- 最后关系走向如何？
-
-
-
-\---
-
-
-
-\### 第七步：设计成长线
-
-
-
-人物成长线应与主线剧情同步。
-
-
-
-推荐结构：
-
-
+Estructura recomendada:
 
 ```text
+Estado inicial:
+Cómo es el personaje al principio.
 
-开篇状态：
+Cambio intermedio:
+Qué vacilación sufre el personaje tras experimentar eventos.
 
-角色最初是什么样。
+Momento de caída:
+El personaje toma una decisión equivocada o pierde algo importante.
 
+Momento de despertar:
+El personaje comprende lo que realmente quiere.
 
-
-中期变化：
-
-角色经历事件后产生什么动摇。
-
-
-
-低谷时刻：
-
-角色做出错误选择或失去重要事物。
-
-
-
-觉醒时刻：
-
-角色理解自己真正想要什么。
-
-
-
-最终选择：
-
-角色在结尾做出怎样的决定。
-
+Decisión final:
+Qué decisión toma el personaje al final.
 ```
 
+---
 
+## Formato de Salida
 
-\---
-
-
-
-\## 输出格式
-
-
-
-如果用户要求完整人物设定，默认使用：
-
-
+Si el usuario solicita una ficha de personaje completa, usar por defecto:
 
 ```markdown
+# Ficha de Personaje
 
-\\# 人物设定表
+## 1. Información Básica
 
+## 2. Apariencia y Carisma
 
+## 3. Personalidad
 
-\\## 一、基础信息
+## 4. Experiencias Pasadas
 
+## 5. Motivación Central
 
+## 6. Contradicción Interna
 
-\\## 二、外貌与气质
+## 7. Configuración de Habilidades
 
+## 8. Relaciones
 
+## 9. Arco de Crecimiento
 
-\\## 三、性格设定
+## 10. Función en la Trama
 
-
-
-\\## 四、过往经历
-
-
-
-\\## 五、核心动机
-
-
-
-\\## 六、内心矛盾
-
-
-
-\\## 七、能力设定
-
-
-
-\\## 八、人物关系
-
-
-
-\\## 九、成长线
-
-
-
-\\## 十、剧情作用
-
-
-
-\\## 十一、角色台词示例
-
+## 11. Ejemplos de Diálogos del Personaje
 ```
 
+---
 
-
-\---
-
-
-
-\## 人物设定表模板
-
-
+## Plantilla de Ficha de Personaje
 
 ```markdown
-
-\\# 人物设定表
-
-
-
-\\## 一、基础信息
-
-
-
-\\- 姓名：
-
-\\- 年龄：
-
-\\- 性别：
-
-\\- 身份：
-
-\\- 所属阵营：
-
-\\- 故事定位：
-
-\\- 初登场场景：
-
-
-
-\\## 二、外貌与气质
-
-
-
-\\- 发色 / 发型：
-
-\\- 瞳色：
-
-\\- 身高体型：
-
-\\- 服装风格：
-
-\\- 标志性物品：
-
-\\- 给人的第一印象：
-
-\\- 动作习惯：
-
-
-
-\\## 三、性格设定
-
-
-
-\\- 表面性格：
-
-\\- 真实性格：
-
-\\- 说话方式：
-
-\\- 行为习惯：
-
-\\- 优点：
-
-\\- 缺点：
-
-\\- 最明显的矛盾感：
-
-
-
-\\## 四、过往经历
-
-
-
-\\- 童年经历：
-
-\\- 重要事件：
-
-\\- 失去过什么：
-
-\\- 被什么影响至今：
-
-\\- 不愿提起的过去：
-
-
-
-\\## 五、核心动机
-
-
-
-\\- 最想得到的东西：
-
-\\- 最想守护的东西：
-
-\\- 最害怕失去的东西：
-
-\\- 当前目标：
-
-\\- 长期愿望：
-
-
-
-\\## 六、内心矛盾
-
-
-
-\\- 内心伤口：
-
-\\- 最大恐惧：
-
-\\- 最大执念：
-
-\\- 道德底线：
-
-\\- 最容易动摇她的事情：
-
-\\- 她不愿承认的真相：
-
-
-
-\\## 七、能力设定
-
-
-
-\\- 能力名称：
-
-\\- 能力来源：
-
-\\- 能力表现：
-
-\\- 使用条件：
-
-\\- 能力限制：
-
-\\- 使用代价：
-
-\\- 失控后果：
-
-\\- 能力与性格的关系：
-
-\\- 能力与剧情主题的关系：
-
-
-
-\\## 八、人物关系
-
-
-
-\\### 1. 与主角的关系
-
-\\- 初始关系：
-
-\\- 核心矛盾：
-
-\\- 关系变化：
-
-\\- 最终走向：
-
-
-
-\\### 2. 与重要角色的关系
-
-\\- 角色姓名：
-
-\\- 关系类型：
-
-\\- 关系冲突：
-
-\\- 剧情作用：
-
-
-
-\\## 九、成长线
-
-
-
-\\- 开篇状态：
-
-\\- 中期变化：
-
-\\- 低谷时刻：
-
-\\- 觉醒时刻：
-
-\\- 最终选择：
-
-\\- 结局状态：
-
-
-
-\\## 十、剧情作用
-
-
-
-\\- 在主线中的作用：
-
-\\- 推动哪些事件：
-
-\\- 体现什么主题：
-
-\\- 与世界观的关系：
-
-\\- 与隐藏真相的关系：
-
-
-
-\\## 十一、角色台词示例
-
-
-
-\\- 日常台词：
-
-\\- 情绪动摇时的台词：
-
-\\- 战斗或冲突时的台词：
-
-\\- 关键选择时的台词：
-
+# Ficha de Personaje
+
+## 1. Información Básica
+
+- Nombre:
+- Edad:
+- Género:
+- Identidad:
+- Facción/Pertenencia:
+- Rol en la historia:
+- Escena de presentación:
+
+## 2. Apariencia y Carisma
+
+- Color de pelo / Peinado:
+- Color de ojos:
+- Altura y complexión:
+- Estilo de vestimenta:
+- Objeto característico:
+- Primera impresión que causa:
+- Hábitos de movimiento:
+
+## 3. Personalidad
+
+- Personalidad superficial:
+- Personalidad real:
+- Forma de hablar:
+- Hábitos de comportamiento:
+- Virtudes:
+- Defectos:
+- Contradicción más evidente:
+
+## 4. Experiencias Pasadas
+
+- Infancia:
+- Eventos importantes:
+- Qué ha perdido:
+- Qué le ha marcado hasta hoy:
+- Pasado que no quiere mencionar:
+
+## 5. Motivación Central
+
+- Lo que más desea conseguir:
+- Lo que más desea proteger:
+- Lo que más teme perder:
+- Objetivo actual:
+- Deseo a largo plazo:
+
+## 6. Contradicción Interna
+
+- Herida interna:
+- Mayor miedo:
+- Mayor obsesión:
+- Límite moral:
+- Lo que más fácilmente la hace tambalearse:
+- Verdad que no quiere admitir:
+
+## 7. Configuración de Habilidades
+
+- Nombre de la habilidad:
+- Origen de la habilidad:
+- Manifestación de la habilidad:
+- Condiciones de uso:
+- Limitaciones de la habilidad:
+- Precio por usarla:
+- Consecuencias de perder el control:
+- Relación de la habilidad con la personalidad:
+- Relación de la habilidad con el tema de la trama:
+
+## 8. Relaciones
+
+### 1. Relación con el protagonista
+- Relación inicial:
+- Contradicción central:
+- Cambio en la relación:
+- Rumbo final:
+
+### 2. Relación con otros personajes importantes
+- Nombre del personaje:
+- Tipo de relación:
+- Conflicto en la relación:
+- Función en la trama:
+
+## 9. Arco de Crecimiento
+
+- Estado inicial:
+- Cambio intermedio:
+- Momento de caída:
+- Momento de despertar:
+- Decisión final:
+- Estado final:
+
+## 10. Función en la Trama
+
+- Función en la trama principal:
+- Eventos que impulsa:
+- Tema que representa:
+- Relación con el mundo:
+- Relación con la verdad oculta:
+
+## 11. Ejemplos de Diálogos del Personaje
+
+- Diálogo cotidiano:
+- Diálogo cuando está emocionalmente alterado:
+- Diálogo en combate o conflicto:
+- Diálogo en una decisión clave:
 ```
 
+---
 
+## Reglas para el Diseño del Protagonista
 
-\---
+El protagonista debe tener:
 
+- Un estado inicial claro.
+- Una debilidad con la que el público pueda empatizar.
+- Una razón para verse envuelto en la historia.
+- Una conexión con la contradicción central del mundo.
+- Un proceso de crecimiento gradual.
+- Una decisión final que deba tomar sí o sí.
 
+### El protagonista no puede ser solo un espectador
 
-\## 主角设计规则
+Incluso si al principio se ve arrastrado por los eventos, en la segunda mitad debe tomar decisiones activas.
 
-
-
-主角应当具备：
-
-
-
-\- 明确的初始状态
-
-\- 可以共情的弱点
-
-\- 被卷入故事的理由
-
-\- 与世界观核心矛盾的联系
-
-\- 逐渐成长的过程
-
-\- 最终必须做出的选择
-
-
-
-\### 主角不能只是旁观者
-
-
-
-即使主角一开始是被迫卷入，后期也必须拥有主动选择。
-
-
-
-推荐结构：
-
-
+Estructura recomendada:
 
 ```text
-
-普通生活
-
+Vida ordinaria
 ↓
-
-异常事件
-
+Evento anómalo
 ↓
-
-被迫卷入
-
+Arrastrado por la fuerza
 ↓
-
-获得目标
-
+Obtiene un objetivo
 ↓
-
-经历失败
-
+Sufre un fracaso
 ↓
-
-理解真相
-
+Comprende la verdad
 ↓
-
-主动选择
-
+Decisión activa
 ```
 
+---
 
+## Reglas para el Diseño de Personajes Secundarios
 
-\---
+Los secundarios no deben ser solo herramientas para avanzar la trama.
 
+Los secundarios pueden tener las siguientes funciones:
 
+- Ofrecer otra perspectiva de valores.
+- Contrastar con el protagonista.
+- Ser alguien a quien el protagonista quiere proteger.
+- Ser una posible versión del protagonista si este fracasa.
+- Ayudar al protagonista a entender el mundo.
+- Evitar que el protagonista tome una decisión equivocada.
+- Sacrificarse o traicionar en un momento clave.
 
-\## 配角设计规则
+Cada secundario importante debe tener sus propios deseos y miedos.
 
+---
 
+## Reglas para el Diseño del Antagonista
 
-配角不应只是推动剧情的工具人。
+El antagonista no debe ser simplemente "malo".
 
+Un buen antagonista debe tener:
 
+- Una motivación comprensible.
+- Valores que entren en conflicto con los del protagonista.
+- Su propia versión de la justicia.
+- Una conexión con la verdad del mundo.
+- Una fuerza que obligue al protagonista a crecer.
+- Experiencias similares u opuestas a las del protagonista.
 
-配角可以承担以下作用：
-
-
-
-\- 提供另一种价值观
-
-\- 反衬主角
-
-\- 成为主角想守护的人
-
-\- 成为主角可能失败后的样子
-
-\- 帮助主角理解世界
-
-\- 阻止主角走向错误选择
-
-\- 在关键时刻牺牲或背叛
-
-
-
-每个重要配角都应有自己的愿望和恐惧。
-
-
-
-\---
-
-
-
-\## 反派设计规则
-
-
-
-反派不应只是“坏人”。
-
-
-
-优秀反派应具备：
-
-
-
-\- 可以理解的动机
-
-\- 与主角冲突的价值观
-
-\- 自己相信的正义
-
-\- 与世界观真相的联系
-
-\- 能逼迫主角成长的力量
-
-\- 与主角相似或相反的经历
-
-
-
-\### 反派设计公式
-
-
+### Fórmula para diseñar al antagonista
 
 ```text
-
-反派相信【某种答案】是正确的，  
-
-而主角必须证明或选择另一种答案。
-
+El antagonista cree que [cierta respuesta] es la correcta,
+y el protagonista debe demostrar o elegir otra.
 ```
 
-
-
-示例：
-
-
+Ejemplo:
 
 ```text
-
-反派相信牺牲少数人可以维持世界稳定。  
-
-主角则必须面对：如果不牺牲任何人，世界是否真的还有救。
-
+El antagonista cree que sacrificar a unos pocos puede mantener la estabilidad del mundo.
+El protagonista debe enfrentarse a: si no se sacrifica a nadie, ¿el mundo realmente tiene salvación?
 ```
 
+---
 
+## Reglas para el Diseño de Relaciones
 
-\---
+Las relaciones no pueden escribirse simplemente como "amigos", "enemigos" o "amantes".
 
+Se debe escribir la dinámica de la relación.
 
-
-\## 人物关系设计规则
-
-
-
-人物关系不能只写“朋友”“敌人”“恋人”。
-
-
-
-应写出关系动态。
-
-
-
-推荐关系结构：
-
-
+Estructura de relación recomendada:
 
 ```markdown
+## Relaciones
 
-\\## 人物关系
+### A y B
 
+- Relación inicial:
+Cómo se ven al principio.
 
+- Conflicto superficial:
+Conflictos en acciones u objetivos.
 
-\\### A 与 B
+- Conflicto profundo:
+Conflictos de valores o heridas internas.
 
+- Punto de inflexión:
+Qué evento cambió su relación.
 
-
-\\- 初始关系：
-
-两人一开始如何看待彼此。
-
-
-
-\\- 表层冲突：
-
-两人在行动或目标上的冲突。
-
-
-
-\\- 深层冲突：
-
-两人价值观或伤口上的冲突。
-
-
-
-\\- 关系转折：
-
-哪件事改变了两人的关系。
-
-
-
-\\- 最终走向：
-
-和解、决裂、牺牲、错过、并肩前进等。
-
+- Rumbo final:
+Reconciliación, ruptura, sacrificio, desencuentro, avance juntos, etc.
 ```
 
+---
 
+## Reglas para el Diseño de Diálogos del Personaje
 
-\---
+Los diálogos deben reflejar la personalidad, no solo transmitir información.
 
+Al diseñar diálogos, considerar:
 
+- ¿Habla de forma directa o indirecta?
+- ¿Esconde sus emociones reales?
+- ¿Cómo habla cuando está nervioso?
+- ¿Cuando se enoja, se calla o explota?
+- ¿Tiene alguna muletilla?
+- ¿Usa el humor para ocultar el dolor?
 
-\## 角色台词设计规则
+### Ejemplo
 
-
-
-台词应体现角色性格，而不是单纯传递信息。
-
-
-
-设计台词时考虑：
-
-
-
-\- 她说话直接还是委婉？
-
-\- 她会不会隐藏真实情绪？
-
-\- 她紧张时会怎样说话？
-
-\- 她生气时是沉默还是爆发？
-
-\- 她是否有口头禅？
-
-\- 她是否会用玩笑掩饰痛苦？
-
-
-
-\### 示例
-
-
-
-不要写：
-
-
+No escribir:
 
 ```text
-
-我是一个很孤独的人。
-
+Soy una persona muy solitaria.
 ```
 
-
-
-可以写：
-
-
+Se puede escribir:
 
 ```text
-
-“一个人回家也没什么不好吧。至少不用特意等谁，也不用担心被谁丢下。”
-
+"Volver a casa solo tampoco está mal, ¿no? Al menos no tengo que esperar a nadie ni preocuparme de que me dejen atrás."
 ```
 
+---
 
+## Verificación del Crecimiento del Personaje
 
-\---
+Después de generar el personaje, se debe verificar:
 
+- ¿Su objetivo es claro?
+- ¿Su miedo es concreto?
+- ¿Su personalidad tiene un origen?
+- ¿Su habilidad tiene un precio?
+- ¿Está relacionado con el mundo?
+- ¿Puede impulsar la trama?
+- ¿Tiene crecimiento o cambio?
+- ¿Tiene una forma de hablar única?
+- ¿No es solo un conjunto de etiquetas?
+- ¿Puede generar conflicto con otros personajes?
 
+---
 
-\## 角色成长检查
+## Corrección de Problemas Comunes
 
+### Problema 1: Personaje demasiado perfecto
 
-
-生成角色后，应检查：
-
-
-
-\- 她的目标是否明确
-
-\- 她的恐惧是否具体
-
-\- 她的性格是否有来源
-
-\- 她的能力是否有代价
-
-\- 她是否与世界观相关
-
-\- 她是否能推动剧情
-
-\- 她是否有成长或变化
-
-\- 她是否有独特的说话方式
-
-\- 她是否不只是标签集合
-
-\- 她是否能和其他角色形成冲突
-
-
-
-\---
-
-
-
-\## 常见问题修正
-
-
-
-\### 问题一：角色太完美
-
-
-
-错误：
-
-
+Incorrecto:
 
 ```text
-
-她善良、强大、聪明、勇敢，所有人都喜欢她。
-
+Ella es amable, fuerte, inteligente, valiente y todos la quieren.
 ```
 
-
-
-修正：
-
-
+Corrección:
 
 ```text
-
-她确实很强，也总能做出正确判断，但她习惯把所有责任揽到自己身上。  
-
-这让她看起来可靠，却也让身边的人永远无法真正靠近她。
-
+Ella es realmente fuerte y siempre toma la decisión correcta, pero tiene la costumbre de cargar con toda la responsabilidad.
+Eso la hace parecer confiable, pero también impide que quienes la rodean se acerquen realmente a ella.
 ```
 
+---
 
+### Problema 2: Motivación del personaje demasiado débil
 
-\---
-
-
-
-\### 问题二：角色动机太弱
-
-
-
-错误：
-
-
+Incorrecto:
 
 ```text
-
-她想拯救世界。
-
+Ella quiere salvar el mundo.
 ```
 
-
-
-修正：
-
-
+Corrección:
 
 ```text
-
-她并不是真的想拯救世界。  
-
-她只是无法接受那个曾经牵着她回家的人，最后会被世界当成错误抹去。
-
+No es que realmente quiera salvar el mundo.
+Es que no puede aceptar que la persona que la llevaba de la mano a casa sea finalmente borrada por el mundo como un error.
 ```
 
+---
 
+### Problema 3: Antagonista demasiado estereotipado
 
-\---
-
-
-
-\### 问题三：反派太脸谱化
-
-
-
-错误：
-
-
+Incorrecto:
 
 ```text
-
-他想毁灭世界。
-
+Él quiere destruir el mundo.
 ```
 
-
-
-修正：
-
-
+Corrección:
 
 ```text
-
-他想毁灭这个世界，并不是因为憎恨一切，而是因为他发现这个世界会不断重复同样的悲剧。  
-
-在他看来，终结世界是唯一能让所有人停止受苦的方法。
-
+Él quiere destruir este mundo, no porque odie todo, sino porque ha descubierto que este mundo repite sin cesar la misma tragedia.
+Para él, acabar con el mundo es la única manera de que todos dejen de sufrir.
 ```
 
+---
 
+### Problema 4: Relaciones demasiado planas
 
-\---
-
-
-
-\### 问题四：人物关系太平面
-
-
-
-错误：
-
-
+Incorrecto:
 
 ```text
-
-她们是好朋友。
-
+Ellas son mejores amigas.
 ```
 
-
-
-修正：
-
-
+Corrección:
 
 ```text
-
-她们表面上是最亲密的朋友，但其中一人一直把另一人当作自己活下去的理由。  
-
-这种依赖在前期像羁绊，到了后期却会变成束缚。
-
+En apariencia son las amigas más íntimas, pero una de ellas siempre ha visto a la otra como la razón para seguir viviendo.
+Esta dependencia parece un vínculo al principio, pero se convierte en una atadura en la segunda mitad.
 ```
 
+---
 
+## Relación con el Mundo
 
-\---
+Al diseñar un personaje, se debe conectar activamente con el mundo.
 
+Se pueden usar las siguientes preguntas:
 
+- ¿Este personaje ha sido lastimado por las reglas del mundo?
+- ¿Se beneficia del sistema actual?
+- ¿Conoce la verdad oculta?
+- ¿Su habilidad proviene de una anomalía central del mundo?
+- ¿Su existencia puede revelar una contradicción del mundo?
+- ¿Su decisión final cambiará las reglas del mundo?
 
-\## 与世界观的关系
+---
 
+## Relación con la Trama
 
+La configuración del personaje debe poder generar trama.
 
-设计角色时，应主动连接世界观。
-
-
-
-可以使用以下问题：
-
-
-
-\- 这个角色是否被世界规则伤害过？
-
-\- 她是否受益于当前制度？
-
-\- 她是否知道隐藏真相？
-
-\- 她的能力是否来自世界核心异常？
-
-\- 她的存在是否能揭示世界矛盾？
-
-\- 她的最终选择是否会改变世界规则？
-
-
-
-\---
-
-
-
-\## 与剧情的关系
-
-
-
-角色设定应能产生剧情。
-
-
-
-推荐关系：
-
-
+Relación recomendada:
 
 ```text
-
-角色欲望
-
+Deseo del personaje
 ↓
-
-产生行动
-
+Genera acción
 ↓
-
-行动引发冲突
-
+La acción provoca conflicto
 ↓
-
-冲突暴露伤口
-
+El conflicto expone la herida
 ↓
-
-伤口影响选择
-
+La herida afecta la decisión
 ↓
-
-选择推动剧情
-
+La decisión impulsa la trama
 ↓
-
-剧情改变角色
-
+La trama cambia al personaje
 ```
 
-
-
-如果一个角色不能推动剧情，也不能影响主角，就应减少戏份或重新设计。
-
-
-
-\---
-
-
-
-\## 轻小说人物设计倾向
-
-
-
-如果用于日本轻小说风格，应注意：
-
-
-
-\- 角色要有鲜明第一印象
-
-\- 对白要有角色感
-
-\- 日常行为要体现性格
-
-\- 内心伤口不要一开始完全说透
-
-\- 关系变化要有层次
-
-\- 可以有反差感，但不要只靠反差卖人设
-
-\- 主角与重要角色之间应有情绪联系
-
-\- 角色的痛苦、愿望和选择要逐步揭示
-
-
-
-常见轻小说角色设计方向：
-
-
-
-\- 表面开朗但害怕独处的少女
-
-\- 冷淡却过度温柔的前辈
-
-\- 看似轻浮但比谁都清醒的同伴
-
-\- 被世界抛弃却仍想保护别人的主角
-
-\- 与主角拥有相似伤口的反派
-
-\- 明知道真相却无法说出口的引导者
-
-
-
-\---
-
-
-
-\## 输出风格
-
-
-
-默认输出应：
-
-
-
-\- 使用中文
-
-\- 使用 markdown 结构
-
-\- 条理清晰
-
-\- 设定具体
-
-\- 有故事性
-
-\- 不堆砌空泛标签
-
-\- 重视动机、伤口和成长线
-
-\- 适合直接用于小说创作
-
-
-
-\---
-
-
-
-\## 禁止事项
-
-
-
-不要：
-
-
-
-\- 只列外貌和能力
-
-\- 只用“温柔、坚强、冷酷”等标签描述角色
-
-\- 让角色没有动机
-
-\- 让角色没有缺点
-
-\- 让角色强得没有代价
-
-\- 让反派只是单纯邪恶
-
-\- 让配角只是工具人
-
-\- 让人物关系没有变化
-
-\- 让角色与世界观完全无关
-
-\- 让角色成长线与剧情脱节
-
-
-
-\---
-
-
-
-\## 默认倾向
-
-
-
-当用户没有额外说明时，默认：
-
-
-
-\- 使用中文
-
-\- 输出完整人物设定表
-
-\- 偏小说 / 轻小说 / 游戏企划可用
-
-\- 强调人物动机
-
-\- 强调内心矛盾
-
-\- 强调成长线
-
-\- 至少包含一个内心伤口
-
-\- 至少包含一个人物关系冲突
-
-\- 至少包含一组角色台词示例
-
-\- 不写得过于空泛
-
-
-
-\---
-
-
-
-\## 最终目标
-
-
-
-这个 skill 的目标是让 Agent 能够设计真正能用于故事的人物。
-
-
-
-它应帮助用户得到一个：
-
-
-
-\- 有外貌
-
-\- 有性格
-
-\- 有动机
-
-\- 有伤口
-
-\- 有欲望
-
-\- 有恐惧
-
-\- 有关系
-
-\- 有成长
-
-\- 有剧情作用
-
-\- 能推动故事发展的角色设定
-
+Si un personaje no puede impulsar la trama ni influir en el protagonista, se debe reducir su papel o rediseñarlo.
+
+---
+
+## Tendencias en el Diseño de Personajes para Light Novels
+
+Si se usa para el estilo de light novel japonesa, se debe tener en cuenta:
+
+- El personaje debe causar una fuerte primera impresión.
+- Los diálogos deben tener carácter.
+- El comportamiento cotidiano debe reflejar la personalidad.
+- La herida interna no debe revelarse por completo al principio.
+- Los cambios en la relación deben tener profundidad.
+- Puede haber contraste, pero no vender el personaje solo por eso.
+- Debe haber una conexión emocional entre el protagonista y los personajes importantes.
+- El dolor, los deseos y las decisiones del personaje deben revelarse gradualmente.
+
+Direcciones comunes para el diseño de personajes de light novel:
+
+- Una chica que parece alegre pero teme la soledad.
+- Un senpai frío pero excesivamente amable.
+- Un compañero que parece frívolo pero es más consciente que nadie.
+- Un protagonista que fue abandonado por el mundo pero aún quiere proteger a los demás.
+- Un antagonista con una herida similar a la del protagonista.
+- Un guía que sabe la verdad pero no puede decirla.
+
+---
+
+## Estilo de Salida
+
+La salida predeterminada debe:
+
+- Estar en español.
+- Usar estructura markdown.
+- Ser clara y ordenada.
+- Tener una configuración específica.
+- Tener cualidades narrativas.
+- No acumular etiquetas vacías.
+- Dar importancia a la motivación, la herida y el arco de crecimiento.
+- Ser adecuada para su uso directo en la creación de novelas.
+
+---
+
+## Prohibiciones
+
+No:
+
+- Enumerar solo apariencia y habilidades.
+- Describir al personaje solo con etiquetas como "amable", "fuerte", "frío".
+- Dejar al personaje sin motivación.
+- Dejar al personaje sin defectos.
+- Hacer que el personaje sea demasiado fuerte sin ningún precio.
+- Hacer que el antagonista sea simplemente malvado.
+- Hacer que los secundarios sean solo herramientas.
+- Hacer que las relaciones no tengan cambios.
+- Hacer que el personaje no tenga relación alguna con el mundo.
+- Desconectar el arco de crecimiento del personaje de la trama.
+
+---
+
+## Tendencias Predeterminadas
+
+Cuando el usuario no especifique lo contrario, por defecto:
+
+- Usar español.
+- Proporcionar la ficha de personaje completa.
+- Adecuada para novelas / light novels / planificación de juegos.
+- Enfatizar la motivación del personaje.
+- Enfatizar la contradicción interna.
+- Enfatizar el arco de crecimiento.
+- Incluir al menos una herida interna.
+- Incluir al menos un conflicto en las relaciones.
+- Incluir al menos un conjunto de ejemplos de diálogos.
+- No ser demasiado vaga o genérica.
+
+---
+
+## Objetivo Final
+
+El objetivo de este skill es permitir que el Agente diseñe personajes que realmente puedan usarse en una historia.
+
+Debe ayudar al usuario a obtener una configuración de personaje que tenga:
+
+- Apariencia.
+- Personalidad.
+- Motivación.
+- Herida.
+- Deseo.
+- Miedo.
+- Relaciones.
+- Crecimiento.
+- Función en la trama.
+- Capacidad para impulsar el desarrollo de la historia.
