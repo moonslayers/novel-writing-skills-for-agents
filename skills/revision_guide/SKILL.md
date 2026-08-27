@@ -1,6 +1,6 @@
 ---
 name: revision_and_quality_diagnosis
-description: Revisión, diagnóstico y revisión sistemáticos de textos de novelas ya escritos, asegurando la calidad de la obra desde cinco dimensiones: estructura, personajes, lenguaje, emoción y construcción del mundo.
+description: Revisión, diagnóstico y revisión sistemáticos de textos de novelas ya escritos, asegurando la calidad de la obra desde cinco dimensiones: estructura, personajes, lenguaje, emoción y construcción del mundo
 ---
 
 # Revision & Quality Diagnosis Skill
