@@ -1,369 +1,438 @@
-# 审稿修订与质量诊断 Skill
+---
+name: revision_and_quality_diagnosis
+description: Revisión, diagnóstico y revisión sistemáticos de textos de novelas ya escritos, asegurando la calidad de la obra desde cinco dimensiones: estructura, personajes, lenguaje, emoción y construcción del mundo.
+---
 
-对已完成的小说文本进行系统化的审查、诊断和修订，从结构、角色、语言、情感、世界观五个维度确保作品质量。
+# Revision & Quality Diagnosis Skill
 
 ## Core Principles
 
-1. **先看整体再看细节** — 不要一开始就纠结措辞。先确认结构是否完整、故事是否成立，再打磨语言
-2. **读者视角优先** — 作者知道一切，读者只知道你写出来的。用"第一次读"的视角审视每个场景
-3. **删除比添加更有力** — 大多数问题不是写得不够，而是写得太多。精简往往比扩展更能提升质量
-4. **每个场景都要有存在的理由** — 如果删掉一个场景故事仍然完整，那这个场景要么需要加强功能，要么需要删除
-5. **保留原剧情，优化表达** — 除非结构有严重问题，否则润色的原则是不改变人物关系和结局，只提升呈现质量
+1. **Primero lo global, luego los detalles** — No empieces corrigiendo la redacción. Primero confirma que la estructura es completa y que la historia funciona, luego pule el lenguaje.
+2. **Prioriza la perspectiva del lector** — El autor lo sabe todo, el lector solo sabe lo que está escrito. Examina cada escena con la mirada de quien "lee por primera vez".
+3. **Eliminar es más poderoso que añadir** — La mayoría de los problemas no son por falta de escritura, sino por exceso. A menudo, simplificar mejora más la calidad que expandir.
+4. **Cada escena debe tener una razón de existir** — Si al eliminar una escena la historia sigue siendo completa, esa escena necesita ser reforzada en su función o ser eliminada.
+5. **Conserva la trama original, optimiza la expresión** — A menos que haya problemas graves de estructura, el principio de la corrección es no cambiar las relaciones entre personajes ni el final, solo mejorar la calidad de la presentación.
+
+---
 
 ## Review Framework
 
-### 审稿的五个维度
+### Las Cinco Dimensiones de la Revisión
 
-每次审稿按以下顺序检查：
+Cada revisión se hará en el siguiente orden:
 
-**第一遍：结构审查**（全局视角）
-**第二遍：角色审查**（角色视角）
-**第三遍：情感审查**（读者视角）
-**第四遍：世界观审查**（设定视角）
-**第五遍：语言审查**（文字视角）
+**Primera pasada: Revisión de estructura** (perspectiva global)
+**Segunda pasada: Revisión de personajes** (perspectiva de los personajes)
+**Tercera pasada: Revisión emocional** (perspectiva del lector)
+**Cuarta pasada: Revisión del mundo** (perspectiva de la configuración)
+**Quinta pasada: Revisión del lenguaje** (perspectiva del texto)
 
-不要在同一次阅读中同时检查所有维度——每次只专注一个维度，否则会遗漏问题。
+No revisar todas las dimensiones en una misma lectura: concéntrate en una sola dimensión cada vez, o se te pasarán problemas.
+
+---
 
 ## Structure Review
 
-### 节奏诊断
+### Diagnóstico del Ritmo
 
-**检查方法**：给每个章节标注节奏等级（1-5，1=极慢，5=极快）
+**Método de verificación**: Asignar a cada capítulo un nivel de ritmo (1-5, donde 1=muy lento, 5=muy rápido).
 
 ```
-第一章：2（日常引入）
-第二章：3（异常初现）
-第三章：2（关系建立）
-第四章：4（冲突升级）
-第五章：5（高潮）
-第六章：2（余韵）
+Capítulo 1: 2 (introducción cotidiana)
+Capítulo 2: 3 (primera anomalía)
+Capítulo 3: 2 (establecimiento de relaciones)
+Capítulo 4: 4 (escalada del conflicto)
+Capítulo 5: 5 (clímax)
+Capítulo 6: 2 (resquicio)
 ```
 
-**节奏问题信号**：
-- 连续3章以上同一节奏等级 → 需要变化
-- 前半部全是1-2 → 太慢，读者可能放弃
-- 最后一章节奏比高潮还高 → 没有余韵，读者感受不到结束
+**Señales de problemas de ritmo**:
+- 3 o más capítulos seguidos con el mismo nivel de ritmo → necesita variación.
+- La primera mitad es todo 1-2 → demasiado lento, el lector podría abandonar.
+- El último capítulo tiene un ritmo más alto que el clímax → sin resquicio, el lector no siente el cierre.
 
-**修复方法**：
-- 太慢的章节：砍掉或压缩不需要的过渡场景
-- 太快的章节：增加情感描写、心理活动、感官细节
-- 节奏不变：在平静中插入小冲突，在紧张中安排喘息
+**Cómo corregir**:
+- Capítulos demasiado lentos: recortar o comprimir escenas de transición innecesarias.
+- Capítulos demasiado rápidos: añadir descripción emocional, actividad psicológica, detalles sensoriales.
+- Ritmo sin cambios: insertar pequeños conflictos en la calma y pausas en la tensión.
 
-### 支线收束检查
+---
 
-列出所有副线，检查：
-- [ ] 每条副线是否有明确的开始
-- [ ] 每条副线是否有明确的结束
-- [ ] 副线结束是否在主线高潮前或高潮时
-- [ ] 副线的结束是否有情感意义（不只是"交代了"）
-- [ ] 是否存在开了没关的副线
+### Verificación del Cierre de Subtramas
 
-### 伏笔回收检查
+Enumera todas las subtramas y verifica:
+- [ ] Cada subtrama tiene un comienzo claro.
+- [ ] Cada subtrama tiene un final claro.
+- [ ] La subtrama termina antes o en el clímax de la trama principal.
+- [ ] El final de la subtrama tiene significado emocional (no solo "se informa").
+- [ ] No hay subtramas abiertas sin cerrar.
 
-列出所有伏笔，检查：
-- [ ] 伏笔在哪章埋下
-- [ ] 伏笔在哪章回收
-- [ ] 回收时读者还能记得这个伏笔吗
-- [ ] 回收是否有"原来如此"的快感
-- [ ] 是否有未回收的伏笔
-- [ ] 是否有回收了但没铺垫的"天降"元素
+---
 
-### 高潮检查
+### Verificación de la Recuperación de Presagios
 
-- [ ] 高潮是否由主角驱动（不是外部力量解决的）
-- [ ] 高潮是否有代价（主角失去了什么）
-- [ ] 高潮是否回应了主题问题
-- [ ] 高潮是否有情感冲击（不只是情节上的紧张）
-- [ ] 高潮前是否有足够的情感积累
-- [ ] 高潮后是否有适当的余韵
+Enumera todos los presagios y verifica:
+- [ ] En qué capítulo se sembró.
+- [ ] En qué capítulo se recuperó.
+- [ ] En el momento de la recuperación, ¿el lector aún lo recuerda?
+- [ ] La recuperación produce una sensación de "¡ajá!".
+- [ ] ¿Hay presagios sin recuperar?
+- [ ] ¿Hay elementos "caídos del cielo" que se recuperan pero no fueron preparados?
+
+---
+
+### Verificación del Clímax
+
+- [ ] El clímax está impulsado por el protagonista (no resuelto por fuerzas externas).
+- [ ] El clímax tiene un costo (el protagonista pierde algo).
+- [ ] El clímax responde a la pregunta temática.
+- [ ] El clímax tiene impacto emocional (no solo tensión en la trama).
+- [ ] Antes del clímax hay suficiente acumulación emocional.
+- [ ] Después del clímax hay un resquicio adecuado.
+
+---
 
 ## Character Review
 
-### 动机清晰度
+### Claridad de la Motivación
 
-对每个主要角色检查：
-- [ ] 读者能在5句话内说清这个角色想要什么吗
-- [ ] 这个角色的行为和他的动机一致吗
-- [ ] 有没有角色做出不符合动机的行为（没有给出解释的情况下）
-- [ ] 角色的动机是否有变化（有变化比没有变化好）
+Para cada personaje principal, verificar:
+- [ ] El lector puede decir en 5 frases qué es lo que este personaje quiere.
+- [ ] El comportamiento del personaje es coherente con su motivación.
+- [ ] ¿Hay personajes que actúan en contra de su motivación sin explicación?
+- [ ] La motivación del personaje cambia (es mejor que no cambie a que se mantenga estática).
 
-### 行为一致性
+---
 
-检查角色行为的"真实感"：
-- [ ] 角色的行动是否和他的性格一致
-- [ ] 如果角色做出了"反常"行为，是否给出了足够的心理铺垫
-- [ ] 角色的说话方式是否前后一致
-- [ ] 角色在不同场景中的表现是否像同一个人
+### Coherencia del Comportamiento
 
-### 成长弧线
+Verificar la "sensación de realidad" en las acciones del personaje:
+- [ ] Las acciones del personaje son coherentes con su personalidad.
+- [ ] Si el personaje actúa "de manera atípica", se ha dado suficiente preparación psicológica.
+- [ ] La forma de hablar del personaje es coherente a lo largo de la historia.
+- [ ] El personaje se comporta como la misma persona en diferentes escenas.
 
-检查角色的变化轨迹：
-- [ ] 开篇的角色状态是什么
-- [ ] 角色在哪些事件中发生了变化
-- [ ] 变化是渐进的还是突变的（突变需要充分铺垫）
-- [ ] 结局时的角色和开篇相比有什么不同
-- [ ] 角色的变化是否可信
+---
 
-### 关系动态
+### Arco de Crecimiento
 
-检查角色之间的关系是否有发展：
-- [ ] 关系是否只是静态标签（朋友/敌人/恋人）
-- [ ] 关系中是否有转折点
-- [ ] 关系变化是否有原因（不是突然就变了）
-- [ ] 关系是否呼应了主题
+Verificar la trayectoria de cambio del personaje:
+- [ ] ¿Cuál es el estado del personaje al inicio?
+- [ ] ¿En qué eventos ocurren cambios en el personaje?
+- [ ] Los cambios son graduales o repentinos (los repentinos requieren una preparación sólida).
+- [ ] ¿En qué se diferencia el personaje al final en comparación con el inicio?
+- [ ] El cambio del personaje es creíble.
 
-### 常见角色问题
+---
 
-**问题：角色没有存在感**
-→ 检查：这个角色有自己的愿望吗？有自己的恐惧吗？有做出只有他/她会做的选择吗？如果都是"否"，这个角色需要加强或合并。
+### Dinámica de las Relaciones
 
-**问题：角色行为不可信**
-→ 检查：行为前是否有足够的心理铺垫？是否给了读者理解行为的信息？如果没有，增加动机铺垫。
+Verificar si las relaciones entre personajes se desarrollan:
+- [ ] Las relaciones son solo etiquetas estáticas (amigo/enemigo/amante) o tienen evolución.
+- [ ] Hay puntos de inflexión en las relaciones.
+- [ ] Los cambios en las relaciones tienen una causa (no ocurren de repente).
+- [ ] Las relaciones resuenan con el tema de la historia.
 
-**问题：角色太完美/太单一**
-→ 检查：角色有弱点吗？有犯过错吗？有做过让读者不太舒服但可以理解的选择吗？
+---
+
+### Problemas Comunes con los Personajes
+
+**Problema: el personaje no tiene presencia**
+→ Verificar: ¿Este personaje tiene un deseo propio? ¿Tiene un miedo propio? ¿Toma decisiones que solo él/ella tomaría? Si la respuesta es "no" en todo, el personaje necesita ser reforzado o fusionado con otro.
+
+**Problema: el comportamiento del personaje no es creíble**
+→ Verificar: ¿Hay suficiente preparación psicológica antes de la acción? ¿Se ha dado al lector la información para entender la acción? Si no, añadir más base motivacional.
+
+**Problema: el personaje es demasiado perfecto o demasiado plano**
+→ Verificar: ¿El personaje tiene debilidades? ¿Ha cometido errores? ¿Ha tomado decisiones que incomoden al lector pero sean comprensibles?
+
+---
 
 ## Emotion Review
 
-### 情绪递进检查
+### Verificación de la Progresión Emocional
 
-按章节追踪主要情绪线：
+Rastrear la línea emocional principal por capítulos:
 ```
-第一章：平静 → 怀念
-第二章：平静 → 违和感
-第三章：好奇 → 不安
-第四章：紧张 → 恐惧
-第五章：恐惧 → 动摇
-第六章：动摇 → 决心
-第七章：决心 → 悲伤
-第八章：悲伤 → 释然
+Capítulo 1: calma → nostalgia
+Capítulo 2: calma → extrañeza
+Capítulo 3: curiosidad → inquietud
+Capítulo 4: tensión → miedo
+Capítulo 5: miedo → vacilación
+Capítulo 6: vacilación → determinación
+Capítulo 7: determinación → tristeza
+Capítulo 8: tristeza → alivio
 ```
 
-检查要点：
-- [ ] 情绪是否有递进（不是原地打转）
-- [ ] 相邻章节的情绪跨度是否合理（不能从平静直接跳到绝望）
-- [ ] 高潮前的情绪积累是否足够
-- [ ] 结尾的情感落点是否清晰
+Puntos a verificar:
+- [ ] La emoción progresa (no da vueltas en el mismo sitio).
+- [ ] El salto emocional entre capítulos adyacentes es razonable (no pasar de la calma a la desesperación de golpe).
+- [ ] Hay suficiente acumulación emocional antes del clímax.
+- [ ] El punto de apoyo emocional al final es claro.
 
-### 读者共鸣点诊断
+---
 
-对每个关键场景评估：
-- 读者为什么会在这里产生共鸣？
-- 这个共鸣是来自"角色的感受"还是"读者自身的经历投射"？
-- 有没有场景作者觉得很重要但读者可能无感？
+### Diagnóstico de los Puntos de Identificación del Lector
 
-### 情感空洞检测
+Para cada escena clave, evaluar:
+- ¿Por qué el lector se identificará aquí?
+- ¿La identificación viene de "los sentimientos del personaje" o de "la proyección de las propias experiencias del lector"?
+- ¿Hay escenas que el autor considera importantes pero que probablemente no conecten con el lector?
 
-检查是否存在"情感应该发生但没有发生"的地方：
-- 角色经历了重大变故但反应太平淡
-- 关系有了重大转折但情感描写不足
-- 高潮事件很激烈但内心描写缺乏
-- 告别/重逢场景缺少应有的情感重量
+---
 
-修复方法：在这些"空洞"处增加心理描写、感官细节、回忆闪现、或角色之间的对话反应。
+### Detección de Vacíos Emocionales
 
-### 情感疲劳检测
+Verificar si hay lugares donde "debería haber emoción, pero no la hay":
+- El personaje sufre un cambio importante pero reacciona con demasiada calma.
+- Hay un giro importante en una relación pero falta descripción emocional.
+- El evento de clímax es intenso pero falta desarrollo interior.
+- Las escenas de despedida o reencuentro carecen del peso emocional esperado.
 
-检查是否存在"情感过剩"的地方：
-- 连续多个场景都是高强度情感
-- 每个场景都有心理独白
-- 悲伤的场景一个接一个
+Cómo corregir: en estos "vacíos", añadir descripción psicológica, detalles sensoriales, flashbacks de recuerdos o reacciones en diálogos entre personajes.
 
-修复方法：插入轻松场景、日常描写、或用"平静写悲"的手法——用平淡的语气写悲伤的事反而更痛。
+---
+
+### Detección de Fatiga Emocional
+
+Verificar si hay lugares con "exceso de emoción":
+- Múltiples escenas seguidas con alta intensidad emocional.
+- Cada escena tiene monólogo interior.
+- Escenas tristes una tras otra.
+
+Cómo corregir: insertar escenas ligeras, descripciones cotidianas o usar la técnica de "escribir lo triste con tono calmado" — contar lo más triste con el tono más plano, paradójicamente, duele más.
+
+---
 
 ## Worldbuilding Review
 
-### 设定自洽检查
+### Verificación de Coherencia de la Configuración
 
-- [ ] 世界观规则是否在全文一致
-- [ ] 是否存在前后矛盾的设定
-- [ ] 角色的能力是否超出设定范围（没有解释的情况下）
-- [ ] 社会规则是否影响了角色的行为逻辑
+- [ ] Las reglas del mundo son consistentes a lo largo de todo el texto.
+- [ ] No hay contradicciones en la configuración.
+- [ ] Las habilidades de los personajes no exceden lo establecido (sin explicación).
+- [ ] Las reglas sociales afectan la lógica de comportamiento de los personajes.
 
-### 信息量检查
+---
 
-**设定过载信号**：
-- 连续2段以上的纯设定说明
-- 角色对话变成了设定讲解
-- 读者可能在某个场景中"出戏"去想设定
+### Verificación del Volumen de Información
 
-**设定不足信号**：
-- 角色做出决定但读者不理解为什么
-- 世界规则突然变化但没有铺垫
-- 读者频繁产生"为什么他们不直接……"的疑问
+**Señales de sobrecarga de información**:
+- Más de 2 párrafos seguidos de explicación pura de la configuración.
+- El diálogo de los personajes se convierte en una clase de configuración.
+- El lector puede "salirse" de la escena para pensar en la configuración.
 
-### 设定呈现方式检查
+**Señales de falta de información**:
+- El personaje toma una decisión que el lector no entiende.
+- Las reglas del mundo cambian de repente sin preparación.
+- El lector se pregunta con frecuencia "¿por qué no hacen directamente…?".
 
-- [ ] 设定是通过剧情自然展现的，还是通过说明硬塞的
-- [ ] 读者是"体验"到设定的，还是"被告知"设定的
-- [ ] 设定揭露的时机是否合适（太早=剧透，太晚=不理解）
+---
+
+### Verificación de la Presentación de la Configuración
+
+- [ ] La configuración se muestra de forma natural a través de la trama, no se mete a la fuerza con explicaciones.
+- [ ] El lector "experimenta" la configuración, no solo "se le informa".
+- [ ] El momento de la revelación de la configuración es adecuado (demasiado pronto = spoiler, demasiado tarde = incomprensión).
+
+---
 
 ## Language Review
 
-### 冗余检查
+### Verificación de Redundancias
 
-扫描以下常见冗余：
+Revisar los siguientes tipos de redundancia comunes:
 
-**形容词冗余**：
-- "漆黑的夜空" → "夜空"或"漆黑"（二选一）
-- "她甜甜地笑了" → "她笑了"（让读者自己感受甜）
+**Adjetivos redundantes**:
+- "El cielo oscuro de la noche" → "el cielo" o "la noche" (elegir uno).
+- "Ella sonrió dulcemente" → "Ella sonrió" (dejar que el lector sienta la dulzura).
 
-**副词冗余**：
-- "他愤怒地大声喊叫" → "他吼道"（一个强动词胜过动词+副词）
-- "她轻轻地小声说" → "她低声说"
+**Adverbios redundantes**:
+- "Gritó enfadado en voz alta" → "Bramó" (un verbo fuerte reemplaza verbo + adverbio).
+- "Dijo en voz baja suavemente" → "Susurró".
 
-**说明冗余**：
-- "她感到很伤心，眼泪流了下来" → "眼泪流了下来"（动作已经说明了情绪）
-- 删除"他意识到""她觉得""他突然发现"等心理提示语，直接写发现的内容
+**Explicaciones redundantes**:
+- "Se sintió muy triste y las lágrimas brotaron" → "Las lágrimas brotaron" (la acción ya expresa la emoción).
+- Eliminar indicadores psicológicos como "se dio cuenta de que", "sintió que", "de repente descubrió que" y escribir directamente el contenido descubierto.
 
-### 对白自然度
+---
 
-大声朗读对白，检查：
-- [ ] 人会这样说话吗
-- [ ] 这个角色会这样说话吗
-- [ ] 对话是推动剧情还是原地打转
-- [ ] 对话中有没有信息重复
+### Naturalidad del Diálogo
 
-### 描写画面感
+Leer el diálogo en voz alta y verificar:
+- [ ] ¿Una persona hablaría así?
+- [ ] ¿Este personaje hablaría así?
+- [ ] El diálogo impulsa la trama o da vueltas en el mismo sitio.
+- [ ] El diálogo repite información.
 
-检查描写段落：
-- [ ] 读完后脑海中有没有画面
-- [ ] 描写的是具体的东西还是抽象的感觉
-- [ ] 描写的顺序是否合理（从远到近、从大到小、从整体到细节）
-- [ ] 描写是否和角色的情感状态结合
+---
 
-### 常见语言问题清单
+### Calidad Visual de la Descripción
 
-- [ ] 是否有同一个词在相邻段落重复出现
-- [ ] 是否有从句套从句、读起来喘不过气的长句
-- [ ] 是否有大量"的"字连用（"她的房间的窗帘的颜色"→ "她房间窗帘的颜色"）
-- [ ] 被动语态是否过多（"门被他打开了"→ "他推开门"）
-- [ ] 是否有过多的"了"（删除不影响意思的"了"）
+Revisar los párrafos descriptivos:
+- [ ] Después de leerlos, ¿tienes una imagen mental?
+- [ ] La descripción es de cosas concretas o de sensaciones abstractas.
+- [ ] El orden de la descripción es lógico (de lejos a cerca, de grande a pequeño, de conjunto a detalle).
+- [ ] La descripción se combina con el estado emocional del personaje.
+
+---
+
+### Lista de Problemas Comunes del Lenguaje
+
+- [ ] ¿Se repite la misma palabra en párrafos adyacentes?
+- [ ] ¿Hay oraciones con muchas cláusulas subordinadas que dificultan la lectura?
+- [ ] ¿Hay muchos "de" seguidos (ej. "el color de la cortina de la habitación de ella")?
+- [ ] ¿Hay un uso excesivo de la voz pasiva ("la puerta fue abierta por él" → "él abrió la puerta")?
+- [ ] ¿Hay demasiados "le" o "se" que se pueden eliminar sin cambiar el sentido?
+
+---
 
 ## Reader Perspective Simulation
 
-### 第一遍阅读模拟
+### Simulación de Primera Lectura
 
-假装自己是第一次读这个故事：
+Finjamos que leemos la historia por primera vez:
 
-**开篇3000字检查**：
-- 读者会对什么产生兴趣？
-- 读者会在哪里想放弃？
-- 读者能理解基本设定吗？
-- 读者对主角有第一印象吗？是什么印象？
+**Revisión de las primeras 3000 palabras**:
+- ¿Qué despertará el interés del lector?
+- ¿En qué punto el lector podría querer abandonar?
+- ¿El lector puede entender la configuración básica?
+- ¿El lector se forma una primera impresión del protagonista? ¿Cuál es?
 
-**信息断裂点检查**：
-- 有没有地方读者会困惑"这是谁""这是什么""为什么"？
-- 这些困惑是作者故意制造的悬念，还是表达不清造成的？
-- 如果是后者，需要增加上下文信息
+**Revisión de los puntos de ruptura de información**:
+- ¿Hay lugares donde el lector se pregunte "quién es esto", "qué es esto", "por qué"?
+- ¿Estas confusiones son suspenso intencionado del autor o mala expresión?
+- Si es lo segundo, se necesita añadir información contextual.
 
-**情感落差检查**：
-- 作者预设的情感和读者实际可能产生的感受一致吗？
-- 有没有作者觉得感动但读者可能觉得尴尬的地方？
+**Revisión de la brecha emocional**:
+- ¿Coinciden la emoción que el autor pretende y la que el lector probablemente sentirá?
+- ¿Hay lugares que el autor cree conmovedores pero que el lector podría encontrar incómodos?
 
-### 节奏感受模拟
+---
 
-以读者速度（不是作者的慢读速度）阅读：
-- 哪里会不自觉地加快阅读速度？
-- 哪里会停下来重读？
-- 哪里会产生"终于过了这一段"的感觉？
+### Simulación de la Sensación del Ritmo
 
-这些信号都说明了节奏问题。
+Leer a la velocidad de un lector (no a la lectura lenta del autor):
+- ¿Dónde se acelera la lectura de forma inconsciente?
+- ¿Dónde se vuelve a leer?
+- ¿Dónde se tiene la sensación de "por fin pasó esto"?
+
+Cada una de estas señales indica un problema de ritmo.
+
+---
 
 ## Revision Strategies
 
-### 润色（Preserve plot, enhance expression）
+### Corrección (Preservar la trama, mejorar la expresión)
 
-适用：剧情没问题，但文字需要打磨
+Aplicable cuando: la trama está bien, pero el texto necesita ser pulido.
 
-步骤：
-1. 保留所有关键事件和对话内容
-2. 增加场景感（光线、声音、气味、温度）
-3. 增加心理描写（角色的内心反应）
-4. 优化对白（增加潜台词、自然度）
-5. 调整节奏（长短句交替、段落变化）
+Pasos:
+1. Mantener todos los eventos y diálogos clave.
+2. Añadir sensación de escena (luz, sonido, olor, temperatura).
+3. Añadir descripción psicológica (reacciones internas del personaje).
+4. Optimizar el diálogo (añadir subtexto, naturalidad).
+5. Ajustar el ritmo (alternar frases largas y cortas, variar párrafos).
 
-### 扩写（Expand thin sections）
+---
 
-适用：某个场景太仓促，需要增加内容
+### Expansión (Ampliar secciones breves)
 
-扩写方向（按优先级）：
-1. 增加具体动作和身体反应
-2. 增加感官描写
-3. 增加心理活动
-4. 增加环境细节
-5. 增加对话回合
+Aplicable cuando: una escena es demasiado rápida y necesita más contenido.
 
-注意：扩写不是加形容词。是增加"发生了什么"而不是"用更多词描述同一件事"。
+Direcciones de expansión (por orden de prioridad):
+1. Añadir acciones concretas y reacciones corporales.
+2. Añadir descripción sensorial.
+3. Añadir actividad psicológica.
+4. Añadir detalles del entorno.
+5. Añadir más intercambios en el diálogo.
 
-### 缩写（Condense overlong sections）
+Nota: expandir no es añadir adjetivos. Es añadir "qué pasa" en lugar de "describir lo mismo con más palabras".
 
-适用：某个段落太长，需要压缩
+---
 
-缩写方法：
-1. 删除不改变意思的句子
-2. 合并重复的信息
-3. 用一个强动词替换动词+副词
-4. 用具体细节替换抽象描述
-5. 砍掉不推动剧情/角色的闲聊
+### Compresión (Acortar secciones demasiado largas)
 
-### 改写（Restructure a section）
+Aplicable cuando: un párrafo o sección es demasiado larga y necesita ser comprimida.
 
-适用：某段的结构或方向有问题
+Métodos de compresión:
+1. Eliminar frases que no cambian el significado.
+2. Fusionar información repetida.
+3. Usar un verbo fuerte en lugar de verbo + adverbio.
+4. Reemplazar descripciones abstractas con detalles concretos.
+5. Recortar charlas que no impulsan la trama o a los personajes.
 
-改写步骤：
-1. 确定这段的核心功能是什么（推进剧情？发展角色？制造悬念？）
-2. 确定当前的问题是功能缺失还是功能重叠
-3. 重新设计这段的走向
-4. 保留有效的细节和对话
-5. 重写围绕核心功能展开
+---
+
+### Reescritura (Reestructurar una sección)
+
+Aplicable cuando: la estructura o dirección de una sección tiene problemas.
+
+Pasos para la reescritura:
+1. Determinar cuál es la función central de esa sección (¿impulsar la trama? ¿desarrollar un personaje? ¿crear suspenso?).
+2. Determinar si el problema es falta de función o exceso de funciones superpuestas.
+3. Rediseñar la dirección de la sección.
+4. Mantener los detalles y diálogos que funcionan.
+5. Reescribir alrededor de la función central.
+
+---
 
 ## Quality Checklist
 
-### 完稿检查总清单
+### Lista de Verificación Final
 
-**结构**
-- [ ] 整体结构完整（有开头、发展、高潮、结局）
-- [ ] 节奏有变化（没有连续同节奏段落）
-- [ ] 伏笔全部回收
-- [ ] 副线全部收束
-- [ ] 高潮由主角驱动
+**Estructura**
+- [ ] La estructura global es completa (inicio, desarrollo, clímax, final).
+- [ ] El ritmo varía (no hay varios capítulos seguidos con el mismo ritmo).
+- [ ] Todos los presagios están recuperados.
+- [ ] Todas las subtramas están cerradas.
+- [ ] El clímax está impulsado por el protagonista.
 
-**角色**
-- [ ] 主要角色动机清晰
-- [ ] 角色行为前后一致
-- [ ] 角色有成长弧线
-- [ ] 角色关系有变化
+**Personajes**
+- [ ] La motivación de los personajes principales es clara.
+- [ ] El comportamiento de los personajes es coherente.
+- [ ] Los personajes tienen un arco de crecimiento.
+- [ ] Las relaciones entre personajes cambian.
 
-**情感**
-- [ ] 情绪有递进
-- [ ] 高潮前有足够的情感积累
-- [ ] 结尾有情感落点
-- [ ] 没有情感空洞或情感疲劳
+**Emoción**
+- [ ] La emoción progresa.
+- [ ] Hay suficiente acumulación emocional antes del clímax.
+- [ ] El final tiene un punto de apoyo emocional.
+- [ ] No hay vacíos ni fatiga emocional.
 
-**世界观**
-- [ ] 设定前后一致
-- [ ] 信息量适中（不过载不不足）
-- [ ] 设定通过剧情自然展现
+**Mundo**
+- [ ] La configuración es consistente.
+- [ ] El volumen de información es adecuado (ni excesivo ni insuficiente).
+- [ ] La configuración se muestra de forma natural a través de la trama.
 
-**语言**
-- [ ] 没有明显冗余
-- [ ] 对白自然
-- [ ] 描写有画面感
-- [ ] 节奏有变化
-- [ ] 开头有钩子
+**Lenguaje**
+- [ ] No hay redundancias evidentes.
+- [ ] Los diálogos son naturales.
+- [ ] Las descripciones tienen calidad visual.
+- [ ] El ritmo varía.
+- [ ] El inicio tiene un gancho.
+
+---
 
 ## Output Format
 
-审稿修订默认输出格式：
-1. **总体评价**：一段话总结作品的优势和主要问题
-2. **结构诊断**：节奏图 + 问题标注 + 修改建议
-3. **角色诊断**：每个主要角色的动机/一致性/弧线评估
-4. **情感诊断**：情绪线图 + 空洞/疲劳标注
-5. **世界观诊断**：自洽性评估 + 信息量评估
-6. **语言诊断**：具体段落的修改建议（附原文和建议修改）
-7. **优先修改建议**：按影响力排序的修改清单
+El formato de salida predeterminado para la revisión y corrección es:
+
+1. **Evaluación general**: un párrafo que resume los puntos fuertes y los principales problemas de la obra.
+2. **Diagnóstico estructural**: gráfico de ritmo + problemas señalados + sugerencias de modificación.
+3. **Diagnóstico de personajes**: evaluación de la motivación/coherencia/arco de cada personaje principal.
+4. **Diagnóstico emocional**: gráfico de la línea emocional + señales de vacío/fatiga.
+5. **Diagnóstico del mundo**: evaluación de coherencia + evaluación del volumen de información.
+6. **Diagnóstico del lenguaje**: sugerencias de modificación para párrafos concretos (con texto original y propuesta).
+7. **Sugerencias de modificación prioritarias**: lista de modificaciones ordenadas por impacto.
+
+---
 
 ## Default Orientation
 
-中文、markdown格式、审稿视角客观建设性（先肯定再指出问题）、修改建议具体可操作（附原文对比）、按优先级排序（最重要的问题排最前）、适用于轻小说/青春/奇幻/悬疑题材
+- Idioma: español.
+- Formato: markdown.
+- Perspectiva de revisión objetiva y constructiva (primero reconocer los aciertos, luego señalar los problemas).
+- Sugerencias de modificación concretas y aplicables (con comparativa de texto original).
+- Ordenadas por prioridad (los problemas más importantes primero).
+- Adecuado para light novel, juvenil, fantasía y suspense.
