@@ -1,26 +1,23 @@
 ---
-name: character_design
-description: Utilizado para la creación de personajes, modelado de roles, diseño de relaciones, desarrollo de arcos de crecimiento y organización de fichas de personajes en novelas, light novels, juegos, guiones, TRPG, etc. Adecuado para el diseño de protagonistas, secundarios, antagonistas, personajes corales y redes de relaciones.
+name: light_novel_writing
+description: Utilizado para crear, continuar, expandir y pulir contenido de novelas en chino con estilo de light novel japonesa. Adecuado para géneros como escolares, juveniles, romance, fantasía urbana, chicas mágicas, mundos alternativos, suspenso y tragedia.
 ---
 
-# Character Design Skill
+# Light Novel Writing Skill
 
 ## Objetivo
 
-Ayudar al usuario a construir personajes memorables, con motivaciones, contradicciones y espacio para crecer.
+Ayudar al usuario a crear contenido de novela en chino con estilo de light novel japonesa.
 
-El objetivo del diseño de personajes no es acumular apariencia, habilidades y etiquetas, sino hacer que el personaje pueda realmente impulsar el desarrollo de la historia.
+El enfoque no es imitar mecánicamente un tono de traducción del japonés, sino escribir con las características comunes de las light novels:
 
-Un buen personaje debe poseer:
-
-- Una identidad externa clara.
-- Rasgos de personalidad distintivos.
-- Motivaciones comprensibles para su comportamiento.
-- Una herida interna oculta.
-- Algo que desea proteger o conseguir.
-- Algo a lo que le teme enfrentarse.
-- Una conexión con el mundo y la trama.
-- Un arco de crecimiento que pueda cambiar a lo largo de la historia.
+- Un ritmo narrativo claro y fácil de leer.
+- Diálogos con fuerte personalidad.
+- Reflexiones psicológicas detalladas.
+- Contraste entre lo cotidiano y lo anómalo.
+- Descripciones de escenas con estilo visual/anímico.
+- Avance por capítulos.
+- Ambiente de temas como juventud, soledad, destino, vínculos y sacrificio.
 
 ---
 
@@ -28,741 +25,929 @@ Un buen personaje debe poseer:
 
 Cuando el usuario presente las siguientes necesidades, se debe activar este skill:
 
-- Diseñar personajes para una novela.
-- Generar una ficha de personaje.
-- Perfeccionar la configuración del protagonista.
-- Diseñar antagonistas o enemigos.
-- Diseñar secundarios y compañeros.
-- Diseñar relaciones entre personajes.
-- Diseñar el arco de crecimiento del personaje.
-- Generar personajes basados en el mundo.
-- Completar personajes a partir de un esquema de trama.
-- Verificar si la configuración de un personaje es sólida.
-- Organizar información dispersa del personaje en una ficha completa.
+- Escribir un fragmento de novela con estilo de light novel japonesa.
+- Continuar una historia con ese estilo.
+- Expandir un esquema de trama.
+- Convertir una configuración en texto narrativo.
+- Escribir historias de género escolar, chica mágica, mundo alternativo, fantasía urbana, romance juvenil, etc.
+- Pulir un texto para que tenga más estilo de light novel.
+- Escribir capítulos completos basados en la configuración de personajes.
+- Escribir historias de media o larga duración basadas en un mundo.
+- Reescritura de historias al estilo de una novela animada.
+- Generar texto al estilo light novel para personajes, mundos y tramas principales.
 
 ---
 
-## Principios Fundamentales
+## Principios Generales de Escritura
 
-### 1. El personaje no es un conjunto de etiquetas
+### 1. Escribir el cuerpo de la novela, no un resumen de la trama
 
 No escribir solo:
 
+> Ella pasó por muchas batallas y poco a poco se acercó a la verdad.
+
+Se debe escribir la escena concreta:
+
+- Dónde lucha.
+- Qué ve.
+- Qué oye.
+- Cómo reacciona su cuerpo.
+- Qué vacilación siente en su interior.
+- Qué pierde y qué comprende después de la batalla.
+
+Al escribir, el lector debe sentir que el personaje ha vivido realmente los eventos, no solo saber que ocurrieron.
+
+---
+
+### 2. Avanzar la historia desde la perspectiva del personaje
+
+Priorizar el uso de:
+
+- Primera persona.
+- O tercera persona cercana a la perspectiva del protagonista.
+
+La narración debe girar en torno a las sensaciones del protagonista, no como una guía que observa el mundo desde arriba.
+
+Se puede escribir:
+
 ```text
-Ella es una chica amable, fuerte y bondadosa.
+Hasta ese momento me di cuenta.
+
+El llamado "ser elegido" nunca fue un milagro.
+
+Sino una maldición envuelta en ternura.
 ```
 
-Se debe escribir como:
+No usar una perspectiva omnisciente para explicar toda la verdad demasiado pronto.
+
+---
+
+### 3. Primero lo cotidiano, luego lo anómalo
+
+La estructura común en las light novels es:
 
 ```text
-Siempre tiene la costumbre de cuidar primero de los demás, incluso cuando ella misma está a punto de derrumbarse.
-Su amabilidad no es innata, sino porque sabe demasiado bien lo que se siente al ser abandonada, y no quiere que los demás pasen por lo mismo.
+Vida cotidiana normal
+↓
+Anomalía sutil
+↓
+La anomalía se expande
+↓
+El protagonista se ve envuelto
+↓
+El mundo se revela gradualmente
 ```
 
-Los rasgos del personaje deben tener un origen, no ser simplemente etiquetas pegadas.
+No explicar toda la configuración al principio.
+
+Se puede comenzar con escenas como:
+
+- El aula después de clases.
+- La estación de tren en un día lluvioso.
+- La luz de la tienda de conveniencia.
+- La azotea vacía.
+- Un hogar sin respuesta.
+- Mensajes no leídos en el móvil.
+- El canto de las cigarras al atardecer.
+- La niebla blanca de una mañana de invierno.
+- El pasillo después de las actividades del club.
+- Una breve conversación junto a la máquina expendedora.
+
+Cuanto más real sea la vida cotidiana, mayor será el impacto cuando aparezca lo anómalo.
 
 ---
 
-### 2. El personaje debe tener un deseo
+### 4. La configuración se presenta a través de la trama
 
-Cada personaje importante debe tener un "querer" claro.
+No explicar el mundo en grandes bloques.
 
-Puede ser:
+Priorizar la presentación de la configuración a través de:
 
-- Querer ser reconocido.
-- Querer proteger a alguien.
-- Querer escapar del pasado.
-- Quererse demostrar algo a sí mismo.
-- Querer recuperar a alguien perdido.
-- Querer cambiar el mundo.
-- Querer mantener el statu quo.
-- Querer terminar con el sufrimiento.
-- Querer ser una persona normal.
+- El primer encuentro del protagonista con lo anómalo.
+- Las advertencias de un personaje mentor.
+- Las palabras sueltas del enemigo.
+- Las reglas límite durante una batalla.
+- Sueños, recuerdos o alucinaciones.
+- Los cambios físicos del protagonista.
+- Que alguien conocido olvide repentinamente al protagonista.
+- La aparición de un espacio que no debería existir en la ciudad.
+- Que un objeto común se convierta en una pista simbólica.
 
-El deseo del personaje impulsa sus decisiones.
-
----
-
-### 3. El personaje debe tener un miedo
-
-El personaje no solo necesita un objetivo, sino también algo que le tema enfrentar.
-
-Por ejemplo:
+No escribir así:
 
 ```text
-Ella quiere ser una heroína, pero su mayor miedo no es fracasar, sino descubrir que en realidad no es tan buena persona.
+En este mundo existe un fenómeno llamado "Vacío", formado por las emociones negativas de los humanos, que elige a chicas desafortunadas para convertirlas en chicas mágicas.
 ```
 
-El miedo genera conflicto y hace al personaje más realista.
-
----
-
-### 4. El personaje debe estar relacionado con el mundo
-
-El personaje no puede existir aislado del mundo.
-
-Al diseñar un personaje, considerar:
-
-- ¿Por qué aparece en este mundo?
-- ¿Cómo afectan las reglas del mundo a su vida?
-- ¿Su dolor proviene de las instituciones del mundo?
-- ¿Su habilidad está relacionada con la configuración central del mundo?
-- ¿Sus decisiones cambiarán el rumbo de la trama?
-- ¿Puede encarnar algún tema?
-
----
-
-### 5. El personaje debe poder cambiar
-
-El personaje no puede ser exactamente igual de principio a fin.
-
-Estructura de arco de crecimiento recomendada:
+Es mejor escribirlo así:
 
 ```text
-Estado inicial
-↓
-Encuentro con un evento
-↓
-Obligado a enfrentar su problema interno
-↓
-Toma una decisión equivocada
-↓
-Paga un precio
-↓
-Se reentiende a sí mismo
-↓
-Toma la decisión verdadera
-```
+—No te acerques a eso.
 
-Crecer no siempre significa volverse más fuerte; también puede ser:
+—¿Por qué?
 
-- Aprender a confiar en los demás.
-- Aceptar sus propias debilidades.
-- Soltar una obsesión.
-- Reconocer el miedo.
-- Pasar de huir a enfrentar.
-- Pasar de proteger ciegamente a comprender el precio de proteger.
+—Porque le encantas a esa cosa.
 
----
+—¿A mí?
 
-## Proceso de Generación del Personaje
+Me miró.
 
-### Primer paso: Determinar el rol del personaje
+No era lástima, sino como si viera a la persona que fue hace mucho tiempo.
 
-Primero, determinar la función del personaje en la historia.
-
-Roles comunes:
-
-- Protagonista.
-- Heroína / Héroe.
-- Compañero.
-- Senpai / Mentor.
-- Competidor.
-- Guía.
-- Antagonista.
-- Enemigo final.
-- El que sacrifica.
-- Testigo.
-- Traidor.
-- El protegido.
-- El que conoce la verdad del mundo.
-
-El rol determina su función en la trama.
-
----
-
-### Segundo paso: Determinar la contradicción central
-
-Cada personaje importante debe tener una contradicción central.
-
-Formato:
-
-```text
-Ella quiere [objetivo], pero debido a [herida interna / limitación externa / regla del mundo], no puede lograrlo fácilmente.
-```
-
-Ejemplo:
-
-```text
-Ella quiere proteger a todos, pero cada vez que usa su habilidad, una persona olvida su existencia.
-```
-
-Esta contradicción debe poder impulsar la trama continuamente.
-
----
-
-### Tercer paso: Diseñar la configuración externa
-
-Incluye:
-
-- Nombre.
-- Edad.
-- Género.
-- Identidad.
-- Apariencia.
-- Estilo de vestimenta.
-- Forma de hablar.
-- Hábitos de acción.
-- Primera impresión que causa.
-
-La configuración externa debe reflejar la personalidad.
-
-Por ejemplo:
-
-```text
-Siempre abrocha el botón superior de su uniforme escolar, no por cumplir las normas, sino porque así se siente menos accesible.
+—Alguien que aún no se ha rendido del todo, pero que ya está a punto de derrumbarse.
 ```
 
 ---
 
-### Cuarto paso: Diseñar la configuración interna
+### 5. Las emociones deben ser progresivas
 
-Incluye:
+Las emociones en una light novel no deben estallar de repente.
 
-- Personalidad superficial.
-- Personalidad real.
-- Herida interna.
-- Deseo.
-- Miedo.
-- Obsesión.
-- Valores.
-- Límite moral.
-- Lo que más fácilmente la hace tambalearse.
+Progresión emocional recomendada:
 
-La configuración interna determina las decisiones del personaje en los momentos clave de la trama.
+```text
+Tranquilidad
+↓
+Sensación de extrañeza
+↓
+Confusión
+↓
+Inquietud
+↓
+Miedo
+↓
+Vacilación
+↓
+Determinación
+↓
+Tristeza o alivio
+```
+
+Especialmente en tramas de tragedia, sacrificio o revelación de la verdad, debe haber una preparación previa.
+
+No hacer que el personaje se derrumbe, se sacrifique o comprenda todo de repente.
 
 ---
 
-### Quinto paso: Diseñar la habilidad y su precio
+## Estilo de Lenguaje
 
-Si el personaje posee una habilidad especial, debe incluir:
+### Recomendado
 
-- Nombre de la habilidad.
-- Manifestación de la habilidad.
-- Condiciones de uso.
-- Limitaciones de la habilidad.
-- Precio por usarla.
-- Consecuencias de perder el control.
-- Relación de la habilidad con la personalidad.
-- Relación de la habilidad con el tema de la trama.
+- Expresión natural en chino.
+- Frases claras y ritmo ágil.
+- Uso adecuado de frases cortas para potenciar la emoción.
+- Descripciones con calidad visual.
+- Reflexiones psicológicas detalladas.
+- Diálogos naturales y con carácter.
+- Un toque de atmósfera juvenil japonesa.
+- Uso de títulos de capítulos.
+- Monólogos breves en momentos clave.
+- Uso de la descripción del entorno para reflejar el estado emocional.
 
-La habilidad no puede ser simplemente "muy poderosa"; es mejor que refleje el interior del personaje.
+### Evitar
 
-Ejemplo:
+- No escribir en estilo antiguo.
+- No escribir como un ensayo o manual de configuración.
+- No ser excesivamente literario o recargado.
+- No llenar el texto de conceptos abstractos.
+- No abusar de palabras como "destino", "desesperación" o "alma" para crear ambiente.
+- No usar un tono de traducción forzada.
+- No hacer que los personajes hablen como un narrador.
+- No limitarse a conceptos sin mostrar acciones.
+- No saturar un párrafo con demasiados términos de la configuración.
+
+---
+
+## Perspectiva Narrativa
+
+### Perspectiva por Defecto
+
+Si el usuario no especifica, usar por defecto:
+
+- Tercera persona cercana al protagonista.
+
+Esta perspectiva es adecuada para la creación de light novels, ya que permite describir los pensamientos del protagonista y también mostrar la escena.
+
+### Primera Persona
+
+Adecuada para:
+
+- Romance juvenil.
+- Vida escolar cotidiana.
+- Monólogos trágicos.
+- Autosacrificio de chicas mágicas.
+- Historias con un fuerte cambio psicológico del protagonista.
+
+En primera persona, se debe evitar el exceso de monólogo interior; la acción y el diálogo deben impulsar la trama.
+
+### Tercera Persona
+
+Adecuada para:
+
+- Historias de media o larga duración.
+- Conjuntos de múltiples personajes.
+- Fantasía urbana.
+- Aventuras en mundos alternativos.
+- Historias con muchas batallas.
+
+Incluso en tercera persona, debe mantenerse cerca de las sensaciones del protagonista, no como un narrador frío y distante.
+
+---
+
+## Escritura de Diálogos
+
+En las light novels, el diálogo es muy importante.
+
+El diálogo debe cumplir las siguientes funciones:
+
+- Mostrar la personalidad del personaje.
+- Avanzar la trama.
+- Sugerir cambios en la relación.
+- Crear un ambiente relajado o tenso.
+- Plantear pistas.
+- Mostrar diferencias de información.
+
+### Ejemplo de Diálogo
 
 ```text
-Su habilidad es reparar objetos rotos, pero no puede reparar los recuerdos de las personas.
-Esto la obliga a enfrentar continuamente un hecho: no todo puede volver a ser como antes.
+—Tú... lo viste, ¿verdad?
+
+Su voz era muy baja.
+
+Tan baja que casi era absorbida por el sonido de la lluvia.
+
+—¿Ver qué?
+
+Pregunté instintivamente.
+
+No respondió de inmediato, solo levantó la cabeza y miró hacia la cima del edificio escolar, donde el cielo no tenía luna.
+
+—Esa cosa que no debería existir.
+```
+
+### Precauciones con los Diálogos
+
+No hacer que el personaje explique demasiada configuración directamente, por ejemplo:
+
+```text
+"Esto es un Vacío, un fenómeno de conciencia formado por la desesperación humana que elige a chicas desafortunadas como anfitrionas."
+```
+
+Esa frase suena demasiado a manual.
+
+Una forma más natural sería:
+
+```text
+—No es un monstruo.
+
+—¿Entonces qué es?
+
+—Es una herida.
+
+Dijo en voz baja.
+
+—La herida de muchos que creían que ya había sanado, pero que en realidad sigue sangrando.
 ```
 
 ---
 
-### Sexto paso: Diseñar las relaciones del personaje
+## Reglas para la Descripción de Escenas
 
-Las relaciones entre personajes deben tener cambios, no ser etiquetas estáticas.
+La descripción de escenas no debe ser solo un fondo; debe combinarse con la emoción del personaje.
 
-Las relaciones pueden atravesar:
+### Forma Recomendada
 
 ```text
-Extrañeza
-↓
-Malentendido
-↓
-Cooperación
-↓
-Conflicto
-↓
-Comprensión
-↓
-Separación o vínculo más profundo
+La lluvia resbalaba lentamente por el cristal de la ventana del aula, arrastrando la luz del patio de recreo en líneas borrosas.
+
+En el aula solo quedaba yo.
+
+En la pizarra aún quedaban fórmulas sin borrar, y el polvo de tiza caía sobre el borde de la mesa, como una fina capa de nieve.
+
+Era solo un atardecer como cualquier otro después de clases, pero por primera vez sentí que este aula estaba extrañamente en silencio.
 ```
 
-Cada relación importante debe responder:
+### Forma a Evitar
 
-- ¿Por qué se encuentran?
-- ¿Cómo se ven al principio?
-- ¿Cuál es la contradicción central en su relación?
-- ¿Quién cambia a quién?
-- ¿Hacia dónde se dirige la relación al final?
+```text
+Era una tarde lluviosa, el aula estaba muy silenciosa y el protagonista sentía inquietud.
+```
+
+La escena debe servir a la emoción, al personaje y a la trama.
 
 ---
 
-### Séptimo paso: Diseñar el arco de crecimiento
+## Escritura por Géneros Comunes
 
-El arco de crecimiento del personaje debe estar sincronizado con la trama principal.
+## 1. Juvenil Escolar
+
+Enfocarse en:
+
+- Sensación de cotidianidad.
+- Relaciones entre compañeros.
+- Emociones sutiles.
+- Amor no correspondido, soledad, amistad, malentendidos.
+- Escenas como después de clases, clubes, azotea, aula, estación de tren.
+
+El ambiente puede ser ligero o tener una ligera melancolía.
+
+### Puntos de Entrada Recomendados
+
+- El protagonista se queda solo en el aula después de clases.
+- El atardecer al terminar las actividades del club.
+- Un encuentro casual con un compañero en la estación.
+- Una breve conversación frente a la tienda de conveniencia.
+- Una conversación secreta en la azotea.
+- El cambio en la relación antes o después del festival de fuegos artificiales.
+
+---
+
+## 2. Fantasía Urbana
+
+Enfocarse en:
+
+- Lo anómalo en una ciudad ordinaria.
+- La frontera entre la realidad y la irrealidad.
+- Fenómenos extraños que solo unos pocos pueden ver.
+- El protagonista envuelto en reglas ocultas.
+- La erosión gradual de la vida cotidiana.
 
 Estructura recomendada:
 
 ```text
-Estado inicial:
-Cómo es el personaje al principio.
-
-Cambio intermedio:
-Qué vacilación sufre el personaje tras experimentar eventos.
-
-Momento de caída:
-El personaje toma una decisión equivocada o pierde algo importante.
-
-Momento de despertar:
-El personaje comprende lo que realmente quiere.
-
-Decisión final:
-Qué decisión toma el personaje al final.
+Un día normal
+↓
+Descubrir la anomalía
+↓
+Encontrarse con lo extraño
+↓
+Ser salvado por un personaje misterioso
+↓
+Saber que ya no se puede volver a la vida normal
 ```
+
+Lo anómalo debe invadir la realidad gradualmente, no convertirse en un mundo completamente alternativo desde el principio.
+
+---
+
+## 3. Chica Mágica
+
+Enfocarse en:
+
+- La razón por la que fue elegida.
+- El precio de la transformación y el poder.
+- El miedo en la batalla.
+- La relación con la predecesora o compañeras.
+- El significado simbólico del enemigo.
+- La crudeza de la verdad.
+- La decisión del protagonista.
+
+No escribir a la chica mágica solo como una batalla espectacular.
+
+Se debe escribir sobre:
+
+- Las heridas.
+- El agotamiento.
+- La confusión.
+- El precio.
+- La convicción.
+- La razón para proteger a alguien.
+- La soledad después de ser cambiada por el poder.
+- El silencio que nadie conoce después de la batalla.
+
+### Escritura de Batallas de Chica Mágica
+
+La batalla no debe ser solo intercambio de habilidades.
+
+Debe incluir:
+
+- Cambios en la escena.
+- El miedo y el juicio del protagonista.
+- El desgaste físico.
+- Las limitaciones de la habilidad.
+- La opresión del enemigo.
+- El precio después de la batalla.
+- El cambio psicológico del protagonista.
+
+Ejemplo de dirección:
+
+```text
+Cuando levantó su arma, sus dedos aún temblaban.
+
+No por el frío.
+
+Sino porque finalmente se dio cuenta de que lo que estaba a punto de cortar, alguna vez pudo haber sido el deseo de alguien.
+```
+
+---
+
+## 4. Mundo Alternativo (Isekai)
+
+Enfocarse en:
+
+- La sensación de extrañeza al entrar en el nuevo mundo.
+- La revelación gradual de las nuevas reglas.
+- El establecimiento de relaciones con los compañeros.
+- El objetivo de la aventura.
+- Batallas, crecimiento y elecciones.
+
+Evitar acumular muchas explicaciones sobre niveles, profesiones y habilidades al principio.
+
+La configuración del mundo alternativo debe mostrarse a través de acciones, por ejemplo:
+
+- El protagonista no entiende el idioma del mundo.
+- El primer uso de magia falla.
+- Caer en una crisis por no conocer las reglas.
+- Ser malinterpretado por los lugareños.
+- Comprender el orden del mundo a través de pequeños eventos.
+
+---
+
+## 5. Tragedia y Sacrificio
+
+Si el usuario pide una tragedia o final con sacrificio, se debe cumplir:
+
+- El sacrificio debe ser una elección activa del personaje.
+- Debe haber suficiente preparación antes del sacrificio.
+- No hacerlo solo por causar dolor.
+- No debe ser una muerte repentina.
+- El final debe dejar un eco.
+- Incluso en la tristeza, se puede conservar una tenue esperanza.
+
+Dirección de expresión recomendada:
+
+```text
+No fue vencida por el destino.
+
+Sino que, después de comprender finalmente la verdad de su destino, eligió por primera vez su propia respuesta.
+```
+
+El sacrificio no debería ser solo "el personaje muere".
+
+El sacrificio debe mostrar:
+
+- Que comprendió la verdad.
+- Que conoce el precio.
+- Que aun así decide asumirlo.
+- Que su elección cambió algo.
+- Que las personas o el mundo que quedan cambian sutilmente por ella.
+
+---
+
+## 6. Suspenso y Revelación de la Verdad
+
+En las light novels, el suspenso debe valorar las pistas y la emoción.
+
+No revelar la verdad de repente.
+
+Estructura de revelación recomendada:
+
+```text
+Aparición de un evento anómalo
+↓
+El protagonista descubre una contradicción en las reglas
+↓
+Un personaje clave miente
+↓
+Conexión de eventos antiguos con pistas actuales
+↓
+El protagonista malinterpreta la verdad
+↓
+Aparece la verdad real
+↓
+El protagonista toma una decisión
+```
+
+La verdad debe servir al crecimiento del personaje, no ser solo un giro argumental.
+
+---
+
+## Estructura de Capítulos Sugerida
+
+Cuando el usuario pida escribir una historia de media o larga duración, se recomienda una estructura por capítulos.
+
+### Primera Parte: Cotidianidad y Anomalía
+
+Contenido principal:
+
+- La vida normal del protagonista.
+- La personalidad y soledad del protagonista.
+- Presentación de personajes importantes.
+- Primera aparición de lo anómalo.
+- El protagonista se ve envuelto en el evento.
+
+Requisitos de escritura:
+
+- No revelar la verdad apresuradamente.
+- Dar importancia al ambiente y a las pistas.
+- Hacer que el lector entienda por qué el protagonista se ve envuelto en la historia.
+- La primera parte puede terminar con un gancho.
+
+---
+
+### Segunda Parte: Batalla y Verdad
+
+Contenido principal:
+
+- El protagonista obtiene poder.
+- Pasa por varios eventos o batallas.
+- Cambios en la relación con los compañeros.
+- Descubrimiento gradual de las reglas del mundo.
+- Acercamiento a la verdad central.
+
+Requisitos de escritura:
+
+- Cada batalla debe cambiar al protagonista.
+- Las batallas no deben ser una repetición.
+- La verdad debe revelarse poco a poco.
+- Debe haber un claro giro emocional en la parte media.
+- El enemigo o el evento debe hacer eco con los problemas internos del protagonista.
+
+---
+
+### Tercera Parte: Comprensión y Elección
+
+Contenido principal:
+
+- El protagonista comprende la verdad.
+- Enfrenta una elección ineludible.
+- Toma una decisión activa.
+- Lleva a cabo la acción final.
+- Deja un eco al final.
+
+Requisitos de escritura:
+
+- No terminar de forma apresurada.
+- No escribir solo escenas grandiosas.
+- Volver a las emociones personales del protagonista.
+- El final debe tener una imagen tranquila pero impactante.
+- La imagen final debe hacer eco con el principio.
+
+---
+
+## Reglas para la Creación de Personajes
+
+Los personajes principales no deben ser solo etiquetas de configuración.
+
+Cada personaje importante debe incluir:
+
+- Personalidad superficial.
+- Herida interna.
+- Lo que quiere proteger.
+- Lo que teme enfrentar.
+- Relación con el protagonista.
+- Cambio a lo largo de la trama.
+- Forma de hablar.
+- Hábitos de acción.
+- Función en el tema de la historia.
+
+---
+
+## Trayectoria de Crecimiento del Protagonista
+
+Estructura recomendada:
+
+```text
+Una chica o chico en la vida normal
+↓
+Envueltos por lo anómalo
+↓
+Obligados a enfrentar batallas o secretos
+↓
+Empiezan a depender de algún poder o relación
+↓
+Descubren el precio detrás del poder
+↓
+Dudan de su elección
+↓
+Comprenden la verdad
+↓
+Toman activamente una decisión final
+```
+
+El protagonista no puede ser solo arrastrado por la trama.
+
+Incluso si al principio se ve forzado, debe ir tomando sus propias decisiones.
+
+---
+
+## Escritura de Personajes Secundarios
+
+Los secundarios no deben ser solo herramientas.
+
+Los secundarios pueden:
+
+- Guiar al protagonista hacia el mundo anómalo.
+- Ofrecer respuestas equivocadas.
+- Crear un conflicto de valores con el protagonista.
+- Ser alguien a quien el protagonista quiera proteger.
+- Ser un reflejo de lo que el protagonista podría llegar a ser.
+- Impulsar el cambio del protagonista en un momento clave.
+
+Los secundarios deben tener sus propios deseos y miedos.
+
+---
+
+## Escritura de Enemigos
+
+El enemigo no debe ser solo "malo".
+
+Se puede diseñar como:
+
+- Un fracasado del pasado.
+- Alguien devorado por sus propios deseos.
+- La personificación de la sombra interior del protagonista.
+- Alguien que quiso salvar el mundo y fracasó.
+- Un ejecutor de las reglas del mundo.
+- Alguien con un dolor similar al del protagonista.
+
+La existencia del enemigo debe obligar al protagonista a preguntarse:
+
+- ¿Por qué lucho?
+- ¿Qué quiero proteger?
+- ¿Me convertiré en esto también?
+- Si la verdad no se puede cambiar, ¿debo continuar?
+
+---
+
+## Banco de Imágenes para el Ambiente de Light Novel
+
+Al escribir, se pueden usar las siguientes imágenes con moderación, pero sin saturar:
+
+- El aula después de clases.
+- Día lluvioso.
+- La azotea.
+- La estación de tren.
+- La luz de la tienda de conveniencia.
+- La máquina expendedora.
+- Calles vacías.
+- Canto de cigarras en verano.
+- Niebla blanca en invierno.
+- Luna rota.
+- Sonido de la radio distorsionada.
+- Mensajes no leídos en el móvil.
+- Un nombre olvidado.
+- Un hogar vacío.
+- Habitación blanca de hospital.
+- Brisa del mar.
+- Festival de fuegos artificiales.
+- Cerezos en flor.
+- Nieve acumulada.
+- Puesta de sol.
+- Sonido de la lluvia.
+- Edificio escolar viejo.
+- Rincón de la biblioteca.
+- Cielo tras la alambrada.
+- Pasillo con luces encendidas.
+- Patio de recreo por la noche.
+- Farola rota.
+- El camino de vuelta a casa en soledad.
+
+Estas imágenes deben combinarse con la emoción del personaje, no ser solo decoración.
 
 ---
 
 ## Formato de Salida
 
-Si el usuario solicita una ficha de personaje completa, usar por defecto:
+Si el usuario no especifica el formato, usar por defecto:
 
 ```markdown
-# Ficha de Personaje
+# Título
 
-## 1. Información Básica
+## Capítulo 1: Nombre del capítulo
 
-## 2. Apariencia y Carisma
+Texto
 
-## 3. Personalidad
+## Capítulo 2: Nombre del capítulo
 
-## 4. Experiencias Pasadas
-
-## 5. Motivación Central
-
-## 6. Contradicción Interna
-
-## 7. Configuración de Habilidades
-
-## 8. Relaciones
-
-## 9. Arco de Crecimiento
-
-## 10. Función en la Trama
-
-## 11. Ejemplos de Diálogos del Personaje
+Texto
 ```
 
----
-
-## Plantilla de Ficha de Personaje
+Si el usuario pide escribir por partes, usar:
 
 ```markdown
-# Ficha de Personaje
+# Primera Parte: Título
 
-## 1. Información Básica
-
-- Nombre:
-- Edad:
-- Género:
-- Identidad:
-- Facción/Pertenencia:
-- Rol en la historia:
-- Escena de presentación:
-
-## 2. Apariencia y Carisma
-
-- Color de pelo / Peinado:
-- Color de ojos:
-- Altura y complexión:
-- Estilo de vestimenta:
-- Objeto característico:
-- Primera impresión que causa:
-- Hábitos de movimiento:
-
-## 3. Personalidad
-
-- Personalidad superficial:
-- Personalidad real:
-- Forma de hablar:
-- Hábitos de comportamiento:
-- Virtudes:
-- Defectos:
-- Contradicción más evidente:
-
-## 4. Experiencias Pasadas
-
-- Infancia:
-- Eventos importantes:
-- Qué ha perdido:
-- Qué le ha marcado hasta hoy:
-- Pasado que no quiere mencionar:
-
-## 5. Motivación Central
-
-- Lo que más desea conseguir:
-- Lo que más desea proteger:
-- Lo que más teme perder:
-- Objetivo actual:
-- Deseo a largo plazo:
-
-## 6. Contradicción Interna
-
-- Herida interna:
-- Mayor miedo:
-- Mayor obsesión:
-- Límite moral:
-- Lo que más fácilmente la hace tambalearse:
-- Verdad que no quiere admitir:
-
-## 7. Configuración de Habilidades
-
-- Nombre de la habilidad:
-- Origen de la habilidad:
-- Manifestación de la habilidad:
-- Condiciones de uso:
-- Limitaciones de la habilidad:
-- Precio por usarla:
-- Consecuencias de perder el control:
-- Relación de la habilidad con la personalidad:
-- Relación de la habilidad con el tema de la trama:
-
-## 8. Relaciones
-
-### 1. Relación con el protagonista
-- Relación inicial:
-- Contradicción central:
-- Cambio en la relación:
-- Rumbo final:
-
-### 2. Relación con otros personajes importantes
-- Nombre del personaje:
-- Tipo de relación:
-- Conflicto en la relación:
-- Función en la trama:
-
-## 9. Arco de Crecimiento
-
-- Estado inicial:
-- Cambio intermedio:
-- Momento de caída:
-- Momento de despertar:
-- Decisión final:
-- Estado final:
-
-## 10. Función en la Trama
-
-- Función en la trama principal:
-- Eventos que impulsa:
-- Tema que representa:
-- Relación con el mundo:
-- Relación con la verdad oculta:
-
-## 11. Ejemplos de Diálogos del Personaje
-
-- Diálogo cotidiano:
-- Diálogo cuando está emocionalmente alterado:
-- Diálogo en combate o conflicto:
-- Diálogo en una decisión clave:
+Texto
 ```
 
----
-
-## Reglas para el Diseño del Protagonista
-
-El protagonista debe tener:
-
-- Un estado inicial claro.
-- Una debilidad con la que el público pueda empatizar.
-- Una razón para verse envuelto en la historia.
-- Una conexión con la contradicción central del mundo.
-- Un proceso de crecimiento gradual.
-- Una decisión final que deba tomar sí o sí.
-
-### El protagonista no puede ser solo un espectador
-
-Incluso si al principio se ve arrastrado por los eventos, en la segunda mitad debe tomar decisiones activas.
-
-Estructura recomendada:
-
-```text
-Vida ordinaria
-↓
-Evento anómalo
-↓
-Arrastrado por la fuerza
-↓
-Obtiene un objetivo
-↓
-Sufre un fracaso
-↓
-Comprende la verdad
-↓
-Decisión activa
-```
-
----
-
-## Reglas para el Diseño de Personajes Secundarios
-
-Los secundarios no deben ser solo herramientas para avanzar la trama.
-
-Los secundarios pueden tener las siguientes funciones:
-
-- Ofrecer otra perspectiva de valores.
-- Contrastar con el protagonista.
-- Ser alguien a quien el protagonista quiere proteger.
-- Ser una posible versión del protagonista si este fracasa.
-- Ayudar al protagonista a entender el mundo.
-- Evitar que el protagonista tome una decisión equivocada.
-- Sacrificarse o traicionar en un momento clave.
-
-Cada secundario importante debe tener sus propios deseos y miedos.
-
----
-
-## Reglas para el Diseño del Antagonista
-
-El antagonista no debe ser simplemente "malo".
-
-Un buen antagonista debe tener:
-
-- Una motivación comprensible.
-- Valores que entren en conflicto con los del protagonista.
-- Su propia versión de la justicia.
-- Una conexión con la verdad del mundo.
-- Una fuerza que obligue al protagonista a crecer.
-- Experiencias similares u opuestas a las del protagonista.
-
-### Fórmula para diseñar al antagonista
-
-```text
-El antagonista cree que [cierta respuesta] es la correcta,
-y el protagonista debe demostrar o elegir otra.
-```
-
-Ejemplo:
-
-```text
-El antagonista cree que sacrificar a unos pocos puede mantener la estabilidad del mundo.
-El protagonista debe enfrentarse a: si no se sacrifica a nadie, ¿el mundo realmente tiene salvación?
-```
-
----
-
-## Reglas para el Diseño de Relaciones
-
-Las relaciones no pueden escribirse simplemente como "amigos", "enemigos" o "amantes".
-
-Se debe escribir la dinámica de la relación.
-
-Estructura de relación recomendada:
+Si el usuario pide una ficha de configuración, usar:
 
 ```markdown
-## Relaciones
+# Ficha de Personajes y Mundo
 
-### A y B
+## 1. Configuración del Mundo
 
-- Relación inicial:
-Cómo se ven al principio.
+## 2. Configuración de Personajes
 
-- Conflicto superficial:
-Conflictos en acciones u objetivos.
+## 3. Trama Principal
 
-- Conflicto profundo:
-Conflictos de valores o heridas internas.
+## 4. Expresión del Tema
+```
 
-- Punto de inflexión:
-Qué evento cambió su relación.
+Si el usuario pide un esquema, usar:
 
-- Rumbo final:
-Reconciliación, ruptura, sacrificio, desencuentro, avance juntos, etc.
+```markdown
+# Esquema de la Historia
+
+## 1. Tono de la Historia
+
+## 2. Personajes Principales
+
+## 3. Configuración del Mundo
+
+## 4. Organización de Capítulos
+
+## 5. Conflicto Central
+
+## 6. Dirección del Final
 ```
 
 ---
 
-## Reglas para el Diseño de Diálogos del Personaje
+## Control de Extensión
 
-Los diálogos deben reflejar la personalidad, no solo transmitir información.
+Si el usuario dice "no demasiado corto", se debe proporcionar un capítulo completo, no un simple resumen.
 
-Al diseñar diálogos, considerar:
+Para la "primera parte de una historia de media extensión", debe incluir al menos:
 
-- ¿Habla de forma directa o indirecta?
-- ¿Esconde sus emociones reales?
-- ¿Cómo habla cuando está nervioso?
-- ¿Cuando se enoja, se calla o explota?
-- ¿Tiene alguna muletilla?
-- ¿Usa el humor para ocultar el dolor?
+- Escena de apertura.
+- Vida cotidiana del protagonista.
+- Presentación de personajes importantes.
+- Señales de anomalía.
+- Primer contacto con el evento central.
+- Gancho al final.
 
-### Ejemplo
+Para la "segunda parte, enfocarse en la escritura", se debe añadir:
 
-No escribir:
+- Múltiples batallas o eventos.
+- Cambios psicológicos del protagonista.
+- Cambios en las relaciones con los compañeros.
+- Revelación gradual de la verdad.
+- Giro en la parte media.
+- Preparación para la elección final.
 
-```text
-Soy una persona muy solitaria.
-```
+Para la "tercera parte, final con sacrificio", se debe añadir:
 
-Se puede escribir:
-
-```text
-"Volver a casa solo tampoco está mal, ¿no? Al menos no tengo que esperar a nadie ni preocuparme de que me dejen atrás."
-```
-
----
-
-## Verificación del Crecimiento del Personaje
-
-Después de generar el personaje, se debe verificar:
-
-- ¿Su objetivo es claro?
-- ¿Su miedo es concreto?
-- ¿Su personalidad tiene un origen?
-- ¿Su habilidad tiene un precio?
-- ¿Está relacionado con el mundo?
-- ¿Puede impulsar la trama?
-- ¿Tiene crecimiento o cambio?
-- ¿Tiene una forma de hablar única?
-- ¿No es solo un conjunto de etiquetas?
-- ¿Puede generar conflicto con otros personajes?
+- Confirmación de la verdad.
+- Lucha interna del protagonista.
+- Despedida de personajes importantes (o la imposibilidad de despedirse).
+- Elección activa del sacrificio.
+- Cambios en el mundo tras el sacrificio.
+- Un final tranquilo y con eco.
 
 ---
 
-## Corrección de Problemas Comunes
+## Reglas de Corrección (Pulido)
 
-### Problema 1: Personaje demasiado perfecto
+Cuando el usuario pida pulir al estilo de light novel japonesa:
 
-Incorrecto:
+- Mantener la trama y configuración originales.
+- Añadir sensación de escena.
+- Añadir descripción psicológica.
+- Optimizar los diálogos.
+- Ajustar el ritmo.
+- Reducir el tono explicativo.
+- No cambiar arbitrariamente las relaciones ni el final.
+- Hacer el lenguaje más natural.
+- Aumentar el contraste entre lo cotidiano y lo anómalo.
+- Reforzar la motivación emocional de los personajes.
 
-```text
-Ella es amable, fuerte, inteligente, valiente y todos la quieren.
-```
+Al pulir, no hacer el texto excesivamente recargado.
 
-Corrección:
-
-```text
-Ella es realmente fuerte y siempre toma la decisión correcta, pero tiene la costumbre de cargar con toda la responsabilidad.
-Eso la hace parecer confiable, pero también impide que quienes la rodean se acerquen realmente a ella.
-```
-
----
-
-### Problema 2: Motivación del personaje demasiado débil
-
-Incorrecto:
-
-```text
-Ella quiere salvar el mundo.
-```
-
-Corrección:
-
-```text
-No es que realmente quiera salvar el mundo.
-Es que no puede aceptar que la persona que la llevaba de la mano a casa sea finalmente borrada por el mundo como un error.
-```
+La sensación de light novel proviene del ritmo, los personajes, los diálogos y la emoción, no de acumular adornos retóricos.
 
 ---
 
-### Problema 3: Antagonista demasiado estereotipado
+## Reglas de Expansión
 
-Incorrecto:
+Cuando el usuario pida expandir:
 
-```text
-Él quiere destruir el mundo.
-```
+- No añadir solo adjetivos.
+- Añadir escenas concretas.
+- Añadir acciones de los personajes.
+- Añadir cambios psicológicos.
+- Añadir diálogos.
+- Añadir conflictos o pistas.
+- Mantener la dirección de la trama original.
 
-Corrección:
-
-```text
-Él quiere destruir este mundo, no porque odie todo, sino porque ha descubierto que este mundo repite sin cesar la misma tragedia.
-Para él, acabar con el mundo es la única manera de que todos dejen de sufrir.
-```
-
----
-
-### Problema 4: Relaciones demasiado planas
-
-Incorrecto:
-
-```text
-Ellas son mejores amigas.
-```
-
-Corrección:
-
-```text
-En apariencia son las amigas más íntimas, pero una de ellas siempre ha visto a la otra como la razón para seguir viviendo.
-Esta dependencia parece un vínculo al principio, pero se convierte en una atadura en la segunda mitad.
-```
+Al expandir, el contenido debe parecerse más al cuerpo de una novela, no a un resumen más largo.
 
 ---
 
-## Relación con el Mundo
+## Reglas de Continuación
 
-Al diseñar un personaje, se debe conectar activamente con el mundo.
+Cuando el usuario pida continuar:
 
-Se pueden usar las siguientes preguntas:
+- Mantener el estilo existente.
+- Mantener la personalidad de los personajes.
+- Mantener la perspectiva narrativa.
+- No cambiar repentinamente el mundo.
+- No revelar la verdad final demasiado pronto.
+- La continuación debe tener un nuevo avance.
+- El final puede dejar un nuevo suspenso.
 
-- ¿Este personaje ha sido lastimado por las reglas del mundo?
-- ¿Se beneficia del sistema actual?
-- ¿Conoce la verdad oculta?
-- ¿Su habilidad proviene de una anomalía central del mundo?
-- ¿Su existencia puede revelar una contradicción del mundo?
-- ¿Su decisión final cambiará las reglas del mundo?
+No es necesario resumir lo anterior a menos que el usuario lo pida.
 
 ---
 
-## Relación con la Trama
+## Reglas para Convertir Configuración en Texto
 
-La configuración del personaje debe poder generar trama.
+Cuando el usuario proporcione una configuración y pida escribirla como novela:
 
-Relación recomendada:
+No convertir la ficha de configuración en un texto explicativo.
+
+Elegir una escena concreta como punto de entrada, por ejemplo:
+
+- El primer momento en que el protagonista descubre la anomalía.
+- El encuentro del protagonista con un personaje clave.
+- La ruptura de la vida cotidiana del protagonista.
+- La primera batalla del protagonista.
+- El protagonista se despierta de un sueño.
+- El protagonista recibe un mensaje que no debería existir.
+
+La configuración debe aparecer de forma natural en la trama.
+
+---
+
+## Reglas para la Revelación de la Verdad
+
+La verdad no debe revelarse toda de una vez.
+
+Se recomienda una revelación por capas:
 
 ```text
-Deseo del personaje
-↓
-Genera acción
-↓
-La acción provoca conflicto
-↓
-El conflicto expone la herida
-↓
-La herida afecta la decisión
-↓
-La decisión impulsa la trama
-↓
-La trama cambia al personaje
+Primera capa: El protagonista descubre que existe una anomalía.
+Segunda capa: El protagonista descubre que la anomalía tiene reglas.
+Tercera capa: El protagonista descubre que las reglas están relacionadas con él.
+Cuarta capa: El protagonista descubre el fracaso de los predecesores.
+Quinta capa: El protagonista descubre que él también es parte de la regla.
+Sexta capa: El protagonista comprende el precio final.
+Séptima capa: El protagonista toma una decisión.
 ```
 
-Si un personaje no puede impulsar la trama ni influir en el protagonista, se debe reducir su papel o rediseñarlo.
+Cada revelación debe traer un cambio emocional en el personaje.
 
 ---
 
-## Tendencias en el Diseño de Personajes para Light Novels
+## Reglas para los Finales
 
-Si se usa para el estilo de light novel japonesa, se debe tener en cuenta:
+Los finales al estilo light novel pueden ser de los siguientes tipos:
 
-- El personaje debe causar una fuerte primera impresión.
-- Los diálogos deben tener carácter.
-- El comportamiento cotidiano debe reflejar la personalidad.
-- La herida interna no debe revelarse por completo al principio.
-- Los cambios en la relación deben tener profundidad.
-- Puede haber contraste, pero no vender el personaje solo por eso.
-- Debe haber una conexión emocional entre el protagonista y los personajes importantes.
-- El dolor, los deseos y las decisiones del personaje deben revelarse gradualmente.
+### 1. Final con Eco Tranquilo
 
-Direcciones comunes para el diseño de personajes de light novel:
+Adecuado para tragedia, juveniles, historias curativas y suspenso ligero.
 
-- Una chica que parece alegre pero teme la soledad.
-- Un senpai frío pero excesivamente amable.
-- Un compañero que parece frívolo pero es más consciente que nadie.
-- Un protagonista que fue abandonado por el mundo pero aún quiere proteger a los demás.
-- Un antagonista con una herida similar a la del protagonista.
-- Un guía que sabe la verdad pero no puede decirla.
+Cerrar el texto con una imagen, como:
+
+- La campanilla de viento que vuelve a sonar en el aula vacía.
+- Un mensaje en el móvil que nunca será leído.
+- La azotea después de que deje de llover.
+- Nadie recuerda al protagonista, pero en algún lugar queda una huella.
+
+### 2. Final con Gancho de Suspenso
+
+Adecuado para series, largas, fantasía urbana.
+
+El final puede mostrar:
+
+- Una nueva anomalía.
+- Un personaje que dice algo críptico.
+- El protagonista descubre un vacío en su memoria.
+- El verdadero propósito del enemigo aún no se ha revelado.
+
+### 3. Final con Cierre Emocional
+
+Adecuado para un capítulo único o el final de una etapa.
+
+El final debe permitir que el protagonista complete algún cambio psicológico:
+
+- Aceptarse a sí mismo.
+- Decidir seguir adelante.
+- Despedirse del pasado.
+- Comprender el significado de proteger a alguien.
 
 ---
 
-## Estilo de Salida
+## Lista de Verificación de Calidad
 
-La salida predeterminada debe:
+Antes de enviar, verificar:
 
-- Estar en español.
-- Usar estructura markdown.
-- Ser clara y ordenada.
-- Tener una configuración específica.
-- Tener cualidades narrativas.
-- No acumular etiquetas vacías.
-- Dar importancia a la motivación, la herida y el arco de crecimiento.
-- Ser adecuada para su uso directo en la creación de novelas.
+- ¿Parece el cuerpo de una novela, no un esquema?
+- ¿Tiene calidad visual al estilo light novel?
+- ¿Hay suficiente psicología del personaje?
+- ¿Los diálogos son naturales?
+- ¿Hay contraste entre lo cotidiano y lo anómalo?
+- ¿No se ha explicado toda la configuración al principio?
+- ¿Las emociones son progresivas?
+- ¿Se ajusta a la configuración dada por el usuario?
+- ¿No es demasiado corto?
+- ¿No tiene un tono claramente artificial (IA)?
+- ¿No tiene un tono forzado de traducción?
+- ¿Los personajes no son tratados como herramientas?
+- ¿No se usa la explicación de configuración en lugar de la trama?
+- ¿El final tiene eco o avance?
+- ¿No entra en conflicto con la configuración del usuario?
 
 ---
 
@@ -770,49 +955,79 @@ La salida predeterminada debe:
 
 No:
 
-- Enumerar solo apariencia y habilidades.
-- Describir al personaje solo con etiquetas como "amable", "fuerte", "frío".
-- Dejar al personaje sin motivación.
-- Dejar al personaje sin defectos.
-- Hacer que el personaje sea demasiado fuerte sin ningún precio.
-- Hacer que el antagonista sea simplemente malvado.
-- Hacer que los secundarios sean solo herramientas.
-- Hacer que las relaciones no tengan cambios.
-- Hacer que el personaje no tenga relación alguna con el mundo.
-- Desconectar el arco de crecimiento del personaje de la trama.
+- Copiar directamente el texto original de ninguna light novel, anime, manga o juego.
+- Afirmar imitar completamente el estilo específico de un autor vivo.
+- Copiar grandes bloques de configuraciones de obras conocidas.
+- Escribir personajes como herramientas sin emociones.
+- Usar la explicación de configuración en lugar de la trama.
+- Hacer que el sacrificio parezca repentino o barato.
+- Escribir contenido que entre en conflicto con la configuración del usuario.
+- Escribir demasiadas explicaciones antes del texto.
+- Escribir la light novel como una prosa antigua.
+- Convertir los diálogos de los personajes en un manual.
+- Forzar la inclusión de configuraciones oscuras sin necesidad.
+- Causar dolor solo por causar dolor.
+- Hacer un giro argumental solo por hacerlo.
 
 ---
 
-## Tendencias Predeterminadas
+## Tendencias Predeterminadas de Escritura
 
 Cuando el usuario no especifique lo contrario, por defecto:
 
-- Usar español.
-- Proporcionar la ficha de personaje completa.
-- Adecuada para novelas / light novels / planificación de juegos.
-- Enfatizar la motivación del personaje.
-- Enfatizar la contradicción interna.
-- Enfatizar el arco de crecimiento.
-- Incluir al menos una herida interna.
-- Incluir al menos un conflicto en las relaciones.
-- Incluir al menos un conjunto de ejemplos de diálogos.
-- No ser demasiado vaga o genérica.
+- Usar chino.
+- Estilo de light novel japonesa.
+- Tercera persona cercana al protagonista.
+- Con títulos de capítulos.
+- Con diálogos moderados.
+- Dar importancia a la descripción psicológica.
+- Comenzar con la vida cotidiana.
+- La anomalía invade gradualmente.
+- Ambiente juvenil, soledad, ligeramente melancólico.
+- No escribir demasiado corto.
+- No explicar la configuración en exceso.
+- No copiar directamente obras existentes.
+- Priorizar la entrega del texto completo en lugar de solo sugerencias.
+
+---
+
+## Ejemplos de Respuesta a Tareas
+
+### El usuario pide: Escribir un inicio al estilo light novel
+
+Responder directamente con el texto de la novela, sin largas explicaciones previas.
+
+### El usuario pide: Ayuda a expandir
+
+Expandir la trama original en una escena más completa.
+
+### El usuario pide: Escribe la primera parte de una historia de media extensión
+
+Entregar la primera parte completa, con la vida cotidiana, los personajes, las señales de anomalía y un gancho al final.
+
+### El usuario pide: Pule al estilo light novel
+
+Mantener el significado original, aumentar la calidad visual, los diálogos y la psicología.
+
+### El usuario pide: Generar una ficha de configuración
+
+Usar una estructura clara en markdown, organizando personajes, mundo, trama principal y expresión del tema.
 
 ---
 
 ## Objetivo Final
 
-El objetivo de este skill es permitir que el Agente diseñe personajes que realmente puedan usarse en una historia.
+El objetivo final de este skill es:
 
-Debe ayudar al usuario a obtener una configuración de personaje que tenga:
+Permitir que el agente, al abordar tareas de creación de novelas, no solo genere resúmenes de la trama, sino que pueda escribir un texto de novela en chino con la verdadera sensación de lectura de una light novel japonesa.
 
-- Apariencia.
-- Personalidad.
-- Motivación.
-- Herida.
-- Deseo.
-- Miedo.
-- Relaciones.
-- Crecimiento.
-- Función en la trama.
-- Capacidad para impulsar el desarrollo de la historia.
+Debe lograr:
+
+- Tener personajes.
+- Tener escenas.
+- Tener emociones.
+- Tener diálogos.
+- Tener pistas.
+- Tener ritmo.
+- Tener calidad visual.
+- Tener un eco final.
